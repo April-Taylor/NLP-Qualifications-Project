@@ -32,6 +32,18 @@ Go to **Colab > Settings > Secrets** and add the following:
 - `GitHubToken` – your GitHub Personal Access Token
 - `wandb` – (optional) Weights & Biases key
 - `UMLS` – (optional) UMLS API key
+- `HF_TOKEN` - (optional) HF Token
+
+⚠️ Make sure you have created these API tokens on their respective platforms and added them
+via the Colab Secrets UI (🔑 icon on the left sidebar → Add new secret). This is required for proper setup.
+
+💡 You must also:
+- Have a GitHub account and pre-created repository
+- Use the same GitHub repo name in the USER INPUT section
+- Place your working notebooks into the `/notebooks` subfolder of the Colab Google Drive project path:  
+  `/content/drive/MyDrive/ColabRepos/<REPO_NAME>/notebooks`  
+  to ensure they are included in the Git versioning and pushed to GitHub
+
 
 ## 🧪 Recommended Folder Structure
 
