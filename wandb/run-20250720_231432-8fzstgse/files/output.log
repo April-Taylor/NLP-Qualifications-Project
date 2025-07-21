@@ -1,0 +1,17 @@
+Weights & Biases initialized.
+Logging results to Weights & Biases...
+Logged artifact: umls_annotations
+UMLS Annotation Process Complete. Results stored in umls_df.
+   note_id  subject_id         entity_text  start_char  end_char  umls_cui  \
+0      539       27616  2 am Blood Glucose        2707      2725  C0020456
+1      540       27616  2 am Blood Glucose        2707      2725  C0020456
+2      541       27616  2 am Blood Glucose        2707      2725  C0020456
+3      542       27616  2 am Blood Glucose        2707      2725  C0020456
+4      543       27616  2 am Blood Glucose        2707      2725  C0020456
+
+       umls_name    score concept_label
+0  Hyperglycemia  0.75183  Hypoglycemia
+1  Hyperglycemia  0.75183  Hypoglycemia
+2  Hyperglycemia  0.75183  Hypoglycemia
+3  Hyperglycemia  0.75183  Hypoglycemia
+4  Hyperglycemia  0.75183  Hypoglycemia

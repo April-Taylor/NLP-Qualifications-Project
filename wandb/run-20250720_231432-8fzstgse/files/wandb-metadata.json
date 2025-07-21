@@ -1,0 +1,41 @@
+{
+  "os":  "Linux-6.1.123+-x86_64-with-glibc2.35",
+  "python":  "CPython 3.11.13",
+  "startedAt":  "2025-07-20T23:14:32.043502Z",
+  "program":  "Revised_Paired_MIMIC_NLP_ATaylor_Project.ipynb",
+  "codePath":  "Revised_Paired_MIMIC_NLP_ATaylor_Project.ipynb",
+  "codePathLocal":  "Revised_Paired_MIMIC_NLP_ATaylor_Project.ipynb",
+  "git":  {
+    "remote":  "https://github.com/April-Taylor/NLP-Qualifications-Project.git",
+    "commit":  "7cb1c7832c462e21e09f8a03df4d3c3c014f553f"
+  },
+  "email":  "taylorad@iu.edu",
+  "root":  "/content/drive/MyDrive/ColabRepos/NLP-Qualifications-Project",
+  "host":  "ee0a959d42c1",
+  "executable":  "/usr/bin/python3",
+  "colab":  "https://colab.research.google.com/notebook#fileId=1oa9dKzghD4CBa-0-2iDkhP6TsBWKLoLH",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "gpu":  "Tesla T4",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "253055008768",
+      "used":  "49012387840"
+    }
+  },
+  "memory":  {
+    "total":  "54752948224"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Tesla T4",
+      "memoryTotal":  "16106127360",
+      "cudaCores":  2560,
+      "architecture":  "Turing",
+      "uuid":  "GPU-bd4bac9f-6356-10c6-e8ca-a58c7ac9b721"
+    }
+  ],
+  "cudaVersion":  "12.4",
+  "writerId":  "kb73ymeczh6hzmljgcka8rzj47w8ege9"
+}
