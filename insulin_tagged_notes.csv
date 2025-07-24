@@ -1,0 +1,2745 @@
+ROW_ID,LINKED_CUIS,TEXT,tags
+15691,"[('C0557854', 0.9285425543785095), ('C0543467', 0.990713357925415), ('C0205438', 0.9828050136566162), ('C3816723', 0.9996994137763977), ('C0041701', 0.9652799367904663), ('C0041701', 0.9652799367904663), ('C1442455', 0.995434582233429), ('C4517526', 0.9881490468978882), ('C0042313', 0.9809921979904175), ('C0057144', 0.9757198691368103), ('C0663241', 0.9481512308120728), ('C1547061', 0.9924799203872681), ('C0332173', 0.9967988729476929), ('C4517694', 0.9948222637176514), ('C0006938', 0.9931647777557373), ('C0013404', 0.9728527665138245), ('C1047251', 0.9932531118392944), ('C1418650', 0.9585727453231812), ('C0007082', 0.9903714656829834), ('C0085096', 0.9841073155403137), ('C0031809', 0.9019078612327576), ('C0008114', 0.9830036163330078), ('C0205438', 0.9553108811378479), ('C0038951', 1.0), ('C0012582', 0.9999046921730042), ('C0489484', 0.9676731824874878), ('C0231957', 0.9929232597351074), ('C0205435', 0.9855308532714844), ('C0205448', 1.0), ('C0205438', 0.9828050136566162), ('C0205439', 0.9737862348556519), ('C0205438', 0.9828050136566162), ('C0205435', 0.9855308532714844), ('C0205449', 1.0), ('C0009545', 0.9882369637489319), ('C1710361', 0.9780623316764832), ('C0205435', 0.9855308532714844), ('C0022716', 0.9968141913414001), ('C0085805', 0.989087700843811), ('C4517694', 0.9948222637176514), ('C0085805', 0.989087700843811), ('C4517503', 0.9942066669464111), ('C0085805', 0.989087700843811), ('C1442451', 0.9987476468086243), ('C0205438', 0.9553108811378479), ('C0042313', 0.9809921979904175), ('C0250482', 0.9791693687438965), ('C0015915', 0.9742531180381775), ('C0005824', 0.9979794025421143), ('C0004057', 0.9944140315055847), ('C0332297', 0.9934467077255249), ('C0205435', 0.9855308532714844), ('C0004057', 0.9944140315055847), ('C0332173', 0.9872916340827942), ('C4321486', 0.9974575042724609), ('C0332173', 0.9872916340827942), ('C0332173', 0.9872916340827942), ('C0332173', 0.9872916340827942), ('C0633084', 0.9788231253623962), ('C0332173', 0.9872916340827942), ('C0205447', 1.0), ('C0205447', 0.9757283926010132), ('C0205458', 0.9979794025421143), ('C0205448', 1.0), ('C0205456', 0.9997245073318481), ('C0030858', 0.9981694221496582), ('C0205449', 1.0), ('C0205456', 0.9997245073318481), ('C0030858', 0.9981694221496582), ('C0038951', 1.0), ('C0205451', 1.0), ('C0250482', 0.9791693687438965), ('C0205454', 0.9713851809501648), ('C0205452', 1.0), ('C0907402', 0.9757837653160095), ('C1704407', 0.9994568228721619), ('C1704407', 0.9701128005981445), ('C1704407', 0.9994568228721619), ('C0205453', 1.0), ('C0907402', 0.9757837653160095), ('C1704407', 0.9994568228721619), ('C3816724', 0.9470660090446472), ('C3816724', 0.9993677139282227), ('C0205454', 1.0), ('C0025598', 0.936187207698822), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205455', 1.0), ('C0205447', 0.9757283926010132), ('C0205456', 0.9997245073318481), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0205449', 1.0), ('C0205457', 0.9962367415428162), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0205448', 1.0), ('C0205458', 0.9979794025421143), ('C0965129', 0.9427929520606995), ('C0205447', 0.9757283926010132), ('C0227048', 0.9985483288764954), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0227051', 0.9983566999435425), ('C0216784', 0.9761476516723633), ('C0205447', 0.9757283926010132), ('C0227052', 0.9994271993637085), ('C0025859', 0.9727950692176819), ('C1827665', 0.9993677139282227), ('C0444500', 0.9945617318153381), ('C0205448', 1.0), ('C0227053', 0.9986576437950134), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0038951', 1.0), ('C0205447', 1.0), ('C0205448', 1.0), ('C0205449', 1.0), ('C0038951', 1.0), ('C0085096', 0.9841073155403137), ('C0250482', 0.9791693687438965), ('C0042313', 0.9809921979904175), ('C0205438', 0.9553108811378479), ('C0250482', 0.9791693687438965), ('C0042313', 0.9809921979904175), ('C0042313', 0.9809921979904175), ('C0013845', 0.9790200591087341), ('C0009555', 0.9881873726844788), ('C2237045', 0.9863856434822083), ('C0332174', 0.9744841456413269), ('C0205435', 0.9855308532714844), ('C0585027', 0.9741065502166748), ('C0205457', 0.9962367415428162), ('C0250482', 0.9791693687438965), ('C0042313', 0.9809921979904175), ('C0310370', 0.9873723387718201)]","Admission Date:  [**2108-10-23**]              Discharge Date:   [**2108-10-31**]
+
+Date of Birth:  [**2058-7-14**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamides)
+
+Attending:[**First Name3 (LF) 759**]
+Chief Complaint:
+- cellulitis of right lower extremity
+- sepsis
+
+Major Surgical or Invasive Procedure:
+- placement of RIJ CVL
+- Podiatry surgery ([**2108-10-29**]) - Resection of fourth metatarsal
+head osteomyelitis right foot.
+
+
+History of Present Illness:
+50 yo F with history of IDDM, CAD, [**Last Name (un) 24206**] [**Last Name (un) 24206**] disease and known
+ulcer and cellulits of RLE presented to the ED with 2 days of
+RLE cellulitis with fevers to 103 last night. The patient has
+had an ulcer on the plantar aspect of her R foot since [**Month (only) 958**].
+She has had recurrent episodes of cellulitis requiring treatment
+on multiple occasions with Vancomycin, Daptomycin and Linezolid.
+10 days prior to this admission, she had just finished a 10 day
+course of daptomycin. She notes that her cellulitis infections
+improve with antibiotics, but flare once she is off the
+antibiotics.
+.
+On day of admission, the patient noted worsening erythema and
+tenderness of her right leg. On arrival to the ED, her SBP 86 on
+arrival and she had a lactate 3.6 and WBC 19. She denied blurry
+vision, lightheadedness, CP, SOB, abdominal pain.
+
+
+Past Medical History:
+* Moyamoya disease
+* IDDM
+* HTN
+* CAD, s/p CABG (LIMA to LAD, SVG to OM, SVG to PDA/PLB) on
+[**2104-8-21**]; stents in SVG-OM and LCx ostium on [**2104-8-24**]
+* h/o lung carcinoma of the right lower lobe.
+* seizure disorder
+* OSA
+* s/p Ext Carotid-Int Carotid bypass [**2102**]
+* s/p right CEA in [**2101**]
+* multiple strokes in [**2093**], [**2094**]
+* PVD
+
+Social History:
+Smokes tobacco. EtOH/drugs. Married. Has financial issues with
+obtaining medication. She is on disability.
+
+
+Family History:
+Members with CAD and DM
+
+Physical Exam:
+On admit:
+T:100.0 BP:106/51 P:94 RR: O2 sats:99% on 2L NC
+Gen: Well appearing obese female in NAD
+HEENT: OP clear. Chin with surgical scar
+Neck: Supple
+CV: +s1+s2 +SEM
+Resp: CTA B/L No RRW
+Abd: Benign
+Ext: RLE erythema from foot to below knee. Open 0.5cm ulcer on
+plantar aspect of 4th digit.  + [**Year (4 digits) 17394**] DP and PT
+bilaterally
+
+
+Pertinent Results:
+Labs from Admit:
+[**2108-10-23**] 01:20PM BLOOD WBC-19.3*# RBC-3.92* Hgb-10.8* Hct-31.9*
+MCV-82 MCH-27.7 MCHC-33.9 RDW-17.4* Plt Ct-268
+[**2108-10-23**] 01:20PM BLOOD Neuts-90.6* Bands-0 Lymphs-7.1*
+Monos-1.7* Eos-0.4 Baso-0.2
+[**2108-10-23**] 01:20PM BLOOD PT-14.0* PTT-27.6 INR(PT)-1.2*
+[**2108-10-23**] 01:20PM BLOOD Glucose-141* UreaN-17 Creat-1.2* Na-137
+K-4.2 Cl-99 HCO3-24 AnGap-18
+[**2108-10-23**] 01:20PM BLOOD ALT-11 AST-14 AlkPhos-69 Amylase-29
+TotBili-0.4
+[**2108-10-23**] 01:20PM BLOOD Lipase-15
+[**2108-10-23**] 01:20PM BLOOD Calcium-9.0 Phos-2.4*# Mg-1.5*
+[**2108-10-23**] 01:20PM BLOOD CRP-194.6*
+[**2108-10-23**] 01:37PM BLOOD Lactate-3.6*
+[**2108-10-23**] 04:31PM BLOOD Lactate-1.0
+[**2108-10-23**] 05:21PM BLOOD Lactate-0.8
+
+Studies:
+CHEST PORT. LINE PLACEMENT  [**2108-10-23**] 4:58 PM
+Reason: line placement
+IMPRESSION: AP chest compared to [**10-23**], 4:08 p.m.
+
+Right PIC line has been removed, new right internal jugular line
+ends in the upper SVC and a new left PIC line ends just above
+the superior cavoatrial junction. Lateral aspect of the left
+lower chest is excluded from the study, other pleural surfaces
+are unremarkable. Heart remains top normal size and there is
+mild engorgement of pulmonary vasculature but no edema or
+interval mediastinal widening or indication of pneumothorax.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3904**]
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3891**]
+
+ANKLE (2 VIEWS) RIGHT  [**2108-10-23**] 4:59 PM
+
+The ankle mortise is congruent without evidence of fracture.
+
+Osteotomies involving the fourth and fifth metatarsals as well
+as resection of the distal fourth ray are unchanged from the
+previous exam. No cortical destruction is seen. There is soft
+tissue swelling around the ankle and foot, likely representing
+edema/cellulitis.
+
+IMPRESSION: Soft tissue swelling likely indicating cellulitis.
+No radiographic evidence of osteomyelitis.
+
+DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+Approved: TUE [**2108-10-23**] 7:01 PM
+
+ECHO [**2108-10-24**]
+Conclusions:
+The left atrium is moderately dilated. The right atrium is
+moderately dilated.  No atrial septal defect is seen by 2D or
+color Doppler. The estimated right atrial pressure is 5-10 mmHg.
+Left ventricular wall thicknesses are normal.  The left
+ventricular cavity size is normal. Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. Overall left ventricular systolic function is normal
+(LVEF>55%). There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) are mildly thickened. No masses or
+vegetations are seen on the aortic valve. There is a minimally
+increased gradient consistent with minimal aortic valve
+stenosis. No aortic regurgitation is seen. The mitral valve
+leaflets are moderately thickened. A mass or vegetation on the
+mitral valve cannot be excluded. There is probably moderate
+valvular mitral stenosis (in part due to the significant MAC).
+Mild (1+) mitral regurgitation is seen. [Due to acoustic
+shadowing, the severity of
+mitral regurgitation may be significantly UNDERestimated.] The
+tricuspid valve leaflets are mildly thickened. There is severe
+pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2106-12-28**],
+the degree of pulmopnary hypertension detected has increased. If
+clinically indicated, a TEE is recommended to exclude
+endocarditis and to determine the degree of valvular mitral
+stenosis.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD on [**2108-10-24**] 15:52.
+
+[**Location (un) **] PHYSICIAN:
+
+Labs on discharge:
+
+Brief Hospital Course:
+50 yo F h/o recurrent RLE cellulitis, IDDM, CAD s/p CABG
+presents with RLE cellulitis and sepsis. On presentation, SBP
+was 86, with lactate 3.6, WBC 19. SBP improved to 120s w/ 2L IVF
+and her lactate dropped to 1.4. After 4-5th L IVF, SBP dropped
+to the 80s. Was started on pressors and abx regimen of
+daptomycin and vancomycin; transferred to MICU. In MICU pressors
+weaned off, minimal maint IVF started. Was continued on
+daptomycin and vancomycin, which were later changed to
+piperacillin-tazobactam and vancomycin.  The L PICC line, which
+the patient had had for 1 month, was pulled and tip sent for
+culture. New PICC line placed, pt transferred out to floor.
+[**Last Name (un) **] was consulted for blood sugar management. Podiatry was
+consulted for surgery once cellulitis improved. ID was consulted
+regarding antibiotic regimen.
+.
+# RLE cellulitis: Pt's erythema and tenderness resolving.
+Underwent right 4th metatarsal head resection by podiatry on
+[**2108-10-30**]. Bone samples were sent for microbiology and pathology
+examination. Pt had bandage takedown by podiatry on POD #2,
+cleared for discharge. Sent home on Vancomycin and Zosyn, to be
+continued for 2 full weeks post-op, with possible extension to
+4-week course pending micro/path results from biopsy specimen
+sent from surgery.
+.
+# Recent sepsis: Pt stabilized after IVF, continued to have
+stable BP while on medicine wards.
+.
+# CAD: Pt was without symptoms of CAD during her hospital stay.
+She was continued on her home regimen of ASA, statin, BB, and
+ACE-I.
+.
+# IDDM: Pt's FSBS were uncontrolled, likely given her infection
+and then surgical course, [**First Name8 (NamePattern2) **] [**Last Name (un) **] was consulted regarding
+adjustments to her home diabetes regimen. After adjustments were
+made during the hospitalization, [**Last Name (un) **] recommended changing her
+back to her home insulin regimen in preparation for discharge.
+She had appropriate control of her FSBS on this home regimen
+after her surgery and pre-discharge.
+.
+
+
+Medications on Admission:
+ Insulin: 100U glargine QAM, 60U QPM + Humalog SS
+Metformin 1000mg [**Hospital1 **]
+ASA 325mg daily
+lyrica 150mg TID
+wellbutrin 150mg [**Hospital1 **]
+crestor 20mg daily
+niacin 1000mg daily
+diovan 150mg daily
+plavix 75mg daily
+allergra Prn
+vicodin prn
+metoprolol 12.5mg [**Hospital1 **]
+
+
+Discharge Medications:
+1. Vancomycin 1,000 mg Recon Soln Sig: One (1) gram Intravenous
+once a day for 12 (twelve) days.
+Disp:*12 bags* Refills:*0*
+2. Heparin Flush 10 unit/mL Kit Sig: 10 (ten) cc Intravenous
+once a day: and PRN per line care protocol.
+Disp:*30 flushes* Refills:*2*
+3. Saline Flush 0.9 % Syringe Sig: 10 (ten) cc Injection once a
+day: and PRN per line care protocol.
+Disp:*30 flushes* Refills:*2*
+4. Line Care
+Line Care per protocol
+5. Zosyn 4.5 g Recon Soln Sig: 4.5 grams Intravenous every eight
+(8) hours for 12 days.
+Disp:*12 bags* Refills:*0*
+6. Insulin Glargine 100 unit/mL Cartridge Sig: One Hundred (100)
+units Subcutaneous qAM (every morning).
+7. Insulin Glargine 100 unit/mL Cartridge Sig: Sixty (60) units
+Subcutaneous qPM (every evening).
+8. Metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+9. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. Pregabalin 75 mg Capsule Sig: Two (2) Capsule PO TID (3
+times a day).
+11. Bupropion 75 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+12. Rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+13. Niacin 1,000 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO once a day.
+14. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+15. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+16. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed for itchiness.
+Disp:*1 bottle* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] Home Infusion
+
+Discharge Diagnosis:
+Primary Diagnoses:
+1. RLE cellulitis
+2. sepsis
+3. diabetes
+4. PVD
+Secondary Diagnoses:
+- CAD s/p CABG
+- h/o lung cancer
+- h/o CVAs
+
+
+Discharge Condition:
+afebrile, vital signs stable, tolerating POs, with improving
+pain and resolving infection in the right leg, bandaged and in
+post-op shoe by podiatry.
+
+
+Discharge Instructions:
+You were admitted to [**Hospital1 69**] on
+[**2108-10-23**], for an infection of your right leg
+(cellulitis).  You were admitted to the MICU for low blood
+pressures that required vasopressors, and you were started on
+Zosyn and Vancomycin as antibiotic treatment for your infection.
+ In the MICU, you were weaned off the vasopressors and
+maintained on IV fluids.  Multiple X-rays of your right leg and
+feet showed no evidence of infection in the bone
+(osteomyelitis).  An echocardiogram was done, which showed no
+evidence of an infection in your heart (endocarditis).  Your
+left PICC line was changed, and podiatry was consulted for
+surgery of the right foot wound once your infection improved.
+You were taken to the operating room for debridement of the
+wound, and the head of the 4th metatarsal bone was removed and
+sent for microbiology and pathology.  You continued to do well,
+and were discharged on a 2-week course of Zosyn and Vancomycin
+with close follow-up.
+.
+During your hospital stay, your blood sugars were also
+poorly-controlled, so the [**Last Name (un) **] diabetes team was consulted to
+help manage your blood sugars.  By the time your were ready for
+discharge, your blood sugars were under good control on your
+home insulin regimen.
+.
+If you develop worsening foot pain, redness, swelling, or
+warmth, or if you develop fevers or chills, you should call your
+doctor immediately and return to the emergency room.
+.
+
+
+Followup Instructions:
+You will need to have your Vancomycin trough, ESR, and CRP
+checked by the VNA on [**2108-10-31**], with the results sent
+to your PCP.  [**Name10 (NameIs) **] will also need to have your CBC, Chem 7, and
+LFTs checked once weekly while you are on these antibiotics,
+with the results also to be sent to your PCP.  [**Name10 (NameIs) **] will need to
+follow-up with your primary care doctor, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at
+[**Location (un) 5164**], on Wednesday, [**11-7**], at 10:15AM.
+You will also need to follow-up with your Infectious Disease
+doctor, Dr. [**Last Name (STitle) **], within the next two weeks.  Dr. [**Last Name (STitle) **] should
+follow-up on the microbiology and pathology from [**Hospital1 18**] to make
+sure that a two-week course of Zosyn or Vancomycin is sufficient
+to treat your infection.  Please call Dr.[**Name (NI) 24408**] office to make
+this appointment tomorrow.
+.
+From a podiatry standpoint, you will need dressing changes every
+other day by VNA, with betadyne and dressing to incision.  You
+should also be partial-weight-bearing on the right foot, in the
+post-op shoe.
+.
+
+
+
+",['insulin']
+1624569,"[('C0262512', 0.9909442663192749), ('C0019994', 0.8605495095252991), ('C0243031', 0.9930641055107117), ('C3842582', 0.9834603071212769), ('C3842582', 0.9834603071212769), ('C1418370', 0.9909812211990356), ('C0243031', 0.9930641055107117), ('C0205451', 1.0), ('C0203108', 0.9663278460502625), ('C1704519', 0.9968022704124451), ('C0017168', 0.9832212328910828), ('C0000726', 0.9657635688781738), ('C0006938', 0.9931647777557373), ('C0017887', 0.9857536554336548), ('C0017887', 0.9857536554336548), ('C0026549', 0.9835397005081177), ('C0699142', 0.9964067339897156), ('C1552217', 0.9861634373664856), ('C1553561', 0.9953500032424927), ('C0023264', 0.9819374680519104), ('C0018787', 0.9875530004501343), ('C0004057', 0.9944140315055847), ('C0907402', 0.9811837673187256), ('C1275563', 0.9987806677818298), ('C0587117', 0.9769662618637085), ('C0528249', 0.9912480711936951), ('C0796068', 0.999112606048584), ('C0120446', 0.9706078767776489), ('C0000726', 0.9657635688781738), ('C0011135', 0.9932094216346741), ('C0585028', 0.9626555442810059)]","CCU progress/admit note 7p-7a
+
+HPI: 58yo male was admitted to [**Hospital6 **] [**9-30**] w/ epigastric discomfort and SSCP - pt was cathed which showed 3VD - 95% RCA, 90% LAD and 90% LCx. Sent to [**Hospital1 3**] for PCI intervention, but in holding area had SSCP [**5-8**] - rec'd s/l NTGx2, Lopressor 5mg IVP and NTG gtt - BP dropped 60s - Fluid Bolus 400cc NS. No EKG changes. Evaluated by Dr [**Last Name (STitle) **] and sent to CCU for monitoring - no cath done at [**Hospital1 3**] - CT surgery consulted. Plan for CABG Thurs or Friday this week.
+PMHX: HTN, IDDM, hyperlipidemia, CRI, GERD, smoker, polysubstance abuse (+tox screen on admit to [**Hospital3 **] +benzos + cocaine [**9-30**]). Prior to admit to [**Hospital3 **] pt stated he was symptomatic intermittently for abd/epigastric pain and possible CP associated with nausea and vomiting for up to a month.
+
+EVENTS: Titration of Nitroglycerin drip - started Lopressor 25mg po last night- able to wean off Nitroglycerin this morning.
+
+NEURO: pleasant and cooperative. Given Morphine 1mg IVP x4 doses for c/o of headache after tylenol had no effect. Given ativan 0.5mg for sleep. Pt finally fell asleep after 230am. Pt very restless late evening after he was allowed to move around in bed. (sheaths pulled post cath at 3pm yesterday - allowed to move after 9pm). patients son did call him last evening.
+
+ID: afebrile.
+
+RESP: LS clear, dim. O2 2L n/c sats >96%. while sleeping pt pulled off n/c RA sats 92-94%. no resp distress.
+
+CARDIAC: SR 60s-80s. SBP 100s-160. Titrated Nitro up to 0.88mcg/k/min - weaned to off at 5am. Tolerating Lopressor 25mg last evening - to increase am dose. on ASA - given lopid last evening, but now d/c'd and to start Lipitor this evening. R groin cath site D+I - dsd. palpable pulses.
+
+ENDO: given 50units Glargine at HS. pt ate late in evening and was covered with humalog sliding scale at midnite with 14units Humalog for a BS of 360s. am FS pnd.
+
+GI/GU: voiding in good amts in urinal. abd soft +BS. no BM overnite. ate very well last evening - 2 sandwiches, a muffin, serving of meatloaf and mashed potatoes. pt stating ""when you are homeless you kinda have to take your meals as you can, and eat alot when you get them"".
+
+
+PLAN: CXR PA/LAT this morning. ECHO and EKG this morning. social services consult re: homeless situation and polysubstance abuse. pre-op workup for CABG. continue cardiac meds + heparin gtt. FS QID w/ sliding scale coverage. pre-op teaching. emotional support. Ativan prn. Plan for CABG on Thursday or Friday this week.
+
+",['insulin']
+29626,"[('C0543467', 0.990713357925415), ('C1305857', 0.9998897314071655), ('C0446415', 0.999989926815033), ('C0030054', 0.997958779335022), ('C0028407', 0.991128146648407), ('C3817553', 0.9552034735679626), ('C1960093', 0.9881792664527893), ('C0205435', 0.9855308532714844), ('C0205435', 0.9855308532714844), ('C0041701', 0.9652799367904663), ('C4517888', 0.9964450597763062), ('C1512338', 0.9497846961021423), ('C0560008', 0.9997079968452454), ('C0000726', 0.9657635688781738), ('C4517579', 0.98555588722229), ('C4068881', 0.9827755093574524), ('C0030605', 0.9858034253120422), ('C0201617', 0.9576924443244934), ('C0205456', 0.9997245073318481), ('C0205447', 1.0), ('C4068880', 0.9982945919036865), ('C4319566', 0.9977298378944397), ('C0085756', 0.9094852805137634), ('C5444047', 0.9965600371360779), ('C0085756', 0.9695146679878235), ('C3816957', 0.9987627267837524), ('C4319621', 0.9987463355064392), ('C3816450', 0.996116578578949), ('C4068883', 0.9862757921218872), ('C0023901', 0.9617279171943665), ('C4319606', 0.997366726398468), ('C0023901', 0.9617279171943665), ('C4517635', 0.9931145310401917), ('C0205447', 1.0), ('C4517393', 0.9889732003211975), ('C0017887', 0.9256762266159058), ('C0025939', 0.9633074402809143), ('C0007996', 0.9903008341789246), ('C4517523', 0.9821869134902954), ('C4517622', 0.9988710880279541), ('C0205447', 1.0), ('C4517742', 0.9896777272224426), ('C4068883', 0.9862757921218872), ('C1305857', 0.9998897314071655), ('C4284820', 0.9843955039978027), ('C4284820', 0.9843955039978027), ('C4284820', 0.9843955039978027), ('C3842087', 0.9905623197555542), ('C0205448', 1.0), ('C0446417', 0.9998130798339844), ('C0446415', 0.999989926815033), ('C0446908', 0.9857975244522095), ('C0205435', 0.9855308532714844), ('C0205447', 1.0), ('C4284820', 0.9843955039978027), ('C4284820', 0.9843955039978027), ('C0243032', 0.9644299745559692), ('C0205448', 1.0), ('C0446417', 0.9998130798339844), ('C0205449', 1.0), ('C0038951', 1.0), ('C0229427', 0.9842737317085266), ('C0205451', 1.0), ('C0026409', 0.9857982397079468), ('C0205435', 0.9855308532714844), ('C0022716', 0.9968141913414001), ('C0022716', 0.9968141913414001), ('C0205435', 0.9855308532714844), ('C0022716', 0.9968141913414001), ('C0022716', 0.9968141913414001), ('C0442419', 0.9938100576400757), ('C0442419', 0.9938100576400757), ('C0009566', 0.9766035676002502), ('C0205435', 0.9855308532714844), ('C0022716', 0.9968141913414001), ('C0022716', 0.9968141913414001), ('C0205435', 0.9855308532714844), ('C0022716', 0.9968141913414001), ('C0022716', 0.9968141913414001), ('C4319567', 0.9982144236564636), ('C0205447', 1.0), ('C0227059', 0.9999997615814209), ('C0376246', 0.9924980998039246), ('C0009566', 0.9766035676002502), ('C1305857', 0.9998897314071655), ('C0446415', 0.999989926815033), ('C0030054', 0.997958779335022), ('C0028407', 0.991128146648407), ('C3817553', 0.9552034735679626), ('C1960093', 0.9881792664527893), ('C0231832', 0.9454291462898254), ('C0205448', 0.9997637271881104), ('C0205251', 0.8612231016159058), ('C0005790', 0.9679418802261353), ('C0012383', 0.9448363184928894), ('C4284820', 0.9843955039978027), ('C0446417', 0.9998130798339844), ('C1442461', 0.9654527902603149), ('C0020538', 0.8619173169136047), ('C0005824', 0.9979794025421143), ('C0009219', 0.8734050989151001), ('C0009452', 0.932424783706665), ('C0205447', 1.0), ('C0332173', 0.9872916340827942), ('C0004147', 0.980288028717041), ('C0332173', 0.9872916340827942), ('C0205447', 1.0), ('C0332173', 0.9872916340827942), ('C0332173', 0.9872916340827942), ('C0205447', 1.0), ('C0243237', 0.9168816804885864), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205448', 1.0), ('C0205448', 1.0), ('C3816446', 0.968874990940094), ('C3816446', 0.9999806880950928), ('C1292429', 0.9939630031585693), ('C0205449', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205449', 1.0), ('C0038951', 1.0), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0205448', 1.0), ('C0205451', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C1275564', 0.9783115386962891), ('C0205452', 1.0), ('C0205447', 0.9757283926010132), ('C0205448', 1.0), ('C0205453', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205454', 1.0), ('C4761490', 0.9631932973861694), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C4761490', 0.9631932973861694), ('C0205455', 1.0), ('C0700580', 0.965274453163147), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0585325', 0.9906051158905029), ('C0205456', 0.9997245073318481), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0585325', 0.9906051158905029), ('C0205457', 0.9962367415428162), ('C0086620', 0.9795928001403809), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205449', 1.0), ('C0205458', 0.9979794025421143), ('C0717386', 0.8896791338920593), ('C0585325', 0.9906051158905029), ('C0227048', 0.9985483288764954), ('C0205448', 1.0), ('C0205447', 0.9757283926010132), ('C0205448', 1.0), ('C0227051', 0.9983566999435425), ('C0205447', 0.9757283926010132), ('C0205448', 1.0), ('C0227052', 0.9994271993637085), ('C0205447', 0.9757283926010132), ('C0205448', 1.0), ('C0227053', 0.9986576437950134), ('C0795635', 0.9847139120101929), ('C1704407', 0.9994568228721619), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0227054', 0.9987806677818298), ('C1704407', 0.9994568228721619), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0037265', 0.9913879632949829), ('C1442461', 0.9654527902603149), ('C0205447', 1.0), ('C4517898', 0.993722677230835)]","Admission Date:  [**2146-12-26**]              Discharge Date:   [**2147-1-24**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+s/p fall
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+Tracheostomy
+Percutaneous gastrostomy tube placement
+
+History of Present Illness:
+Ms. [**Known lastname **] is a [**Age over 90 **]F with DM, HTN, s/p pacer placement for
+complete heart block transferred to [**Hospital1 18**] on the date of
+admission, s/p a fall 2 days prior to her arrival. In the
+incident, Ms. [**Known lastname **] was vacuuming at home and fell backwards,
+striking her head against toilet.  She denies loss of
+consciousness. A CT head was without acute changes, and the pt
+was noted to be dehydrated and had LLL PNA.  A CT C spine showed
+C2 and C5 laminar fractures, and the pt was transferred to [**Hospital1 18**]
+for neurosurgical evaluation.  At time of transfer, pt
+reportedly had no neuro deficits, was able to move all
+extremities, and c/o neck pain at times. She was initially
+admitted to the wards for ongoing treatment. Shortly after her
+admission, she was noted to have increasing O2 requirements.
+She was tachypneic to the 30s-40s, worse with being woken up.
+Her O2 requirement - initially 94% 4L NC - increased to 93% on
+6L NC, then up to 97-98% on 100% NRB.  At the time of eval, she
+was 95% on 12L and she was transferred to the MICU for closer
+monitoring with hypercarbic and hypoxemic respiratory failure.
+
+
+Past Medical History:
+DM2
+HTN
+complete heart block s/p pacer placement ([**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] trilogy DR[**Last Name (STitle) 71016**],
+[**2138**])
+cerebellar degeneration
+s/p partial thyroidectomy
+
+
+Social History:
+Lives independently, no tobacco or EtOH.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+VS: 96.6  136/74  83  28  95% 12L Venti
+Gen: appears somewhat tachypneic, more with being awakened; is
+sleeping on initial evaluation
+HEENT: neck in C collar
+CV: RRR, nl S1/S2, no murmurs
+Pulm: clear anteriorly, no wheezes or crackles
+Abd: soft, NT/ND, +BS, no masses
+Ext: no c/c/e
+
+
+Pertinent Results:
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2147-1-24**] 03:13AM    11.2* 3.23* 9.3* 28.7* 89 28.9 32.4 15.4
+354
+Source: Line-rt PICC
+  DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas
+[**2147-1-19**] 03:07AM    71.5*   18.0 5.1 4.5* 0.9
+Source: Line-PICC
+RED CELL MORPHOLOGY Hypochr
+[**2147-1-19**] 03:07AM    1+
+Source: Line-PICC
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2147-1-24**] 03:13AM        354
+Source: Line-rt PICC
+[**2147-1-24**] 03:13AM    12.1 33.0   1.0
+Source: Line-rt PICC
+
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2147-1-24**] 03:13AM    80 30* 0.9 142 3.8 99 37* 10
+Source: Line-rt PICC
+  ESTIMATED GFR (MDRD CALCULATION) estGFR
+[**2147-1-19**] 03:07AM    Using this1
+Source: Line-PICC
+1 Using this patient's age, gender, and serum creatinine value
+of 1.2,
+Estimated GFR = 42 if non African-American (mL/min/1.73 m2)
+Estimated GFR = 51 if African-American (mL/min/1.73 m2)
+For comparison, mean GFR for age group 70+ is 75 (mL/min/1.73
+m2)
+GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure
+  ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili
+[**2146-12-28**] 05:16AM    9 10 207   49 51 0.6
+LFT ADDED [**12-28**] @ 09:12
+OTHER ENZYMES & BILIRUBINS Lipase
+[**2146-12-28**] 05:16AM    36
+LFT ADDED [**12-28**] @ 09:12
+CPK ISOENZYMES CK-MB MB Indx cTropnT
+[**2146-12-27**] 04:15AM    21* 2.7 <0.011
+1 <0.01
+CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI
+  CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+
+[**2147-1-24**] 03:13AM          10.8* 2.9 2.4
+Source: Line-rt PICC
+HEMATOLOGIC calTIBC Ferritn TRF
+[**2147-1-22**] 02:22AM    247* 201* 190*
+Source: [**Name (NI) 71017**]
+THYROID PTH
+[**2147-1-19**] 03:07AM    97*
+Source: Line-PICC
+  ANTIBIOTICS Vanco
+[**2147-1-22**] 07:27AM    15.21
+Source: Line-Right PICC; Vancomycin @ Trough
+1 UPDATED REFERENCE RANGE AS OF [**2146-7-27**] == REPRESENTS
+THERAPEUTIC TROUGH
+  LAB USE ONLY GreenHd HoldBLu RedHold
+[**2147-1-20**] 04:50PM        HOLD
+
+Blood Gas
+  BLOOD GASES Type Temp Rates Tidal V PEEP FiO2 O2 Flow pO2 pCO2
+pH calTCO2 Base XS Intubat Vent Comment
+[**2147-1-18**] 01:00PM    [**Last Name (un) **] 37.5               7.46*
+  WHOLE BLOOD, MISCELLANEOUS CHEMISTRY Glucose Lactate
+[**2146-12-30**] 02:26PM      0.9
+[**2146-12-30**] 08:08AM      0.6
+  HEMOGLOBLIN FRACTIONS ( COOXIMETRY) O2 Sat
+[**2147-1-2**] 03:03PM    94
+  CALCIUM freeCa
+[**2147-1-18**] 01:00PM    1.29
+
+
+CERVICAL SPINE CT WITHOUT INTRAVENOUS CONTRAST:
+
+The bones are severely demineralized. There is a comminuted
+fracture of the vertebral body of C2, which extends through the
+base of the odontoid (odontoid fracture type III, which is
+unstable). The odontoid fragment is displaced anteriorly by 4
+mm. A small posterior fragment of C2 vertebral body is displaced
+into the spinal canal (series 2, images 20-21) without any
+significant narrowing of the spinal canal. The fracture extends
+into the left vertebral foramen.
+
+There are minimally displaced fractures of the right and left
+lamina and the spinous process of C7. There is a nondisplaced
+fracture of the left lamina of T3. No definite fractures are
+identified at C5, although severe demineralization limits
+evaluation.
+
+Mild loss of vertebral body height, disc space narrowing,
+degenerative endplate changes and facet arthrosis is present at
+multiple levels. Disc/osteophyte complexes at C3/4, C4/5, and
+C5/6 result in mild narrowing of the spinal canal.
+
+The left mastoid is underpneumatized compared to the right and
+partially opacified. There is a retention cyst in the right
+maxillary sinus. The patient is intubated. The thyroid gland is
+diffusely enlarged and heterogeneous with multiple nodules.
+
+Findings and recommendations were discussed with Dr. [**First Name8 (NamePattern2) 698**]
+[**Last Name (NamePattern1) **] at 4:00 p.m. on [**2146-12-27**].
+
+IMPRESSION:
+1. Comminuted C2 fracture involving the odontoid (type III
+odontoid fracture), which is unstable. The fracture extends
+through the left vertebral foramen. If there is a clinical
+concern for vertebral dissection, MRA may be performed for
+further evaluation.
+2. Fracture of bilateral posterior elements of C7.
+3. Fracture of left T3 lamina.
+4. Partially opacified left mastoid air cells.
+5. Diffusely enlarged and nodular thyroid. Further evaluation by
+ultrasound is recommended, if not performed previously.
+
+OPERATIVE REPORT
+
+[**Last Name (LF) **],[**First Name3 (LF) **]
+Signed Electronically by [**Last Name (LF) **],[**First Name3 (LF) **] on MON [**2147-1-9**]
+9:11 AM
+
+
+Name:  [**Known lastname **], [**Known firstname **] [**Last Name (NamePattern1) **]
+Unit No:  [**Numeric Identifier 71018**]
+Service:  MED
+Date:  [**2147-1-5**]
+Sex:  F
+Surgeon:  [**First Name8 (NamePattern2) **] [**Name8 (MD) **], [**MD Number(1) 19187**]
+
+ASSISTANT:  [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD
+
+PREOPERATIVE DIAGNOSIS:  Respiratory failure.
+
+POSTOPERATIVE DIAGNOSIS:  Bronchoscopic-guided tracheostomy
+tube placement.
+
+PROCEDURE:  Flexible bronchoscopy with therapeutic aspiration of
+secretions.
+
+INDICATION FOR PROCEDURE:  Tracheostomy tube placement and
+therapeutic aspiration of secretions.
+
+DESCRIPTION OF PROCEDURE:  After informed consent was
+obtained, Ms. [**Known lastname **] was prepped with lidocaine applied to the
+endotracheal tube. A flexible bronchoscope was introduced
+through the ET tube and into the airway. There were a
+moderate amount of secretions throughout the airways which were
+therapeutically aspirated. There were no endobronchial lesions
+up
+to the subsegmental levels. Bronchoscopic imaging was then
+performed in order to guide a percutaneous tracheostomy tube
+insertion.  After the trachesotomy, a minimal amount of bloody
+secretions were removed with the bronchoscope.
+
+COMPLICATIONS:  None.
+OPERATIVE REPORT
+
+Name:  [**Known lastname **], [**Known firstname **] [**Last Name (NamePattern1) **]
+Unit No:  [**Numeric Identifier 71018**]
+Service:  MED
+Date:  [**2147-1-5**]
+Sex:  F
+Surgeon:  [**First Name8 (NamePattern2) **] [**Name8 (MD) **], [**MD Number(1) 19187**]
+
+ASSISTANT:  [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD
+
+PREOPERATIVE DIAGNOSIS:  Respiratory failure.
+
+POSTOPERATIVE DIAGNOSIS:  Respiratory failure.
+
+PROCEDURE:  Percutaneous gastrostomy tube placement.
+
+INDICATIONS FOR PROCEDURE:  Need for long-term nutrition.
+
+DESCRIPTION OF PROCEDURE:  After informed consent was
+obtained, the patient was given a single dose of vancomycin 1
+gram IV, and was placed on a 45-degree angle. The patient was
+already sedated with propofol and mechanical ventilation. The
+gastroscope was inserted through the oral cavity and passed
+through the esophagus into the stomach. The mucosa was
+entirely normal with no obvious lesions.
+
+The skin over the left upper quadrant was palpated, and a
+sharp indentation with 1 finger was seen, as well as
+excellent transillumination. The skin was prepped with
+chlorhexidine and draped in the usual sterile fashion. Local
+anesthesia was employed with 1% lidocaine at the left upper
+quadrant site. An Angiocatheter was inserted under direct
+vision, and a snare was lassoed and pulled back through the
+esophagus and into the oral cavity. A 20 French PEG tube was
+loaded and pulled back through the oral cavity in the
+esophagus and through the abdominal wall. The gastroscope was
+reinserted to confirm excellent placement with a mushroom cap
+against the abdominal wall cavity. Bolsters were placed at 3
+cm to secure the PEG tube.
+
+COMPLICATIONS:  None.
+
+
+Brief Hospital Course:
+Ms. [**Known lastname **] is a [**Age over 90 **]F with DM, HTN, s/p pacer placement for
+complete heart block transferred to [**Hospital1 18**] on the date of
+admission, s/p a fall 2 days prior to her arrival. In the
+incident, Ms. [**Known lastname **] was vacuuming at home and fell backwards,
+striking her head against toilet.  She denies loss of
+consciousness. A CT head was without acute changes, and the pt
+was noted to be dehydrated and had LLL PNA.  A CT C spine showed
+C2 and C5 laminar fractures, and the pt was transferred to [**Hospital1 18**]
+for neurosurgical evaluation.  At time of transfer, pt
+reportedly had no neuro deficits, was able to move all
+extremities, and c/o neck pain at times. She was initially
+admitted to the wards for ongoing treatment. Shortly after her
+admission, she was noted to have increasing O2 requirements.
+She was tachypneic to the 30s-40s, worse with being woken up.
+Her O2 requirement - initially 94% 4L NC - increased to 93% on
+6L NC, then up to 97-98% on 100% NRB.  At the time of eval, she
+was 95% on 12L and she was transferred to the MICU for closer
+monitoring with hypercarbic and hypoxemic respiratory failure.
+.
+Her MICU course, by problem:
+[**Age over 90 **]F with DM, HTN, s/p pacer, with hypoxemic and hypercarbic
+respiratory failure.
+.
+#  Respiratory Failure - Ms. [**Known lastname **] had a persistent ventilator
+requirement throughout her MICU stay, eventually requiring
+placement of a tracheostomy tube and percuteaneous gastrostomy
+tube. CT scans of the chest showed pleural effusions and she
+completed two separate courses of antibiotics
+(vancomycin/cefepime) for evolving pneumonias. She remained
+intermittently dependent upon ventilator support and now
+tolerates trach collar for longer periods of time, particularly
+in the daytime hours. Bronchoscopy did not show cause for her
+persistent requirement. She will need to continue antibiotics
+for a total 14 day course (started [**2147-1-11**]).
+.
+#  Low grade fever and leukocytosis-  Felt to be related to her
+bacteremia, likely stemming from pneumonia. She grew coag
+negative staph from her blood cultures on [**2147-1-11**]. She was
+treated with vancomycin and cefepime. A BAL grew only
+oropharyngeal organisms. Urine cx on [**1-12**] +yeast
+.
+#  C-Spine fractures - Ms. [**Known lastname **] [**Last Name (Titles) 18095**] a C2 fracture,
+extending up to the odontoid, and a C7 fracture in her initial
+fall. She was evaluated by neurosurgery and felt not to be a
+candidate for halo placement given her age and comorbidities.
+She was placed in a hard cervical collar, which will remain for
+3 months from the date of injury. She will need to follow up
+with Dr. [**Last Name (STitle) **] as an outpatient, approximately 4 weeks from
+discharge. A Head CT was negative for intracranial injury.
+.
+#  chronic kidney disease - Baseline Cr not known- stable.
+.
+#  DM2 - Pt is on oral hypoglycemics at home (metformin), which
+were held during her hospitalization to allow for better control
+of her glucose levels. She may be restarted on her meds as an
+outpatient.
+.
+#  HTN - Her home regimen antihypertensives were held and IV
+medications were used as needed for BP control.
+.
+#  Code - Ms. [**Known lastname **] is full code, this was confirmed with son
+[**Name (NI) **].
+.
+#  Communication - son [**Name (NI) **] [**Name (NI) **] [**Telephone/Fax (1) 71019**]
+
+Medications on Admission:
+accupril 40mg daily
+atenolol 50mg daily
+diazide 1 tab po daily
+aspirin 325mg daily
+metformin 1g [**Hospital1 **]
+
+
+Discharge Medications:
+1. Docusate Sodium 50 mg/5 mL Liquid [**Hospital1 **]: One (1)  PO BID (2
+times a day).
+2. Lactulose 10 g/15 mL Syrup [**Hospital1 **]: Thirty (30) ML PO Q8H (every
+8 hours) as needed.
+3. Heparin (Porcine) 5,000 unit/mL Solution [**Hospital1 **]: One (1)
+injection Injection TID (3 times a day).
+4. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) [**Hospital1 **]: Two (2)
+Tablet, Delayed Release (E.C.) PO BID (2 times a day) as needed.
+
+5. Fentanyl 50 mcg/hr Patch 72HR [**Hospital1 **]: One (1) Patch 72HR
+Transdermal Q72H (every 72 hours): hold for sedation.
+6. Haloperidol 1 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a
+day) as needed.
+7. Acetaminophen 160 mg/5 mL Solution [**Hospital1 **]: One (1) dose PO Q4-6H
+(every 4 to 6 hours) as needed.
+8. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+9. Ipratropium Bromide 0.02 % Solution [**Last Name (STitle) **]: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+10. Albuterol Sulfate 0.083 % Solution [**Last Name (STitle) **]: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+11. Miconazole Nitrate 2 % Powder [**Last Name (STitle) **]: One (1) Appl Topical TID
+(3 times a day) as needed.
+12. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol [**Last Name (STitle) **]: [**11-29**]
+Puffs Inhalation Q6H (every 6 hours) as needed.
+13. Camphor-Menthol 0.5-0.5 % Lotion [**Month/Day (2) **]: One (1) Appl Topical
+[**Hospital1 **] (2 times a day) as needed.
+14. Metformin 500 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times
+a day).
+15. Furosemide 40 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times
+a day).
+16. Insulin Regular Human 100 unit/mL Solution [**Hospital1 **]: One (1)
+injection Injection ASDIR (AS DIRECTED).
+17. Heparin Lock Flush (Porcine) 100 unit/mL Syringe [**Hospital1 **]: One
+(1) flush Intravenous DAILY (Daily) as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Medical Center - [**Hospital1 3597**]
+
+Discharge Diagnosis:
+Cervical spine fracture
+S/P tracheostomy tube placement
+S/P percutaneous gastrostomy tube placement
+Pneumonia
+Respiratory Failure
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+You have had a cervical spine fracture resulting in your need
+for the hard collar. You will need to stay in the collar for 3
+months from when it was placed. Then, you will need further
+follow-up with the neurosurgeons.
+.
+You also have had multiple pneumonias and needed intubation and
+tracheotomy placement.
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) **] from neurosurgery in
+approximately 4 weeks: ([**Telephone/Fax (1) 88**]. You should have a follow
+up C-spine CT before your appointment. Please arrange for this
+CT at [**Hospital1 18**] by calling ([**Telephone/Fax (1) 6713**].
+
+Please follow up with your PCP 1-2 weeks after discharge from
+rehab.
+
+
+
+",['insulin']
+52919,"[('C0557854', 0.9285425543785095), ('C4517565', 0.997352659702301), ('C0022661', 0.9687662124633789), ('C0085096', 0.9841073155403137), ('C1426785', 0.9835494160652161), ('C0149721', 0.9906902313232422), ('C0585029', 0.9793684482574463), ('C3817553', 0.9552034735679626), ('C1956423', 0.9766011834144592), ('C0007787', 0.9859804511070251), ('C0231528', 0.9852516055107117), ('C0018787', 0.9875530004501343), ('C0700200', 0.9662083387374878), ('C0240526', 0.9869015216827393), ('C0019004', 0.9500951170921326), ('C0052712', 0.9885032773017883), ('C0205447', 1.0), ('C0205447', 0.9757283926010132), ('C0205452', 1.0), ('C0205447', 0.9757283926010132), ('C3715206', 0.9987627267837524), ('C0085756', 0.9757757186889648), ('C0036410', 0.9895656108856201), ('C0205439', 0.954592764377594), ('C0458098', 0.8823373913764954), ('C4554402', 0.999627947807312), ('C0000726', 0.9657635688781738), ('C1537594', 0.9596827030181885), ('C2827735', 0.9989297986030579), ('C2827735', 0.9989297986030579), ('C0022661', 0.9687662124633789), ('C0085096', 0.9841073155403137), ('C0149721', 0.9906902313232422), ('C4517407', 0.9828113913536072), ('C0010287', 0.9777215719223022), ('C0024867', 0.8543890118598938), ('C0024119', 0.9430493116378784), ('C0039985', 0.9700195789337158), ('C1956423', 0.9766011834144592), ('C0025859', 0.9727950692176819), ('C0012373', 0.9788800477981567), ('C0012373', 0.9788800477981567), ('C0025859', 0.9727950692176819), ('C0288171', 0.9670076370239258), ('C0020258', 0.9927442073822021), ('C1960609', 0.9988144040107727), ('C0018966', 0.9974984526634216), ('C0027022', 0.9923480153083801), ('C0205447', 1.0), ('C0332173', 0.9872916340827942), ('C0332173', 0.9872916340827942), ('C4321486', 0.9974575042724609), ('C0065374', 0.9932959675788879), ('C0332173', 0.9872916340827942), ('C0021658', 0.9056785702705383), ('C4699693', 0.9781361818313599), ('C0332173', 0.9872916340827942), ('C0074554', 0.9242107272148132), ('C0332173', 0.9872916340827942), ('C0332173', 0.9872916340827942), ('C0025859', 0.9727950692176819), ('C0205447', 1.0), ('C3844012', 0.9958820939064026), ('C0205448', 1.0), ('C1306772', 0.9693765044212341), ('C0205447', 0.9757283926010132), ('C0205449', 1.0), ('C0205447', 0.9757283926010132), ('C0038951', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205451', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205452', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205453', 1.0), ('C4321486', 0.9974575042724609), ('C0205447', 0.9757283926010132), ('C0205454', 1.0), ('C0074554', 0.9242107272148132), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0205455', 1.0), ('C0205447', 0.9757283926010132), ('C0205449', 1.0), ('C0040223', 0.9879130721092224), ('C0205456', 0.9997245073318481), ('C0025859', 0.9727950692176819), ('C3816723', 0.9996994137763977), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0205448', 1.0), ('C0205457', 0.9962367415428162), ('C0065374', 0.9932959675788879), ('C0205449', 0.9899592995643616), ('C0205449', 1.0), ('C0205458', 0.9979794025421143), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0332173', 0.9872916340827942), ('C0227048', 0.9985483288764954), ('C4319550', 0.9955664277076721), ('C0006935', 0.868798017501831), ('C0205447', 0.9757283926010132), ('C0227051', 0.9983566999435425), ('C0205450', 0.9886091947555542), ('C0038951', 1.0), ('C0227052', 0.9994271993637085), ('C0205447', 1.0), ('C0041701', 0.9652799367904663), ('C0004238', 0.968174934387207), ('C0205447', 1.0), ('C0205435', 0.9855308532714844), ('C0205447', 1.0), ('C2348831', 0.9982602596282959), ('C0205448', 1.0), ('C0205435', 0.9855308532714844), ('C0205449', 1.0), ('C0205435', 0.9855308532714844)]","Admission Date:  [**2163-6-20**]              Discharge Date:   [**2163-6-22**]
+
+Date of Birth:  [**2090-1-9**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 134**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+The patient is a 73 year old woman with history of ESRD on HD,
+hypertension, severe PVD s/p bilateral BKA, and LVH with LVOT
+who is presenting with acute shortness of breath. She was in her
+usual state of health until earlier this evening when she
+noticed that she ""just didn't feel right."" When she went to lay
+down, she noted the onset of shortness of breath.  She denied
+chest pain or palpitations. She had her last HD session on
+Friday. She denies eating salty food or missing medications
+.
+In the ED her initial vital signs were 220/110 120 RR 40 and
+100% on BIPAP.  She continued on BIPAP with improvement in her
+oxygenation.  An EKG was interpreted as unchanged from prior.
+Nitro-paste was administered for blood pressure control.  A left
+femoral central line was placed for IV access.  Both cardiology
+and nephrology were consulted who recommended urgent dialysis
+for volume control.
+.
+On review of symptoms, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. She denies recent fevers, chills or
+rigors. She denies exertional buttock or calf pain. All of the
+other review of systems were negative.
+.
+*** Cardiac review of systems is notable for absence of chest
+pain,  palpitations, syncope or presyncope.
+
+Past Medical History:
+- Diastolic CHF with LVOT obstruction at rest
+- Chronic 2L NC at night
+- Hypertension
+- Diabetes
+- Peripheral vascular disease status post bilateral knee
+amputations in [**2146**] (L) and [**2157**] (R)
+- GERD
+- Hypercholesterolemia
+- ESRD on hemodialysis M,W,F. Receives dialysis at [**Location (un) **]
+hemodialysis center in [**Location (un) **].
+- Paroxysmal atrial flutter, s/p failed ablation with subsequent
+a. fib
+- Peptic ulcer disease
+- Hypertrophic obstructive cardiomyopathy
+- Mild mitral stenosis (MVA 1.5-2.0 cm2)
+- Secondary Hyperparathyroidism
+- Diastolic Congestive Heart Failure
+
+Social History:
+Social history is significant for the presence of current
+tobacco use (1 pack per week), and [**12-22**] PPD x 50 years. There is
+no history of alcohol abuse. Lives in [**Hospital3 **] facility
+and uses a mobile wheelchair or a walker.
+
+
+Family History:
+Her father died in his 90s and mother at the age of 102. Patient
+unable to specify cause of death. She has one living sister and
+6 sisters and one brother who passed away. Her family history is
+significant for coronary artery disease, cancer, and diabetes.
+
+
+Physical Exam:
+VS: T 97.3, BP 121/69, HR 78, RR 18, O2 99% on 4L
+Gen: thin elderly, African American female. Oriented x3. Mood,
+affect appropriate. Pleasant.
+HEENT: NCAT. Sclera anicteric. right pupil 2mm->1, left surgical
+pupil, EOMI. Conjunctiva were pink, no pallor or cyanosis of the
+oral mucosa.
+Neck: Supple with JVP to angle of jaw. gauze in place from LIJ
+line placement w/o hematoma
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No S4, no S3. II/VI holosystolic murmur at
+LLSB/apex
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Crackles and rhonchi to
+[**12-22**] way up back.
+Abd: flat, soft, NTND, No HSM or tenderness. No abdominal
+bruits.
+Ext: No c/c/e. No femoral bruits. b/l BKA. left femoral TLC
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit
+
+Pertinent Results:
+[**2163-6-20**] 12:00AM BLOOD WBC-16.1*# RBC-4.34 Hgb-12.5 Hct-41.2
+MCV-95 MCH-28.9 MCHC-30.4* RDW-18.8* Plt Ct-350
+[**2163-6-22**] 04:54AM BLOOD WBC-7.8 RBC-4.16* Hgb-12.0 Hct-38.9
+MCV-93 MCH-29.0 MCHC-31.0 RDW-17.8* Plt Ct-324
+
+[**2163-6-20**] 12:00AM BLOOD PT-17.6* PTT-94.2* INR(PT)-1.6*
+[**2163-6-22**] 04:54AM BLOOD PT-27.2* PTT-38.1* INR(PT)-2.7*
+
+[**2163-6-20**] 12:00AM BLOOD Glucose-182* UreaN-74* Creat-8.1*# Na-140
+K-5.6* Cl-100 HCO3-26 AnGap-20
+[**2163-6-20**] 11:30AM BLOOD K-6.4*
+[**2163-6-22**] 04:54AM BLOOD Glucose-100 UreaN-65* Creat-6.9*# Na-135
+K-5.0 Cl-98 HCO3-27 AnGap-15
+
+[**2163-6-20**] 12:00AM BLOOD CK(CPK)-49
+[**2163-6-20**] 06:24AM BLOOD CK(CPK)-53
+[**2163-6-20**] 12:00AM BLOOD CK-MB-NotDone cTropnT-0.05*
+[**2163-6-20**] 06:24AM BLOOD CK-MB-NotDone cTropnT-0.05*
+
+[**2163-6-20**] 06:24AM BLOOD Calcium-8.7 Phos-6.4* Mg-2.7*
+[**2163-6-20**] 08:00PM BLOOD Calcium-8.6 Phos-2.8# Mg-2.0
+[**2163-6-22**] 04:54AM BLOOD Calcium-8.7 Phos-5.6*# Mg-2.5
+
+
+Brief Hospital Course:
+The patient is a 73 year old woman with history of ESRD on HD,
+severe PVD, LVH with LVOT obstruction presenting with shortness
+of breath and pulmonary edema.
+.
+# CAD:
+Although patient has with multiple CAD risk factors, prior
+non-invasive and invasive testing showed no significant
+obstructive coronary disease.  A troponin of 0.04 in the context
+of normal CK and EKG with no ST-T changes was likely demand
+ischemia secondary to hypertensive heart disease. Admission EKG
+did not show signs of active ischemia and the patient was
+monitored on telemetry and continued on aspirin and statin.
+.
+# CHF:
+The pt's hypoxia was attributed to CHF and not pneumonia as she
+denied any cough, and was afebrile and lacking a consolidate on
+chest xray. Pulmonary embolism was also unlikely as the patient
+is on chronic anticoagulation.  Due to chronic diastolic
+congestive heart failure and a physiologic HOCM that leads to
+hypotension during dialysis sessions, it is most likely that the
+patient developed pulmonary edema  in the setting of volume
+status change while receiving dialysis.  Her oxygenation status
+improved significantly following blood pressure and rate control
+and a dialysis session. There are no PFT's to support the
+diagnosis of COPD, but marked hyperinflation on CXR and notable
+smoking history indicated strong possibility of COPD
+contributing to patient's symptoms so patient was treated with
+home dose of spiriva and albuterol as needed. The patient was
+weaned on BiPap and began to breathe comfortably on room air
+following dialysis.
+.
+# Atrial fibrillation:
+The pt was anticoagulated with coumadin and rate controlled with
+metoprolol and diltiazem for her history of atrial fibrillation.
+
+.
+# Hypertension:
+The patient's hypertension was also controlled with diltiazem
+and metoprolol and following a successful dialysis session her
+lisinopril and irbesartan were restarted.
+.
+# Diabetes:
+For her diabetes the patient was continued on her home dose of
+NPH with an insulin sliding scale.
+.
+# Hyperkalemia:
+The patient has end stage renal disease and receiving HD.  The
+patient was orginally volume overloaded and on day two of
+admission developed hyperkalemia to a K of 6.7.  She had no
+peaked T waves or QT prolongation on EKG and received calcium
+carbonate and D5/insulin as well as dialysis.  Her electrolytes
+were monitored closely with subsequent K between 4.1 and 5.0.
+
+# Heme:
+On admission labs the patient was erythrocytotic. Prior
+evaluations had not shown renal mass that could contribute to
+over production of erythropoietin and on [**2163-5-30**] the epo
+level was low normal which would suggest a MPD such as [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **].
+Patient would benefit from heme follow up as an outpatient.
+
+
+Medications on Admission:
+Nephro-cap 1 capsule daily
+Warfarin 2 mg Daily
+Brimonidine 0.15 % Drops DAILY
+Latanoprost 0.005 % Drops HS
+Tiotropium 18 mcg DAILY
+Ranitidine HCl 150 mg DAILY
+Lisinopril 30 mg DAILY
+Insulin NPH 4 [**Hospital1 **]
+Albuterol 90 mcg 1 puff:q6hours
+Aspirin 325 mg daily
+Simvastatin 80 mg daily
+Diltiazem HCl SR 120 mg DAILY
+Irbesartan 150 mg daily
+Metoprolol Tartrate 100 mg [**Hospital1 **]
+Sevelamer HCl 800 mg TID
+
+Discharge Medications:
+1. Warfarin 2 mg Tablet Sig: 1.5 Tablets PO Once Daily at 4 PM.
+
+2. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic DAILY
+(Daily).
+5. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+6. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+7. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+9. Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+10. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID
+(2 times a day).
+11. Lisinopril 10 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+12. Irbesartan 150 mg Tablet Sig: One (1) Tablet PO daily ().
+13. Diltiazem HCl 120 mg Capsule, Sust. Release 24 hr Sig: One
+(1) Capsule, Sust. Release 24 hr PO once a day.
+14. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Four
+(4) units Subcutaneous twice a day.
+15. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 puffs Inhalation
+every 4-6 hours as needed for shortness of breath or wheezing.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] [**Location (un) 269**]
+
+Discharge Diagnosis:
+Primary:
+Acute diastolic Heart Failure
+End stage renal disease on hemodialysis
+.
+Secondary:
+Peripheral Vascular disease
+Atrial Fibrillation on Coumadin
+Hypertension
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You were admitted with shortness of breath and acute diastolic
+heart failure.  This has been treated with dialysis & aggressive
+blood pressure control.
+.
+We have not made any changes to your medications, please make
+sure to adhere to a low salt diet and keep all your follow up
+appointments as shown below.
+.
+If you develop any worsening shortness of breath, chest pain,
+weakness or any other general worsening of condition, please
+call your PCP or come directly to the ED.
+.
+It is very important that you adhere to a low sodium diet.
+
+Followup Instructions:
+1. Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 250**]
+Date/Time:[**2163-7-14**] 12:40
+.
+2. Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 1989**]
+Date/Time:[**2163-8-29**] 11:40am
+.
+3. Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 1989**]
+Date/Time:[**2163-12-7**] 1:40pm
+
+
+
+",['insulin']
+484751,"[('C1442459', 0.9967605471611023), ('C0011777', 0.9978458881378174), ('C0310367', 0.9852661490440369), ('C0043299', 0.9730836153030396), ('C0439225', 0.9689528942108154), ('C0135615', 0.8875001668930054), ('C0450348', 0.9985483288764954), ('C3816446', 0.9999806880950928), ('C3816957', 0.9987627267837524), ('C0439225', 0.9689528942108154), ('C0023516', 0.9993834495544434), ('C0087111', 0.9998130798339844), ('C0011880', 0.9904902577400208)]","Pt presented to the PCP
+[**Name Initial (PRE) **] office with chief complaint of left foot
+   swelling, erythema, with blisters for 3 days. Has been getting
+   progressively worse, had fevers and chills this morning. She has not
+   visited doctor for the last 7 years, is not taking any medication for
+   her DM. Today, her blood pressure was 175/81, temp 100.8, she was
+   referred to ER for left foot cellulitis. In the ED she was seen by
+   podiatry who recommended urgent amputation of L 4th toe and Xray showed
+   osteo. She was tachycardic to 138 and so she was given 2.5L NS HR
+   responded to 110s. Vascular surgery saw pt in ICU and recommended OR in
+   am, did not feel concerning for nec fasc. Her blood glucose was
+   elevated and her gap was 23. Given 8U IV regular insulin.
+   Cellulitis
+   Assessment:
+   Went to OR for Lt 2^nd and 4^th toe Ray amputation. Returned 11:15 am
+   she was rigoring HR [**Street Address(2) 2638**] bp 200/ temp initially 99.8 and then 30
+   later it was 103.7 po Her bp then dropped to the 70/s. Lt foot wrapped
+   in kerlix blood noted mod amt
+   Action:
+   Patient given total of 25mg Demerol IV and 5mg  IV labetolol.  Blood cx
+   sent.  She received a total of 3liters of NS
+   Response:
+   Rigoring subsided and her bp improved with fluid temp down to 100.4 po.
+   Her PT left foot dopplerable
+   Plan:
+   Continue antibx as ordered await cx results, monitor temp, wbc and bp
+   tx with fluid as needed
+   Diabetic Ketoacidosis (DKA)
+   Assessment:
+   Action:
+   Response:
+   Plan:
+",['insulin']
+462157,"[('C0377265', 0.980817973613739), ('C0907402', 0.9811837673187256), ('C0043031', 0.9623537063598633), ('C1283004', 0.9435220956802368), ('C0439457', 0.9975888133049011), ('C0439457', 0.9975888133049011), ('C0439457', 0.9975888133049011), ('C0439457', 0.9975888133049011), ('C4517663', 0.9779914021492004), ('C0000726', 0.9657635688781738), ('C0205456', 0.9997245073318481), ('C3844009', 0.9900738596916199)]","Subjective
+   Sleeping.
+   Objective
+   71.7 kg ([**2154-5-11**] 03:00 AM)
+   Pertinent medications: Norepinephrine, LeVETiracetam, Glargine 10 Units
+   bedtime, Insulin SC Sliding Scale, Aspirin, Warfarin, others noted
+   Labs:
+   Value
+   Date
+   Glucose
+   169 mg/dL
+   [**2154-5-17**] 05:02 AM
+   Glucose Finger Stick
+   151
+   [**2154-5-17**] 06:00 AM
+   BUN
+   95 mg/dL
+   [**2154-5-17**] 05:02 AM
+   Creatinine
+   2.2 mg/dL
+   [**2154-5-17**] 05:02 AM
+   Sodium
+   142 mEq/L
+   [**2154-5-17**] 05:02 AM
+   Potassium
+   4.1 mEq/L
+   [**2154-5-17**] 05:02 AM
+   Chloride
+   110 mEq/L
+   [**2154-5-17**] 05:02 AM
+   TCO2
+   23 mEq/L
+   [**2154-5-17**] 05:02 AM
+   PO2 (arterial)
+   90.[**Numeric Identifier 126**] mm Hg
+   [**2154-5-17**] 05:14 AM
+   PCO2 (arterial)
+   31 mm Hg
+   [**2154-5-17**] 05:14 AM
+   pH (arterial)
+   7.48 units
+   [**2154-5-17**] 05:14 AM
+   pH (urine)
+   5.0 units
+   [**2154-5-16**] 09:54 AM
+   CO2 (Calc) arterial
+   24 mEq/L
+   [**2154-5-17**] 05:14 AM
+   Albumin
+   2.6 g/dL
+   [**2154-5-17**] 05:02 AM
+   Calcium non-ionized
+   7.8 mg/dL
+   [**2154-5-17**] 05:02 AM
+   Phosphorus
+   4.5 mg/dL
+   [**2154-5-17**] 05:02 AM
+   Ionized Calcium
+   1.17 mmol/L
+   [**2154-5-16**] 10:52 AM
+   Magnesium
+   2.9 mg/dL
+   [**2154-5-17**] 05:02 AM
+   ALT
+   26 IU/L
+   [**2154-5-17**] 05:02 AM
+   Alkaline Phosphate
+   64 IU/L
+   [**2154-5-17**] 05:02 AM
+   AST
+   38 IU/L
+   [**2154-5-17**] 05:02 AM
+   Amylase
+   118 IU/L
+   [**2154-5-17**] 05:02 AM
+   Total Bilirubin
+   5.2 mg/dL
+   [**2154-5-17**] 05:02 AM
+   Triglyceride
+   15 mg/dL
+   [**2154-5-5**] 04:14 AM
+   WBC
+   25.5 K/uL
+   [**2154-5-17**] 05:02 AM
+   Hgb
+   10.5 g/dL
+   [**2154-5-17**] 05:02 AM
+   Hematocrit
+   32.3 %
+   [**2154-5-17**] 05:02 AM
+   Current diet order / nutrition support: Novasource Renal Full strength;
+   Starting rate: 30 ml/hr; Do not advance rate Goal rate: 30 ml/hr
+   Residual Check: q4h Hold feeding for residual >= : 100 ml
+   Flush w/ 30 ml water q6h
+   Other instructions: no residual checks - feeding through J tube
+   GI: abd soft, hypoactive bowel sounds
+   Assessment of Nutritional Status
+   86 year ole male with complex hospital course, patient is now s/p
+   trach, open J tube, continue on tube feed for full nutrition support.
+   Patient have been tolerating tube feed without much incident, event
+   [**5-16**] noted, patient is not back on neosynephrine post arrest, tube feed
+   restarted yesterday, currently running at goal.  Current tube feed
+   order provides 1440kcal/53g protein, grossly underfeeding patient.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   Change tube feed to goal Novasource Renal 35ml/hr (1680kcal/62g
+   protein) = 27kcal/1g protein/kg admission wt
+   Check chemistry 10 panel daily, replete prn
+   Continue BS management
+   Start phos binder if serum phos >4.5
+   Other: f/u, please page [**Numeric Identifier 1550**] if has question
+",['insulin']
+36810,"[('C0557854', 0.9285425543785095), ('C0030842', 0.9970746040344238), ('C0543467', 0.990713357925415), ('C4319632', 0.9962095022201538), ('C0011777', 0.9978458881378174), ('C0205451', 1.0), ('C0041701', 0.9652799367904663), ('C4708788', 0.9861835837364197), ('C0014792', 0.9998649954795837), ('C4517641', 0.989736795425415), ('C0038951', 1.0), ('C0227059', 0.9999997615814209), ('C0332173', 0.9872916340827942), ('C0310367', 0.9852661490440369), ('C0041701', 0.9652799367904663), ('C4708788', 0.9861835837364197), ('C1520228', 0.9891049861907959), ('C4517696', 0.9961560368537903), ('C0039985', 0.9700195789337158), ('C4517906', 0.9945865273475647), ('C0013404', 0.9728527665138245), ('C0085619', 0.9669739603996277), ('C0205447', 1.0), ('C3176821', 0.9786828756332397), ('C0205448', 1.0), ('C0018787', 0.9875530004501343), ('C0205449', 1.0), ('C0699142', 0.9964067339897156), ('C0025939', 0.9633074402809143), ('C0005824', 0.9979794025421143), ('C0439073', 0.993722677230835), ('C3715206', 0.9987627267837524), ('C3817553', 0.9552034735679626), ('C0205451', 1.0), ('C0036410', 0.9895656108856201), ('C1642390', 0.9405443668365479), ('C0000726', 0.9657635688781738), ('C0028408', 0.9301692247390747), ('C1537594', 0.9596827030181885), ('C0015306', 0.9410656690597534), ('C0205448', 1.0), ('C0012582', 0.9999046921730042), ('C2827734', 0.995415985584259), ('C0205449', 1.0), ('C0489484', 0.9676731824874878), ('C0035190', 0.999569296836853), ('C0018787', 0.9875530004501343), ('C0205132', 0.9875898957252502), ('C0039985', 0.9700195789337158), ('C4319632', 0.9962095022201538), ('C0011777', 0.9978458881378174), ('C0205451', 1.0), ('C1171255', 0.989847719669342), ('C5452880', 0.995783805847168), ('C4708788', 0.9861835837364197), ('C0035190', 0.999569296836853), ('C0025677', 0.9724632501602173), ('C0004238', 0.998050332069397), ('C1417822', 0.9970256686210632), ('C0039985', 0.9700195789337158), ('C4517696', 0.9961560368537903), ('C0025859', 0.9727950692176819), ('C0216784', 0.9761476516723633), ('C1098320', 0.9729764461517334), ('C1098320', 0.9729764461517334), ('C0020473', 0.9746601581573486), ('C0965130', 0.9805495142936707), ('C4517884', 0.9962367415428162), ('C0332173', 0.9872916340827942), ('C0332173', 0.9872916340827942), ('C0332173', 0.9872916340827942), ('C0025859', 0.9727950692176819), ('C0332173', 0.9872916340827942), ('C0989059', 0.960582971572876), ('C0332173', 0.9872916340827942), ('C0020258', 0.9927442073822021), ('C1634351', 0.9969520568847656), ('C0227075', 0.9996557831764221), ('C0227053', 0.9986576437950134), ('C0227054', 0.9987806677818298), ('C0205448', 1.0), ('C0332173', 0.9872916340827942), ('C0332173', 0.9872916340827942), ('C0986175', 0.9924356937408447), ('C0332173', 0.9872916340827942), ('C0332173', 0.9872916340827942), ('C0205452', 1.0), ('C0332174', 0.9744841456413269), ('C0205447', 1.0), ('C0205447', 0.9757283926010132), ('C0205448', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205449', 1.0), ('C0205447', 0.9757283926010132), ('C0038951', 1.0), ('C0205449', 0.9899592995643616), ('C0205449', 1.0), ('C0332173', 0.8632530570030212), ('C0332170', 0.9432784914970398), ('C0205451', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0332173', 0.8632530570030212), ('C0205452', 1.0), ('C0205447', 0.9757283926010132), ('C0205453', 1.0), ('C0020258', 0.9927442073822021), ('C3816446', 0.968874990940094), ('C0205450', 0.9886091947555542), ('C1634351', 0.9969520568847656), ('C0205454', 1.0), ('C0020258', 0.9927442073822021), ('C3816446', 0.968874990940094), ('C0205448', 0.9997637271881104), ('C0227075', 0.9996557831764221), ('C0205455', 1.0), ('C0795635', 0.9847139120101929), ('C1704407', 0.9994568228721619), ('C3715157', 0.9732913970947266), ('C0227053', 0.9986576437950134), ('C0205456', 0.9997245073318481), ('C0795635', 0.9847139120101929), ('C1704407', 0.9994568228721619), ('C0450331', 0.9640504121780396), ('C0227054', 0.9987806677818298), ('C0205457', 0.9962367415428162), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0205458', 0.9979794025421143), ('C1306772', 0.9693765044212341), ('C0205447', 0.9757283926010132), ('C0227048', 0.9985483288764954), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0227051', 0.9983566999435425), ('C0205447', 0.9757283926010132), ('C0227052', 0.9994271993637085), ('C0205449', 0.9899592995643616), ('C0205449', 1.0), ('C0227053', 0.9986576437950134), ('C0038960', 0.8518799543380737), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0227054', 0.9987806677818298), ('C3715206', 0.9987627267837524), ('C0006935', 0.868798017501831), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0450337', 0.9981729388237), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0227059', 0.9999997615814209), ('C0724633', 0.9689869284629822), ('C0205447', 0.9757283926010132), ('C4708788', 0.9861835837364197), ('C0025859', 0.9727950692176819), ('C0012373', 0.9788800477981567), ('C0332173', 0.9872916340827942), ('C0332173', 0.9872916340827942), ('C0205435', 0.9855308532714844), ('C4708788', 0.9861835837364197), ('C0205448', 1.0), ('C0205435', 0.9855308532714844), ('C0205447', 1.0), ('C0205449', 1.0), ('C0205435', 0.9855308532714844), ('C0039986', 0.9876158237457275), ('C0450348', 0.9985483288764954), ('C0205455', 1.0), ('C0450348', 0.9985483288764954), ('C0205435', 0.9855308532714844), ('C0205451', 1.0)]","Admission Date:  [**2102-12-25**]              Discharge Date:   [**2103-1-1**]
+
+Date of Birth:  [**2030-9-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 1436**]
+Chief Complaint:
+worsening shortness of breath, recurrent pericardial effusion
+found on routine echo
+
+Major Surgical or Invasive Procedure:
+Pericardial window ([**2102-12-28**])
+
+
+History of Present Illness:
+72M with PMH of DM, AFib on coumadin, and RA complicated by
+pericardial effusion and tamponade in [**5-6**], transferred from
+[**Hospital1 **]-[**Location (un) 620**] for further evaluation and management of recurrent
+pericardial effusion and tamponade seen on routine repeat echo.
+.
+Patient had past admission on [**5-5**]/09 for fatigue, edema,
+and decreased exercise tolerance. Found to have pericardial
+effusion, underwent pericardiocentesis with removal 300 cc clear
+slightly blood-tinged pericardial fluid, with decrease in
+pericardial pressure from 26 to 10 mmHg. Patient also underwent
+pericardial drain placement. Pericardial fluid culture and
+cytology returned negative. Fluid analysis revealed WBC# 6100
+(81% PMN), RBC [**Numeric Identifier 83167**] TP 5.1 albumin 2.9 gluc 4 LDH 4230. The
+effusion was attributed to RA, but methotrexate was discontinued
+(and prednisone increased from 20 to 30 mg daily) in case the
+former was contributing.
+.
+Routine follow-up TTE today at [**Hospital1 **]-[**Location (un) 620**] showed a small to
+moderate mainly anterior pericardial effusion with diastolic
+right ventricular collapse suggestive of tamponade. Transferred
+to the [**Hospital1 18**] ED for further management, where triage V/S 98 125
+138/83 18 94%RA. HR 101 without intervention. Labs notable for
+INR 3.7, Hct 30.5. EKG showed low voltage in the limb leads. CXR
+showed only bibasilar linear atelectasis. Vital signs prior to
+transfer 95 132/87 20 97%RA.
+.
+On the floor, patient is feeling relatively well. Reports having
+some shortness of breath, but is at his baseline due to his
+COPD. Denies any chest pain, worsening SOB, orthopnea,
+palpitations, headache, lightheadedness, dizziness.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes(+), Dyslipidemia(?),
+Hypertension(+)
+2. CARDIAC HISTORY:
+-CABG: None
+-PERCUTANEOUS CORONARY INTERVENTIONS: None
+-PACING/ICD: None
+3. OTHER PAST MEDICAL HISTORY:
+- Rheumatoid arthritis: Diagnosed within the past one year.
+Usually takes Tylenol for pain control. Recently (within the
+past one month) was started on methotrexate.
+- COPD
+
+
+Social History:
+Retired. Drinks once per week. Denies tobacco, illicit drug use
+now or in the past. Lives with wife. [**Name (NI) **] a daughter. Currently
+volunteers at hospital cafe.
+
+
+Family History:
+No FH of RA.
+Denies history of early MI.
+
+Physical Exam:
+VS: T 98.2, BP 128/84, HR 97, RR 18, SO2 100% RA, Pulsus 5-7mmHg
+GENERAL: WDWN male in NAD. AAOx3. Mood, affect appropriate.
+Resting comfortably
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI, MMM
+CV: RRR, S1S2, no murmurs, rubs.  Slightly distant heart sounds
+LUNGS: Diffuse rhonchi, good air movement, resp unlabored
+ABD: Obese, soft, NT, ND, no HSM or tenderness
+EXT: WWP, 2+ radial and DP pulses.  1+ LE edema b/l
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Pertinent Results:
+CBC
+[**2102-12-26**] 05:10AM BLOOD WBC-7.3 RBC-3.57* Hgb-9.1* Hct-28.5*
+MCV-80* MCH-25.4* MCHC-31.8 RDW-18.6* Plt Ct-264
+[**2102-12-25**] 06:30PM BLOOD WBC-9.2 RBC-3.73* Hgb-9.6* Hct-30.5*
+MCV-82 MCH-25.7* MCHC-31.5 RDW-18.0* Plt Ct-253
+
+Coags
+[**2102-12-26**] 05:10AM BLOOD PT-30.0* PTT-30.0 INR(PT)-3.0*
+[**2102-12-25**] 06:30PM BLOOD PT-35.8* PTT-30.3 INR(PT)-3.7*
+
+Chemistry
+[**2102-12-26**] 05:10AM BLOOD Glucose-190* UreaN-25* Creat-1.3* Na-140
+K-4.3 Cl-104 HCO3-27 AnGap-13
+[**2102-12-25**] 06:30PM BLOOD Glucose-274* UreaN-28* Creat-1.2 Na-138
+K-4.3 Cl-102 HCO3-25 AnGap-15
+
+Echocardiogram ([**2102-12-25**])
+FINDINGS:
+Overall left ventricular systolic function is low normal (LVEF
+50-55%). Right ventricular chamber size and free wall motion are
+normal. The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion and no aortic regurgitation. The
+mitral valve appears structurally normal with trivial mitral
+regurgitation. There is a small to moderate sized pericardial
+effusion. There is right ventricular diastolic collapse,
+consistent with impaired fillling/tamponade physiology.
+
+IMPRESSION:
+Limited study,. Overall left ventricular systolic function is
+low normal. A small to moderate mainly anterior pericardial
+effusion is present with diastolic right ventricular collapse
+suggestive of tamponade.
+Reffering physician [**Name Initial (PRE) 13109**].
+
+Additional In-house Read:
+Small amount of pericardial fluid and no evidence of RV
+diastolic collapse.
+.
+ECHO [**2102-12-30**]
+GENERAL COMMENTS: Suboptimal image quality - bandages,
+defibrillator pads or electrodes. Suboptimal image quality -
+body habitus. The patient appears to be in sinus rhythm.
+.
+Conclusions
+The left atrium is normal in size. Overall left ventricular
+systolic function is probably normal although views are
+technically suboptimal. Due to suboptimal technical quality, a
+focal wall motion abnormality cannot be fully excluded. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets are mildly thickened (?#). There is no
+valvular aortic stenosis. The increased transaortic velocity is
+likely related to high cardiac output. The mitral valve leaflets
+are mildly thickened. Physiologic mitral regurgitation is seen
+(within normal limits). There is a trivial pericardial effusion.
+
+.
+Compared with the prior study (images reviewed) of [**2102-5-26**],
+the pericardial effusion is now smaller.
+.
+AP Chest [**2102-12-31**]
+Study is limited as the lung bases have been excluded from the
+field of view. There is again seen some streaky densities at the
+bases most consistent with subsegmental atelectasis which is
+unchanged. The upper lung fields are clear without focal
+consolidation or signs of overt pulmonary edema. Cardiac
+silhouette is unchanged, within normal limits.
+.
+
+CHEST (PORTABLE AP)	Study Date of [**2102-12-25**] 6:28 PM
+UPRIGHT AP VIEW OF THE CHEST: Cardiac silhouette is normal in
+size. The
+mediastinal and hilar contours are unremarkable. Pulmonary
+vascularity is
+normal. Linear opacities within both lung bases are compatible
+with linear
+atelectasis. No focal consolidation, pleural effusion or
+pneumothorax is
+visualized. No acute skeletal abnormalities are seen.
+
+IMPRESSION: Bibasilar linear atelectasis. No acute
+cardiopulmonary
+abnormality otherwise visualized.
+.
+CXR [**2103-1-1**]
+IMPRESSION: Heterogeneous opacification at both lung bases has
+improved since
+[**12-30**], probably atelectasis. On the left, it is conceivable
+that
+pneumonia was present and is rapidly clearing, but there is no
+new or
+worsening consolidation. There is no pulmonary edema, pleural
+effusion or
+mediastinal widening. Heart size is normal
+
+Brief Hospital Course:
+72M with PMH of DM, AFib on coumadin, and RA complicated by
+pericardial effusion and tamponade in [**5-6**], presents with
+recurrent pericardial effusion concerning of tamponade and
+complaints of some progressive shortness of breath.
+
+#. Pericardial effusion - patient has had history of pericardial
+effusion in the past, thought to be a complicaton of RA. Had a
+pericardiocentesis with drain placement in 5/[**2101**]. Initially had
+methotrexate discontinued for concerns of worsening pericardial
+effusion, but was restarted back on it in [**Month (only) 205**] when patient did
+not tolerate Humira well. Patient has been receiving regular
+follow up with his cardiologist with a repeat echo every 6
+weeks.  His echo read done at [**Location (un) 620**] showed a small to moderate
+mainly anterior pericardial effusion with evidence of diastolic
+right ventricular collapse suggestive of tamponade.  An
+additional read done by cardiology service here showed small
+amount of fluid with no evidence of RV diastolic collapse.  He
+was hemodynamically stable during his admission and breathing
+was not labored, although reported to be slightly worse over the
+last few weeks.  Pulsus was checked twice a day and remained
+consistently around 7-8mmHg.  Methotrexate was held given the
+reaccumulation of pericardial fluid.  Patient was evaluated by
+thoracic surgery for pericardial window.  Procedure was
+performed on [**2102-12-28**] with drainage of only 80cc of fluid and
+was complicated by afib with RVR.
+The drainage tube was subsequently removed and he is being
+followed with serial imaging which at the time of discharge
+showed a smaller pericardial effusion on echo and only
+atelectasis on CXR. Fluid culture was positive for
+propionobacterium acnes which was felt to be a contaminant.
+Biopsy from pericardial window showed unremarkable cartilage and
+skeletal muscle and fragments of pericardium with chronic
+inflammation and fibrin deposition.
+.
+#. A fib - patient takes warfarin at home, was found to be
+supratherapeutic at INR of 3.7 on admission. INR was reversed
+for the pericardial window. He was bridged on heparin drip to
+coumadin and the coumadin alone was continued once his INR was
+therapeutic.
+.
+#. HTN - patient was continued on home dosage of metoprolol,
+furosemide, and spironolactone during admission.  Valsartan was
+substituted for his home dose of olmesartan during admission,
+but patient was switched back to olmesartan on discharge.
+.
+# Anemia: he was found to have a microcytic anemia consistent
+with anemia of chronic disease. An outpatient colonoscopy can be
+considered as an outpatient.
+.
+#. Hyperlipidemia - patient was continued on home regimen of
+pravastatin
+.
+#. Rheumatoid Arthritis - patient's home regimen of methotrexate
+was held for pericardial effusion.  Was restarted on discharge
+after his pericardial window procedure.
+.
+#. COPD - currently at baseline, patient was in no respiratory
+distress.  During admission he was maintained on home dose of
+spiriva.  Advair was substituted for symbicort while admitted,
+but patient was restarted on symbicort on discharge.
+.
+#. DM - patient was continued on his home regimen of insulin as
+well as regular insulin sliding scale.
+.
+#. GERD - patient was continued on omeprazole
+.
+#. Glaucoma - patient was continued on prednisolone drop to left
+eye and artificial tears
+
+Medications on Admission:
+ASA 81
+Warfarin 3 mg daily
+Pravastatin 20 mg daily
+Benicar 20 mg daily
+Metoprolol tartrate 25 mg [**Hospital1 **]
+Furosemide 60mg QAM, 40mg QPM
+Spironolactone 25 mg daily
+Potassium chloride 10 mEq daily
+NPH insulin 34 units qAM, 32 units qPM
+Regular insulin 16 units qAM, 17 units qPM
+Symbicort 160/4.5 2 puffs [**Hospital1 **]
+Spiriva 18mcg 1 puff daily
+Omeprazole 20 daily
+Folic Acid 1 mg daily
+Prednisone 7.5mg daily
+Methotrexate 6 tablets of 2.5 mg once weekly qTues
+Prednisolone drops left eye qHS
+Aritificial Tears PRN
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Warfarin 3 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+3. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Furosemide 20 mg Tablet Sig: Three (3) Tablet PO QAM (once a
+day (in the morning)).
+5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO QPM (once a
+day (in the evening)).
+6. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. NPH Insulin Human Recomb 100 unit/mL Cartridge Sig: Thirty
+Four (34) units Subcutaneous qAM.
+8. NPH Insulin Human Recomb 100 unit/mL Cartridge Sig: Thirty
+Two (32) units Subcutaneous qPM.
+9. Insulin Regular Human 100 unit/mL Cartridge Sig: Sixteen (16)
+units Injection qAM.
+10. Insulin Regular Human 100 unit/mL Cartridge Sig: Seventeen
+(17) units Injection qPM.
+11. Symbicort 160-4.5 mcg/Actuation HFA Aerosol Inhaler Sig: Two
+(2) puffs Inhalation twice a day.
+12. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+13. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+14. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+15. Prednisone 2.5 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+16. Prednisolone Acetate 0.12 % Drops, Suspension Sig: One (1)
+Drop Ophthalmic QHS (once a day (at bedtime)).
+17. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-30**]
+Drops Ophthalmic PRN (as needed) as needed for dry eyes.
+18. Diltzac ER 120 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO once a day.
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+19. Benicar 20 mg Tablet Sig: One (1) Tablet PO once a day.
+20. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Pericardial effusion
+Secondary Diagnosis:
+Diabetes Mellitus
+Rheumatoid arthritis complicated by pericardal effusion and
+tamponade requiring pericardiocentesis and drain placement in
+[**4-/2102**]
+Atrial fibrillation on warfarin
+Hypertension
+Hyperlipidemia
+Chronic Obstructive Pulmonary Disease
+Iron Deficiency Anemia
+Gastroesophageal Reflux Disease
+Glaucoma
+
+
+Discharge Condition:
+good, stable, afebrile
+mental status: alert and oriented to person, place, and time
+ambulatory status: able to ambulate well without assistance
+
+
+Discharge Instructions:
+You were admitted to [**Hospital1 69**] for
+recurrent pericardial effusion seen on a routine echocardiogram.
+ During this admission, we reviewed the echocardiogram that was
+performed at [**Location (un) 620**] and found that while there is some fluid
+present, it is not causing any tamponade of your heart.  A
+pericardial window was performed by thoracic surgery to help
+drain the fluid around your heart and prevent future
+reaccumulation.  Please continue to regularly follow up with
+your cardiologist, Dr. [**Last Name (STitle) 1016**], as you have been doing.
+.
+The following changes were made to your medications.
+We CHANGED to:
+Metoprolol Tartrate 50mg three times a day.
+Diltiazem ER 120mg daily.
+.
+We STOPPED:
+potassium chloride 10meq capsule Sustained release tablet daily.
+.
+Please continue to follow up in [**Hospital3 **] and
+change your dosage of warfarin as instructed.
+
+If you experience any chest pain, worsening shortness of breath,
+or any other worrisome symptoms, please return to the emergency
+room
+
+Followup Instructions:
+#1.MD: Dr. [**First Name8 (NamePattern2) 1026**] [**Name (STitle) 1016**]
+Specialty: Cardiology
+Date/ Time: [**Last Name (LF) 2974**], [**1-5**] at 10:00am
+Location: [**Street Address(2) **], [**Location (un) 620**], [**Numeric Identifier 3002**]
+Phone number: ([**Telephone/Fax (1) 8937**]
+.
+#2: Dr. [**First Name8 (NamePattern2) 30642**] [**Name (STitle) **]
+Specialty: PCP
+[**Name Initial (PRE) 2897**]/ Time: [**Last Name (LF) 766**], [**1-8**] at 10:30am
+Location: INTERNISTS ASSOCIATED, [**Street Address(2) 21374**], [**Location (un) **],[**Numeric Identifier 30643**]
+Phone number: [**Telephone/Fax (1) 6163**]
+.
+#3: Please follow up with Dr. [**First Name (STitle) **] of Thoracic Surgery on
+[**1-16**] at 9:00am at [**Hospital Ward Name 23**] 9 on the [**Hospital Ward Name 516**] at ([**Telephone/Fax (1) 27079**].
+.
+#4.Please go to [**Hospital Ward Name 23**] [**Location (un) **] Radiology on the [**Hospital Ward Name 516**]
+for a Chest X-ray, any time between 9am and 3pm on [**2103-1-13**]. This
+chest x-ray must be done before your appointment with Dr [**First Name (STitle) **] on
+the 19th.
+.
+#5. Please continue to follow up in [**Hospital3 **] for
+management of your warfarin as you have been doing.
+
+
+
+",['insulin']
+20432,"[('C0557854', 0.9285425543785095), ('C0205451', 1.0), ('C0589488', 0.9799360036849976), ('C0227075', 0.9996557831764221), ('C0595301', 0.9660585522651672), ('C0020258', 0.9927442073822021), ('C0227051', 0.9983566999435425), ('C0038951', 1.0), ('C4517499', 0.9961625933647156), ('C4517629', 0.9969505667686462), ('C5191355', 0.9968814849853516), ('C0001962', 0.9814969301223755), ('C0205435', 0.9855308532714844), ('C0205451', 1.0), ('C1512338', 0.9497846961021423), ('C0024109', 0.9962924718856812), ('C0000726', 0.9657635688781738), ('C0224086', 0.9835448861122131), ('C0120446', 0.9706078767776489), ('C0015306', 0.9410656690597534), ('C0205448', 1.0), ('C0040439', 0.9079856276512146), ('C0027855', 0.9865090250968933), ('C3838679', 0.9965338706970215), ('C1283004', 0.9435220956802368), ('C5191360', 0.99745112657547), ('C4319553', 0.9979278445243835), ('C1710338', 0.957562267780304), ('C3842590', 0.9722115397453308), ('C3151781', 0.9978901743888855), ('C0025939', 0.9633074402809143), ('C0058928', 0.9836705923080444), ('C0205435', 0.9855308532714844), ('C0030605', 0.9858034253120422), ('C0450382', 0.995994508266449), ('C0310367', 0.9852661490440369), ('C0007189', 0.9920249581336975), ('C0038951', 1.0), ('C0038951', 1.0), ('C0038951', 1.0), ('C0038951', 1.0), ('C0439144', 1.0), ('C3840916', 0.9835744500160217), ('C0011860', 0.9764489531517029), ('C0020258', 0.9927442073822021), ('C0038951', 1.0), ('C0205447', 0.9757283926010132), ('C0205449', 1.0), ('C5191366', 0.995837926864624), ('C0205452', 1.0), ('C0205448', 1.0), ('C0038951', 1.0), ('C0039985', 0.9700195789337158), ('C0439230', 0.8902930617332458), ('C0120446', 0.9706078767776489), ('C0079252', 0.9799035787582397), ('C0205447', 1.0), ('C0205447', 1.0), ('C0585325', 0.9906051158905029), ('C0205448', 1.0), ('C0086620', 0.9795928001403809), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205448', 1.0), ('C0205449', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0038951', 1.0), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0205448', 1.0), ('C0205451', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205452', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0015392', 0.9816190004348755), ('C0205448', 1.0), ('C0205453', 1.0), ('C0205447', 0.9757283926010132), ('C0205454', 1.0), ('C0205447', 0.9757283926010132), ('C0205448', 1.0), ('C0205455', 1.0), ('C0205449', 0.9899592995643616), ('C0205449', 1.0), ('C0585325', 0.9906051158905029), ('C0205456', 0.9997245073318481), ('C0205447', 0.9757283926010132), ('C0205449', 1.0), ('C0205457', 0.9962367415428162), ('C0243237', 0.889505922794342), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205448', 1.0), ('C0205458', 0.9979794025421143), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0038951', 1.0), ('C0227048', 0.9985483288764954), ('C0357126', 0.9681151509284973), ('C4319610', 0.994907796382904), ('C0026222', 0.9565818905830383), ('C0227051', 0.9983566999435425), ('C0205447', 0.9757283926010132), ('C0227052', 0.9994271993637085), ('C0006674', 0.9841389656066895), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0227053', 0.9986576437950134), ('C0205447', 0.9757283926010132), ('C0227054', 0.9987806677818298), ('C1704407', 0.9994568228721619), ('C3715206', 0.9987627267837524), ('C0450337', 0.9981729388237), ('C0043483', 0.9806391596794128), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205448', 1.0), ('C0227059', 0.9999997615814209), ('C0028066', 0.9604309797286987), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205448', 1.0), ('C0227060', 0.9981310963630676), ('C0006938', 0.9880793690681458), ('C0444500', 0.9945617318153381), ('C0205449', 1.0), ('C4284772', 0.9987806677818298), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0037265', 0.9913879632949829), ('C0020488', 0.9909758567810059), ('C4517541', 0.9945980310440063), ('C0205451', 1.0), ('C0041701', 0.9652799367904663), ('C0205435', 0.9855308532714844), ('C1552217', 0.9861634373664856), ('C0205447', 1.0), ('C0450348', 0.9985483288764954), ('C5554903', 0.9169392585754395), ('C0041701', 0.9652799367904663), ('C4517527', 0.9871552586555481), ('C0022716', 0.9968141913414001)]","Admission Date:  [**2188-4-10**]              Discharge Date:   [**2188-5-2**]
+
+Date of Birth:  [**2121-4-30**]             Sex:   F
+
+Service: MED
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 783**]
+Chief Complaint:
+Found down, hypothermia, unarousable
+
+Major Surgical or Invasive Procedure:
+Placement of R tunneled IJ hemodialysis catheter [**4-17**]; d/c [**5-2**]
+Placement of L subclavian central line
+MICU stay
+
+
+History of Present Illness:
+[**Known lastname 54741**] is a 66 year-old female who was found when neighbors
+noticed a foul smell and was found down, unarousable with a
+rectal temperature of 86F and bradycardic to the 40s.  She was
+transferred to [**Hospital3 **]??????s and intubated, found to be
+hypotensive, hypernatremic, and have a crit of 32 and was
+transferred to [**Hospital1 18**] for further evaluation.  She had no known
+past medical history, was unable to communicate, and had no
+known family members immediately available.
+
+
+Past Medical History:
+Hypertension controlled with lopressor, avapro and
+hydrochlorothyazide.  Noted on CT to have vascular
+calcifications without evidence of aneurysm.
+Hypercholesterolinemia presumed due to treatment with Lipitor
+Diabetes Mellitus Dicharge summary notes NPH and regular insulin
+@ 14 and 4 units, respectively, [**Hospital1 **].
+Pulmonary Embolus likely due to RLE DVT in [**2185**].  Started on
+lovenox and  coumadin at that time.
+Chronic renal failure with baseline creatinine of 1.3 to 2.2 per
+[**Hospital1 2177**] records.
+
+
+Social History:
+Lives alone in [**Location (un) 583**].  Unknown tobacco, EtOH, drug history.
+Sisters living in [**Name (NI) 3908**]: [**First Name8 (NamePattern2) 2013**] [**Name (NI) 4427**], [**Name (NI) 3608**] [**Name (NI) 26687**] sisters:
+[**Telephone/Fax (5) 54742**] cell.
+
+
+Family History:
+Unknown.
+
+Physical Exam:
+on admission to medicine floor service:
+95.6	78	136/63		12	98%, on 2L NC
+GEN:	Well appearing female who is very pleasant
+HEENT:	Pupils surgical at inferior aspects and non-responsive to
+light.  No cervical or supraclavicular lymphadenopathy.  Thyroid
+normal without nodules.  Neck supple.
+CV:	RRR, split S2.  No rubs, gallops or murmurs appreciated
+RESP:	Lungs w/ decreased BS bilaterally R>L.  No crackles.  Mild
+egophany at bases.
+ABD:	+ BS.  Belly non-tender, non-distended.
+GU:	Deferred
+EXT:	No clubbing/cyanosis/.  Many petechiae on volar aspect of
+fingers.  Pupuric dorsal apect of R great toe.  2+ edema of
+hands and BLE.  Exfoliation between B toes.
+DERM:	Petechiae on hands as noted.  Evidence of tinea pedis on
+feet.
+NEURO:	CN III-XIII intact  Visual acuity weak-patient able to
+see light/dark but not figures.  Eyes move purposefully and
+spontaneously.  Awake and alert, somewhat disoriented, but
+answers questions appropriately.  Bulk & tone somewhat
+diminished, with 4+ strength in UE.  Able to move all
+extremities spontaneously.
+
+
+Pertinent Results:
+[**2188-4-10**] 09:35PM   WBC-5.9 RBC-2.75* HGB-5.9* HCT-21.7* MCV-79*
+MCH-21.3* MCHC-27.0* RDW-19.8*
+[**2188-4-10**] 09:35PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2188-4-10**] 09:43PM   PO2-104 PCO2-31* PH-7.32* TOTAL CO2-17* BASE
+XS--8 COMMENTS-COTLEY
+[**2188-4-10**] 09:43PM   LACTATE-1.9 K+-3.1*
+[**2188-4-10**] 09:35PM   CK-MB-16* MB INDX-2.1 cTropnT-0.21*
+
+Brief Hospital Course:
+Hospital Course: After an extensive workup in the ED, she had
+activity that appeared to be a seizure, and was started on
+dilantin.  She was extensively hydrated, and her hypernatremia
+was corrected from 162 to 140 over the next two days.  She was
+noted to be in acute renal failure, thought to be due to an
+ATN-type picture.  She was also found to be hypothyroid and an
+initial echo showed an EF of <10% with global LV akinesis.  She
+required pressor support for her hypotension and remained
+intubated for breathing support.  Her MICU course by systems is
+as follows:
+
+CV: Elevated CKs on admission but no evidence of MI from
+troponins or EKG changes.  Echo on [**2188-4-14**] showed LV dysfunction
+as noted above, noting EF<10% as well as 3+ MR [**First Name (Titles) **] [**Last Name (Titles) **].  Also
+noted at that time to have a large LV thrombus as well as LAA
+thrombus, for which she was started on IV heparin.  Over the
+course of her MICU stay her hypotension resolved and gradually
+she developed mild hypertension, for which she was started on
+isordil and nifedipine.  Repeat echo performed [**2188-4-25**] shows
+global LV dysfunction but improvement in LVEF to 20-25%, with
+left thrombi still visible.  Her PTT has been maintained in the
+55-75 range and she was started on coumadin today.  Cardiology
+has been following closely.  Her hypothermia resolved with
+passive warming on admission, although she has had several
+episodes of mild hypothermia off and on over her hospital stay
+which has resolved with blankets and monitoring.
+
+Neuro: Seizure activity last noted on [**4-22**], EEG performed
+[**2188-4-18**] which showed global slowing without focal abnormalities
+indicative of a diffuse metabolic, toxic, or infectious process.
+ Was switched to Keppra on [**4-22**].  Neurological exams have been
+non-focal to date, with a gradual improvement in mental status
+over the course of her MICU stay. At the time of discharge, she
+is awake and talking but not completely oriented and very
+lethargic, but this is vast improvement over initial
+assessments.  She has had an extensive head and neck workup upon
+admission which has been largely negative save for evidence of
+old lacunar infarcts.  Neuro has been following closely.  As her
+mental status improved, it became apparent that the patient
+suffered from cortical blindness with associated neglect of her
+deficit; MRI exam failed to demonstrate discrete lesions
+affecting her visual pathways.
+
+Renal:	Acute renal failure with low urine output on admission
+and was started on CVVH [**4-13**] and switched to hemodialysis on
+[**4-17**] for which she had a tunneled RIJ catheter placed. Urine
+protein to creatinine ratios since [**4-14**] have been consistently
+higher than 3.0, indicative of a probable nephrotic syndrome,
+but U/A microscopy showed only scant muddy-brown casts. At the
+time of discharge, she had increased urine output and was
+started on an oral diuretic regimen. She did not require
+hemodialysis for 4-5 days prior to discharge and her creatinine
+remained stable.
+
+Endocrine: long-standing NIDDM with unknown complications, and
+has required NPH and sliding scale insulin during the MICU
+admission.  Hypothyroidism initially treated with levothyroxine
+and IV T3, which has improved her lab values, and the IV T3 was
+stopped on [**4-24**], and she has remained on the levothyroxine.
+Considerable thought has been given to the idea that this
+clinical picture may be one of myxedemic coma, and endocrine has
+been following as well, but is not convinced this is the case.
+She was also noted to have low cortisol response on admission
+and was started on IV steroids, has since been tapered down and
+is currently on a prednisone taper which was completed by the
+time of discharge.
+
+Heme: Ms. [**Known lastname 54741**] was markedly thrombocytopenic on admission with
+platelets around 30K, but this remained somewhat stable and has
+improved with platelet transfusions (3 total, most recently on
+[**2188-4-23**]).  Her hematocrit on admission was low (21.7) and she
+has received a total of 6 units RBCs since admission (most
+recently 2 units on [**4-21**]).  The heme service was constuled and
+felt that there was no evidence of ongoing hemolysis but that
+her iron studies show some indication of a possible chronic
+anemia unrelated to her iron levels, and a continually low
+reticulocyte count. If there are any future concerns, she should
+follow up with hematology.
+
+Pulmonary: Pt was intubated on admission and remained intubated
+until [**4-24**].  During that time she was initially clear on CXR but
+developed bilateral layered effusions bilaterally (R>L) and a
+focal  ground glass opacity in the LUL.  The effusion is thought
+to be evidence of CHF, infection, or aspiration.  The patient
+was started on a week course of Ceftriaxone, Flagyl, and
+Levofloxacin shortly after admission, and finished her course on
+[**4-19**], with no evidence of infection since.   Serial CXRs have
+shown a gradual increase in size of the pleural effusions with
+atelectasis and collapse of the lower lungs. These effusions
+were felt to be secondary to heart failure and improved with
+diuresis.
+
+F/E/N:	As noted the hypernatremia corrected over the first few
+days and her other electrolytes have remained reasonably stable
+with hemodialysis.  She has a NGT placed and is currently
+receiving her enteral nutrition through this.  She has been
+noted to have increasing edema, thought to be secondary to her
+poor renal output, which have been increasing somewhat lately.
+The patient was seen by Speech and swallow and deemed safe for
+oral intake in a monitored setting.
+
+GU: Treated for  a yeast infection
+
+CODE:	PATIENT IS DNR/DNI
+
+DISPO:	transferred to a rehabilitation facility.
+	
+
+
+Medications on Admission:
+unknown at time of admission.
+
+Discharge Medications:
+1. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed.
+2. Miconazole Nitrate     Powder Sig: One (1) Appl Miscell.  [**Hospital1 **]
+(2 times a day).
+3. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO QD (once a day).
+4. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+5. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic  HS
+(at bedtime).
+6. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic  [**Hospital1 **] (2 times a day).
+7. Levothyroxine Sodium 125 mcg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+8. Levetiracetam 250 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+9. Hydralazine HCl 25 mg Tablet Sig: Three (3) Tablet PO Q6H
+(every 6 hours).
+10. Ferrous Sulfate 325 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+11. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+12. Isosorbide Dinitrate 20 mg Tablet Sig: Two (2) Tablet PO QID
+(4 times a day).
+13. Epoetin Alfa 2,000 unit/mL Solution Sig: 5000 units units/ml
+Injection 1X/WEEK (MO).
+14. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO QD (once
+a day).
+15. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO QD (once
+a day).
+16. Warfarin Sodium 7.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+17. Heparin Sod (Porcine) in D5W 100 unit/mL Parenteral Solution
+Sig: as directed  Intravenous  ASDIR (AS DIRECTED): discontinue
+heparin once INR theraputic.
+18. insulin
+standing doses and sliding scale included.
+19. Bacitracin Zinc 500 unit/g Ointment Sig: One (1) Appl
+Topical  [**Hospital1 **] (2 times a day).
+20. Nifedipine 90 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO BID (2 times a day).
+21. Captopril 12.5 mg Tablet Sig: 0.5 Tablet PO TID (3 times a
+day).
+22. Bumex 2 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 7**] & Rehab Center - [**Hospital1 8**]
+
+Discharge Diagnosis:
+Hypothermia
+Acute renal failure
+Cortical blindness
+Anemia
+Seizure disorder
+Hypothyroidism
+Thrombocytopenia
+Pleural effusions
+Hypernatremia
+Hypertension
+Diabetes mellitus
+Hypercholesterolinemia
+Dementia
+
+
+Discharge Condition:
+Stable to rehabilitation facility
+
+Discharge Instructions:
+Take all medications as instructed.
+Continue to follow INR. [**Month (only) 116**] stop heparin once INR theraputic.
+Follow up as below.
+Continue to follow hematocrit, transfuse for hematocrit less
+than 30.\
+Please continue wound care. MOnitor right HD IJ vein site (HD
+catheter pulled). Monitor abdomen and all other groin folds,
+keeping them clean, dry.
+Continue to follow blood pressure. Pt was started on an ace
+inhibitor [**5-2**] with goal of titrating up ace inhibitor and
+decreasing dose of hydralazine and isordil.
+
+Followup Instructions:
+Please follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3636**] on [**2188-5-20**] at 3:30 PM
+in the [**Hospital 191**] clinic in the [**Location (un) 8661**] building on the [**Location (un) 448**].
+Call [**Telephone/Fax (1) **] to reschedule.
+
+Follow up with nephrology with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on [**6-17**] at
+3pm. Call ([**Telephone/Fax (1) 773**] if you need to reschedule. You are on a
+wait list for a sooner appointment. [**Hospital Ward Name 23**] [**Location (un) 436**].
+
+Follow up with cardiology ([**Hospital 1902**] clinic) if your PCP feels that
+you need CHF follow up. Call [**Telephone/Fax (2) 54743**] to schedule if
+necessary.
+
+Follow up with neurology with Dr. [**Last Name (STitle) **], [**2188-7-1**] at
+2:30 pm. You will be called for any earlier appointments as they
+become available. Call [**Telephone/Fax (1) 54744**] if you need to reschedule
+the appointment.
+
+Follow up with endocrinology for [**Last Name (un) 104**]. stimulation test. [**7-10**] at 10 AM. Dr. [**Last Name (STitle) 42341**] [**Name (STitle) 54745**]. At [**Hospital Ward Name **] buiding, [**Location (un) 436**].
+Call [**Telephone/Fax (1) **].
+
+
+                             [**First Name11 (Name Pattern1) 734**] [**Last Name (NamePattern1) 735**] MD, [**MD Number(3) 799**]
+
+Completed by:[**2188-6-6**]",['insulin']
+29000,"[('C0557854', 0.9285425543785095), ('C0162531', 0.9863799214363098), ('C0948187', 0.8831760287284851), ('C0085096', 0.9841073155403137), ('C0310367', 0.9852661490440369), ('C0310367', 0.9852661490440369), ('C0014239', 0.9607449173927307), ('C0948187', 0.9732125401496887), ('C0085096', 0.9841073155403137), ('C0439230', 0.995377779006958), ('C0030054', 0.997958779335022), ('C0242350', 0.953866720199585), ('C4083021', 0.999999463558197), ('C0205456', 0.9997245073318481), ('C4517605', 0.9970510601997375), ('C4517884', 0.9962367415428162), ('C4517859', 0.9924862384796143), ('C1634351', 0.9969520568847656), ('C4517877', 0.9843853712081909), ('C0205458', 0.9979794025421143), ('C0205447', 1.0), ('C0250482', 0.9791693687438965), ('C0721336', 0.9450690746307373), ('C0444454', 0.9801592826843262), ('C0227059', 0.9999997615814209), ('C0205451', 1.0), ('C0428167', 0.9620984792709351), ('C0205448', 1.0), ('C4083021', 0.999999463558197), ('C0948187', 0.8831760287284851), ('C4083021', 0.999999463558197), ('C0036410', 0.9895656108856201), ('C0026987', 0.988472044467926), ('C0034642', 0.9883856773376465), ('C4054315', 0.9937393665313721), ('C0230179', 0.9527038931846619), ('C0120446', 0.9706078767776489), ('C2827735', 0.9989297986030579), ('C1520228', 0.9891049861907959), ('C0014834', 0.9835531711578369), ('C0250480', 0.9594225883483887), ('C0205435', 0.9855308532714844), ('C0066256', 0.9922850728034973), ('C0439211', 0.9986968636512756), ('C0002680', 0.9324250817298889), ('C0038951', 1.0), ('C0205447', 1.0), ('C0205447', 1.0), ('C0205447', 1.0), ('C0205447', 1.0), ('C0031955', 0.9797217845916748), ('C0205447', 1.0), ('C0205447', 1.0), ('C0205449', 1.0), ('C0250480', 0.9594225883483887), ('C0205435', 0.9855308532714844), ('C0205435', 0.9855308532714844), ('C0332437', 0.9946297407150269), ('C0250480', 0.9594225883483887), ('C0205435', 0.9855308532714844), ('C0066256', 0.9922850728034973), ('C0439211', 0.9986968636512756), ('C0205448', 1.0), ('C0221135', 1.0), ('C0205448', 1.0), ('C0038951', 1.0), ('C0221135', 1.0), ('C0038951', 1.0), ('C0221135', 1.0), ('C0221135', 1.0), ('C0205447', 1.0), ('C0031955', 0.9797217845916748), ('C0205447', 1.0), ('C0205447', 1.0), ('C0948187', 0.9732125401496887), ('C0205447', 1.0), ('C0205448', 1.0), ('C0205449', 1.0), ('C0038951', 1.0), ('C0025066', 0.9773284792900085), ('C0948187', 0.8831760287284851), ('C1300562', 0.996798038482666), ('C0014834', 0.9512033462524414), ('C4517692', 0.9967722296714783), ('C0725449', 0.9911494851112366), ('C0725449', 0.9911494851112366), ('C0014834', 0.9512033462524414), ('C0052148', 0.9727686047554016), ('C0014834', 0.9512033462524414), ('C0701042', 0.9681959748268127), ('C0014239', 0.9607449173927307), ('C0587117', 0.9769662618637085), ('C0240526', 0.9869015216827393), ('C0019029', 0.9981405735015869), ('C0205456', 0.9997245073318481), ('C0038951', 1.0), ('C0205448', 1.0), ('C0018935', 0.9932670593261719), ('C0287163', 0.968561053276062), ('C4319551', 0.9958397150039673), ('C4319550', 0.9955664277076721), ('C0240526', 0.9869015216827393), ('C0025859', 0.9727950692176819), ('C0000726', 0.9657635688781738), ('C4526586', 0.8955654501914978), ('C3844320', 0.9769196510314941), ('C0015230', 0.9840058088302612), ('C4517572', 0.9974177479743958), ('C4699693', 0.9781361818313599), ('C2348831', 0.9982602596282959), ('C0876064', 0.9627238512039185), ('C4319608', 0.997058629989624), ('C4319605', 0.9977545738220215), ('C0025859', 0.9727950692176819), ('C1272689', 0.9934787750244141), ('C1155733', 0.9622765183448792), ('C4319551', 0.9958397150039673), ('C0240526', 0.9869015216827393), ('C3816723', 0.9996994137763977), ('C0025859', 0.9727950692176819), ('C0205447', 1.0), ('C0340364', 0.9924454689025879), ('C0205448', 1.0), ('C0205449', 1.0), ('C0419179', 0.9945492744445801), ('C0038951', 1.0), ('C0205447', 1.0), ('C4517714', 0.9948894381523132), ('C0205448', 1.0), ('C0030481', 0.8575709462165833), ('C4517554', 0.9962859749794006), ('C0205449', 1.0), ('C4517807', 0.9955465197563171), ('C0332173', 0.9872916340827942), ('C0038951', 1.0), ('C0907402', 0.9811837673187256), ('C4319608', 0.997058629989624), ('C0205451', 1.0), ('C3816723', 0.9996994137763977), ('C0205452', 1.0), ('C0025859', 0.9727950692176819), ('C4321486', 0.9974575042724609), ('C0205453', 1.0), ('C0205454', 1.0), ('C0227054', 0.9987806677818298), ('C0205455', 1.0), ('C0205456', 0.9997245073318481), ('C0205457', 0.9962367415428162), ('C0205458', 0.9979794025421143), ('C0227048', 0.9985483288764954), ('C3816746', 0.9885464906692505), ('C0227051', 0.9983566999435425), ('C2348831', 0.9982602596282959), ('C0227052', 0.9994271993637085), ('C0205447', 1.0), ('C0227053', 0.9986576437950134), ('C0227054', 0.9987806677818298), ('C0205447', 1.0), ('C4517714', 0.9948894381523132), ('C0205448', 1.0), ('C0205447', 1.0), ('C0205449', 1.0), ('C3816723', 0.9996994137763977), ('C0038951', 1.0), ('C0205451', 1.0), ('C0026221', 0.9962690472602844), ('C0205452', 1.0), ('C0205453', 1.0), ('C0205454', 1.0), ('C0205455', 1.0), ('C4517807', 0.9955465197563171), ('C0332173', 0.9872916340827942), ('C0205456', 0.9997245073318481), ('C0205457', 0.9962367415428162), ('C0205458', 0.9979794025421143), ('C0227054', 0.9987806677818298), ('C0227048', 0.9985483288764954), ('C3816746', 0.9885464906692505), ('C0227051', 0.9983566999435425), ('C0227052', 0.9994271993637085), ('C0700580', 0.8936704993247986), ('C0205447', 1.0), ('C0227053', 0.9986576437950134), ('C1251945', 0.9900647401809692), ('C0227054', 0.9987806677818298), ('C0439228', 0.996391773223877), ('C3715206', 0.9987627267837524), ('C1155733', 0.9622765183448792), ('C0450337', 0.9981729388237), ('C0907402', 0.9811837673187256), ('C4319605', 0.9977545738220215), ('C0227059', 0.9999997615814209), ('C0030481', 0.8575709462165833), ('C4517554', 0.9962859749794006), ('C0037265', 0.9913879632949829), ('C0022716', 0.9968141913414001)]","Admission Date:  [**2112-8-11**]              Discharge Date:   [**2112-8-17**]
+
+Date of Birth:  [**2058-4-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 3556**]
+Chief Complaint:
+Hypoxia
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Unable to obtain as on ventilator
+Obtained history from nursing home records. Called both
+HCP/guardians but unable to reach. Patient unable to provide
+history as has developmental disabilities with good receptive
+language skills but non-verbal due to presence of tracheostomy
+placed on [**2111-1-13**].
+54F MR, tracheomalacia s/p tracheostomy in [**2107**], PVD, multiple
+aspiration pneumonias, DM2 among other conditions who had low
+oxygen saturations at her nursing facility. She was noted to
+have thick yellow secretions from her trach tube on [**2112-8-9**].
+She was started on zithromax. It was noted that today her pulse
+ox was low in 70s-80s on supplemental oxygen with no improvement
+with suction today. She was tremulous and bluish. She was
+transferred to the ER for further care.
+Of note, the patient has tracheomalacia. She was hospitalized at
+[**Hospital1 18**] for evaluation of severe PVD in Feburary [**2110**] at which
+time she went into respiratory distress from pulmonary edema.
+Adequate intubation was not possible due to tracheomalacia, and
+she underwent open tracheostomy. She stabilized but remained
+ventilator dependent for severe week but eventually weaned at
+pulmonary rehab. Because of tracheomalacia and subsequent trauma
+from tracheostomy (Portex #7), she will likely remain
+teacheostomy dependent and not a candidate for decannulation.
+Per the IP team, she is not a candidate for a PM valve.
+At baseline, she receives continuous humidifcation via trach
+mask and large volume nebulizer. The FiO2 settings is from 21-40
+% to keep O2 sat > 90 %.
+The patient also has a history of bipolar disorder with a long
+history of mood swings including agitation, assault, and
+depression.
+In the ED, initial VS were: Triage 19:51 0 99 112 127/49 18 97%
+10 l humidified
+Labs were performed
+- WBC 19.1 Hgb 10.8 (Baseline [**7-22**]) Plt 175 Diff N 81 L 7.5
+- Coags within normal limits
+- Na 129 K 4.2 Cl 88 HCO3 34 BUN 23 Cr 1 (baseline 0.8-1) Glc
+163
+- Lactate 3.4
+- UA SpG 1.008 pH 8.5 LE LG Nit neg WBC 12 Bacteria Few Epi < 1
+
+CXR showed limited lung volumes with no acute intrathoracic
+process detected although ? pneumonia.
+She was given vancomycin, zosyn, and levaquin.
+Access was difficult with 20G peripheral IV in shoulder and
+failed attempt of right femoral line.
+Patient was placed on a ventilator due to continued respiratory
+distress and tachycardia. Vent settings were 350x20, PEEP 5,
+FIO2 40 %. She was suctioned x 2.
+VS on transfer: 00:08 100.3 113 101/64 20 98%
+On arrival to the MICU, patient was resting comfortably on the
+vent.
+Review of systems: unable to obtain as on ventilator
+
+
+Past Medical History:
+Past Medical History:
+Mental retardation
+tracheomalacia s/p tracheostomy
+h/o aspiration pneumonia
+E.Coli bacteremia [**10-23**]
+diabetes mellitus
+h/o C. difficile infection
+glaucoma
+hypertension
+HLD
+osteoarthritis
+depression/anxiety,
+constipation
+psychosis
+
+PAST SURGICAL HISTORY:
+Tracheostomy and PEG [**2107**],
+R total knee replacement
+R hip replacement
+Right common iliac artery stent placement and right external
+iliac recanalization with stent placement x2.  [**1-/2111**]
+
+
+Social History:
+lives at nursing home
+Father and Brother are [**Name2 (NI) **]-guardians
+
+
+Family History:
+unable to obtain
+
+
+Physical Exam:
+Admission Exam:
+VS 100.3 113 101/64 20 98%
+General: would state shake head ""yes or no"" to questions,
+follows commands, unable to speak due to ventilator and trach
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD, poor dentition
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops although exam limited due to coarse breath sounds
+Lungs: diffuse coarse breath sounds, no wheezes, rales, ronchi
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly. PEG tube located in LUQ
+GU: foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact although disconjugate gaze especially
+with right eye
+Skin: ? stage I pressure ulcer on sacrum
+
+
+Pertinent Results:
+[**2112-8-10**] 10:42PM BLOOD WBC-19.1*# RBC-3.52* Hgb-10.8* Hct-31.6*
+MCV-90 MCH-30.7 MCHC-34.2 RDW-16.3* Plt Ct-175
+[**2112-8-10**] 10:42PM BLOOD Neuts-81.0* Lymphs-7.5* Monos-11.0
+Eos-0.2 Baso-0.2
+[**2112-8-15**] 03:59AM BLOOD Hypochr-2+ Anisocy-NORMAL Poiklo-NORMAL
+Macrocy-1+ Microcy-NORMAL Polychr-NORMAL
+[**2112-8-10**] 10:42PM BLOOD PT-10.0 PTT-26.4 INR(PT)-0.9
+[**2112-8-10**] 10:42PM BLOOD Glucose-163* UreaN-23* Creat-1.0 Na-129*
+K-4.2 Cl-88* HCO3-34* AnGap-11
+[**2112-8-11**] 04:00AM BLOOD Calcium-8.6 Phos-1.7* Mg-2.0
+[**2112-8-10**] 10:59PM BLOOD Type-ART pO2-101 pCO2-50* pH-7.47*
+calTCO2-37* Base XS-10 Intubat-NOT INTUBA
+[**2112-8-10**] 10:59PM BLOOD Lactate-3.4*
+
+Blood Culture, Routine (Final [**2112-8-13**]):
+      ESCHERICHIA COLI.    FINAL SENSITIVITIES.
+         Piperacillin/Tazobactam sensitivity testing performed
+by [**First Name8 (NamePattern2) 3077**]
+         [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----       S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+URINE CULTURE (Final [**2112-8-12**]):
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION.
+
+RESPIRATORY CULTURE (Final [**2112-8-15**]):
+      HEAVY GROWTH Commensal Respiratory Flora.
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.
+         Piperacillin/Tazobactam sensitivity testing performed
+by [**First Name8 (NamePattern2) 3077**]
+         [**Last Name (NamePattern1) 3060**].
+         CIPROFLOXACIN sensitivity testing performed by [**First Name8 (NamePattern2) 3077**]
+[**Last Name (NamePattern1) 3060**].
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.  SECOND
+MORPHOLOGY.
+         Piperacillin/Tazobactam sensitivity testing performed
+by [**First Name8 (NamePattern2) 3077**]
+         [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+CEFEPIME--------------     2 S        2 S
+CEFTAZIDIME-----------     4 S        4 S
+CIPROFLOXACIN---------       S      0.5 S
+GENTAMICIN------------     2 S        4 S
+MEROPENEM-------------     1 S        1 S
+PIPERACILLIN/TAZO-----       S          S
+TOBRAMYCIN------------   <=1 S      <=1 S
+
+[**2112-8-17**] 04:00AM BLOOD WBC-7.5 RBC-3.36* Hgb-10.1* Hct-31.4*
+MCV-94 MCH-30.1 MCHC-32.2 RDW-15.2 Plt Ct-154
+[**2112-8-17**] 04:00AM BLOOD Glucose-72 UreaN-14 Creat-0.9 Na-141
+K-3.9 Cl-106 HCO3-33* AnGap-6*
+[**2112-8-17**] 11:32AM BLOOD Type-CENTRAL VE pO2-37* pCO2-61* pH-7.35
+calTCO2-35* Base XS-5
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+================================================================
+Imaging:
+[**2112-8-10**]
+FRONTAL CHEST RADIOGRAPH:  A tracheostomy tube is appropriately
+positioned.  Low lung volumes result in bronchovascular
+crowding.  The central pulmonary vessels are engorged, however,
+no overt edema is seen.  There is no definite consolidation,
+pneumothorax, or pleural effusion.
+
+[**2112-8-15**]
+Renal U/s
+FINDINGS:  The study is markedly limited due to patient body
+habitus, edema and portable technique. The right kidney is 8.6
+cm and the left kidney is 10.1 cm.  There is no obvious
+hydronephrosis. We cannot evaluate for stones or masses. The
+bladder is not seen.
+
+[**2112-8-15**]
+Chest CT
+FINDINGS:  There are no pulmonary arterial filling defects to
+suggest the
+presence of pulmonary embolism.  There is no aortic dissection.
+There are
+small bilateral non-hemorrhagic pleural effusions as well as
+large areas of atelectasis bilaterally.  On the left, most of
+the posterior basal segment is collapsed.  There are also
+multiple areas of airspace consolidation consistent with
+multifocal pneumonia.
+  There are multiple enlarged lymph nodes within the
+mediastinum.  The largest are a 19 x 12 mm right paratracheal
+lymph node (3:19) and a 20 x 11 mm paraesophageal lymph node
+further inferiorly (3:34).  Severe tracheomalacia is again
+identified beginning just distal to the endotracheal tube and
+continuing through the carina (3:10).  This is similar in extent
+and severity to the prior examination from [**2112-4-13**].  No
+focal osseous lesions are identified.  There is extensive
+atherosclerotic calcification within the thoracic aorta and
+coronary arteries.  A small pericardial effusion is present,
+without evidence
+of tamponade as well as a probable edematous lymph node in the
+epicardial fat pad (4:112).
+
+IMPRESSION:
+1.  No evidence of pulmonary embolism or acute aortic syndrome.
+2.  Multifocal pneumonia and segmental atelectasis, with small
+bilateral
+non-hemorrhagic pleural effusions.
+3.  Severe tracheomalacia.
+4.  Mediastinal lymphadenopathy, likely reactive hypertrophy in
+the setting of pneumonia.
+
+
+Brief Hospital Course:
+53F history of mental retardation, tracheomalacia s/p
+tracheostomy with multiple aspiration pneumonias, DM2 among
+other conditions who presented with tachypnea, increased oxygen
+requirement, and thick secretions from tracheostomy concerning
+for sepsis from a pulmonary source. Was found to have sputum
+positive for pseudomonas and blood culture positive for E. Coli.
+Both organisms were sensitive to ciprofloxacin.
+
+# Sepsis from a pulmonary and/or urinary source, initially
+treated with broad coverage with vancomycin and cefepime.
+Received fluid resuscitation. Initial lactate was 3.4, which
+cleared with resuscitation. Pt. had episode of hypotension to
+SBPs of 70s requiring placement of femoral CVC, and brief use of
+NE for less than 24 hours. CVC was then pulled and a PICC line
+was placed.
+
+Blood Cx showed E. Coli, and suputum culture showed pseudomonas,
+both of which were sensitive to ciprofloxacin. When this data
+was obtained, antibiotic coverage was narrowed to just
+ciprofloxacin. As patient was also on large doses of seroquel,
+EKG was obtained, which showed normal QTc.
+
+She is to continue a 15 day course of antibiotic coverage for
+pseudomonas VAP/E. Coli bacteremia with ciprofloxacin. End date
+for cipro is [**2112-8-25**].
+
+# Respiratory failure
+Patient may have respiratory failure secondary to pulmonic
+process such as pneumonia or tracheobronchitis with some
+component of mucous plugging per reports in ER. Pt. was able to
+be weaned off the vent, saturating well with trach mask. The
+evening before discharge she was placed on pressure support
+ventilation to see if this would improve her tachycardia. She
+was able to come off of vent on day of discharge. Would likely
+benefit from CPAP at night and albuterol nebulizer.
+
+# Anemia: Likely multifactorial ACD, acute blood loss, and
+dilutional. Admitted at baseline Hgb ~ 10. Crit dropped after
+placement of fem line with bleeding noted at fem site, concern
+for retroperitoneal bleed at that time but responded
+appropriately to 4 units with no evolving signs of bleeding.
+Remained stable, then dropped two days later in context of 2L
+fluid bolus, bumped appropriately to 2 units PRBC. Hematocrit
+stable at discharge.
+
+# Altered mental status: Patient waxed and waned. Initially
+attributed to sepsis and respiratory distress, the patient was
+eventually decreased on Seroquel from 250mg TID to 125mg TID.
+She became alert and oriented at discharge.
+
+# Tachycardia: Etiology unclear, developed tachycardia to 120's
+after sepsis resolved. Responded to CPAP at night, IVF, and
+resumption home metoprolol.
+
+# Rash: Likely drug reaction to cefepime-erythematous blanching
+over abd and torso, nonpruritic, no swelling, no pustules,
+evolved two days after cefepime started and one day after vanc
+DC'd. Rash resolved with narrowing to ciprofloxacin. The patient
+had some relief with hydrocortisone cream.
+
+# Hyponatremia: Hypovolemic hyponatremia, admitted Na 130, rose
+to 141 with IVF.
+
+Chronic Issues:
+# Peripheral Vascular Disease: Lower extremity pulses are
+evidence by doppler on admission. Continued ASA 325 mg PO qD,
+held fenofibrate, restarted at discharge.
+
+# Bipolar disorder
+She had no active signs or symptoms of psychiatric
+decompensation. Continued seroquel 250 mg PO TID initially, then
+decreased to 125mg TID in the setting of altered mental status.
+Continued valproic acid syrup 500 mg PO qAM and 750 mg PO qPM.
+
+# DM2: Blood sugars were stable, Lantus decreased from 48 to 35
+units at bed time.
+
+# Hypothyroidism: Continued home levothyroxine
+
+# Hypertension: After sepsis resolved, pressures stabilized.
+
+# Glaucoma: Continued latanoprost drops qAM
+
+# Osteoporosis: Continued calcium and vitamin D after sepsis
+stabilized
+
+Transitional Issues
+MEDICATION CHANGES
+STOPPED Metoprolol for hemodynamic instability, resume at
+outpatient facility
+STARTED Ciprofloxacin IV 500mg [**Hospital1 **], last day [**8-25**] for total of
+15 days coverage
+STARTED Hydrocortisone Cream 0.5% 1 Appl TP [**Hospital1 **]:PRN pruritis
+STARTED Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN wheeze
+CHANGED Seroquel 250mg TID to 125mg TID
+
+-ventilator support as needed, may trial CPAP at night
+-IV ciprofloxacin administration until [**2112-8-25**]
+-wound care for buttocks and inner thighs
+-Seroquel dose was downtitrated from home dose of 250mg TID to
+50mg TID while in hospital.  Patient did well on this dose and
+on discharge was not agitated.  If agitated, may uptitrate dose
+of seroquel as needed if there is no QTc prolongation
+-Monitor hemodynamics: if tachycardic and blood pressure
+tolerates, please restart metoprolol and uptitrate as needed
+(this had been held in the hospital due to hypotension and
+concern for sepsis; her home dose prior to hospitalization was
+150mg [**Hospital1 **])
+-Speech & swallow evaluation:
+1.  Pt is not safe to wear the PMV at this time
+2.  Discuss safety of trach cuff deflation trials to allow
+intermittent periods where pt can try to speak
+3.  Remain NPO with tube feeds
+4.  Q4 oral care as pt allows
+
+
+Medications on Admission:
+Preadmissions medications listed are incomplete and require
+futher investigation.  Information was obtained from  nursing
+home records.
+1. Aspirin 325 mg PO DAILY
+2. Calcium Carbonate Suspension 1250 mg PO DAILY
+5 mL (1 tsp) = 1250 mg Calcium Carbonate = 500 mg of Elemental
+Calcium
+3. fenofibrate *NF* 54 mg Oral daily
+4. Glargine 48 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+5. Levothyroxine Sodium 50 mcg PO DAILY
+6. Metoprolol Tartrate 150 mg PO BID
+7. Multivitamins 1 TAB PO DAILY
+8. Polyethylene Glycol 17 g PO DAILY
+9. Quetiapine Fumarate 250 mg PO TID
+10. Valproic Acid 500 mg PO QAM
+11. Valproic Acid 750 mg PO QHS
+12. Lorazepam 1 mg PO Q6H:PRN agitation
+13. Vitamin D 400 UNIT PO DAILY
+14. Azithromycin 250 mg PO Q24H
+15. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QAM
+16. lactobacillus acidophilus *NF*    Oral [**Hospital1 **]
+17. Amoxicillin [**2099**] mg PO PREOP
+prior to dental exams
+
+
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY
+2. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QAM
+3. Levothyroxine Sodium 50 mcg PO DAILY
+4. Lorazepam 1 mg PO Q6H:PRN agitation
+5. Quetiapine Fumarate 50 mg PO TID
+adjusted for MS
+6. Valproic Acid 500 mg PO QAM
+Liquid form
+7. Valproic Acid 750 mg PO QHS
+Liquid form
+8. Amoxicillin [**2099**] mg PO PREOP
+prior to dental exams
+9. fenofibrate *NF* 54 mg Oral daily
+10. lactobacillus acidophilus *NF* 0  capsule ORAL [**Hospital1 **]
+11. Multivitamins 1 TAB PO DAILY
+12. Polyethylene Glycol 17 g PO DAILY
+13. Vitamin D 400 UNIT PO DAILY
+14. Miconazole Powder 2% 1 Appl TP QID:PRN fungal infection
+15. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN wheeze
+16. Hydrocortisone Cream 0.5% 1 Appl TP [**Hospital1 **]:PRN pruritis
+17. Ciprofloxacin 400 mg IV Q12H
+Started Gram-negative bacteremia coverage on [**8-11**] days
+ending [**8-25**]
+18. Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN wheeze
+19. Glargine 35 Units Bedtime
+Insulin SC Sliding Scale using REG Insulin
+20. Calcium Carbonate Suspension 1250 mg PO DAILY
+5 mL (1 tsp) = 1250 mg Calcium Carbonate = 500 mg of Elemental
+Calcium
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 105**] - [**Location (un) 86**]
+
+Discharge Diagnosis:
+Sepsis with gram negative bacteria
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+It was a pleasure taking care of you in the hospital.  You were
+admitted with a blood infection and placed on antibiotics for
+this.  This infection was likely from a urinary source, and will
+require ciprofloxacin IV 5000mg twice daily up to and including
+[**2112-8-25**].
+
+In addition, you lost some blood after placement of a line in
+your groin through which to administer fluid. You received a
+blood transfusion to bring your blood levels back up.
+
+Followup Instructions:
+Follow up with physicians at your rehabilitation facility.
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3559**] MD, [**MD Number(3) 3560**]
+
+",['insulin']
+38338,"[('C0557854', 0.9285425543785095), ('C0030842', 0.9970746040344238), ('C0543467', 0.990713357925415), ('C0205435', 0.9855308532714844), ('C0205435', 0.9855308532714844), ('C0205436', 0.9851459264755249), ('C0205452', 1.0), ('C4517641', 0.989736795425415), ('C0027051', 0.9661474227905273), ('C0031809', 0.9019078612327576), ('C0028407', 0.991128146648407), ('C2987187', 0.9801642894744873), ('C0951233', 0.9958022236824036), ('C0012582', 0.9999046921730042), ('C0013362', 0.9800443053245544), ('C0038951', 1.0), ('C0041942', 0.9912328720092773), ('C0457385', 0.9745078682899475), ('C0457385', 0.9745078682899475), ('C0018792', 0.986284613609314), ('C0023117', 0.9990074038505554), ('C1327729', 0.9700210690498352), ('C0007799', 0.9851447343826294), ('C0149721', 0.9906902313232422), ('C0007799', 0.9851447343826294), ('C0205234', 0.933916449546814), ('C0205449', 1.0), ('C0746591', 0.9743762612342834), ('C1710361', 0.9780623316764832), ('C0041718', 0.9815152883529663), ('C1710361', 0.9780623316764832), ('C0205449', 1.0), ('C0041718', 0.9815152883529663), ('C0022716', 0.9968141913414001), ('C0022716', 0.9968141913414001), ('C0022716', 0.9968141913414001), ('C0205452', 1.0), ('C0489484', 0.9676731824874878), ('C0205435', 0.9855308532714844), ('C0205435', 0.9855308532714844), ('C0205436', 0.9851459264755249), ('C0439232', 0.8653755187988281), ('C0439232', 0.8653755187988281), ('C1442465', 0.9944695234298706), ('C0205447', 1.0), ('C4517569', 0.997422993183136), ('C0332173', 0.9872916340827942), ('C0205448', 1.0), ('C0205449', 1.0), ('C0076107', 0.9539430141448975), ('C0332173', 0.9872916340827942), ('C0038951', 1.0), ('C0025859', 0.9727950692176819), ('C0205447', 1.0), ('C0243237', 0.889505922794342), ('C0205447', 0.9757283926010132), ('C0205448', 1.0), ('C0205448', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205449', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0038951', 1.0), ('C0024476', 0.9829846620559692), ('C3816446', 0.968874990940094), ('C3816446', 0.9999806880950928), ('C0205451', 1.0), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0205452', 1.0), ('C3816746', 0.9885464906692505), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0205453', 1.0), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205454', 1.0), ('C4517569', 0.997422993183136), ('C0205447', 0.9757283926010132), ('C0205455', 1.0), ('C0076107', 0.9539430141448975), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0205456', 0.9997245073318481), ('C0025859', 0.9727950692176819), ('C1827665', 0.9993677139282227), ('C0205447', 0.9757283926010132), ('C0205448', 1.0), ('C0205457', 0.9962367415428162), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0205458', 0.9979794025421143), ('C0795635', 0.9847139120101929), ('C1704407', 0.9994568228721619), ('C0227048', 0.9985483288764954), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C0039225', 0.8659099340438843), ('C0585324', 0.9917661547660828), ('C0227051', 0.9983566999435425), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C1292426', 0.9977476000785828), ('C0227052', 0.9994271993637085), ('C0205448', 0.9997637271881104), ('C0205448', 1.0), ('C1292429', 0.9939630031585693), ('C0227053', 0.9986576437950134), ('C0031246', 0.8730241060256958), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C0991547', 0.8611950278282166), ('C0227054', 0.9987806677818298), ('C4321486', 0.9974575042724609), ('C0205447', 0.9757283926010132), ('C3715206', 0.9987627267837524), ('C0205447', 0.9757283926010132), ('C0205448', 1.0), ('C0450337', 0.9981729388237), ('C0205447', 0.9757283926010132), ('C0205447', 1.0), ('C1292426', 0.9977476000785828), ('C0037265', 0.9913879632949829), ('C1047251', 0.9932531118392944), ('C0724054', 0.9879930019378662), ('C0332173', 0.9872916340827942), ('C0332173', 0.9872916340827942), ('C0587117', 0.9769662618637085), ('C0205447', 1.0), ('C4517599', 0.9980314373970032), ('C0205447', 1.0), ('C4517599', 0.9980314373970032), ('C0205447', 1.0), ('C4517599', 0.9980314373970032), ('C0205447', 1.0), ('C0439230', 0.9958744645118713), ('C0205447', 1.0), ('C0439230', 0.9958744645118713), ('C0205447', 1.0), ('C4517599', 0.9980314373970032)]","Admission Date:  [**2106-6-16**]              Discharge Date:   [**2106-6-25**]
+
+Date of Birth:  [**2039-9-19**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Lisinopril / Mercury (Elemental) / Penicillins
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+post infarction angina
+
+Major Surgical or Invasive Procedure:
+coronary artery bypass grafts x 5(left internal mammary artery
+to left anterior descending coronary artery; reverse saphenous
+vein single graft from aorta to the first diagonal coronary
+artery; reverse saphenous vein double sequential graft from
+aorta to the first obtuse marginal and second obtuse marginal
+coronary arteries; as well as reverse saphenous vein graft from
+the aorta to the distal right coronary artery. [**2106-6-21**]
+left heart catheterization, coronary angiogram [**6-16**]
+
+
+History of Present Illness:
+This is a 66 year old female who while doing yard work developed
+chest pain. She sought care and ruled in for an
+infrarction(nonST elevation) with troponinI of 2.9.  She was
+transferred for catheterization, however, had recurrent pain.
+Heparin was begun and she stabilized. Catheterization revealed
+triple vessel disease. She was referrred for surgery.
+
+
+
+Past Medical History:
+hypertension
+hypothyroidism
+s/p open reduction,internal fixation of wrist fracture
+
+Social History:
+Lives with husband
+[**Name (NI) 1139**] Use: Never smoker
+Alcohol Abuse: Occasional wine
+No drugs
+Retired
+
+***Jehovah's Witness***
+
+Family History:
+Sister underwent CABG x4 about 5 years ago
+Father--deceased from AMI, ? cancer
+[**Name (NI) 85414**], HTN
+Uncles with heart disease
+Sisters x2 with DM
+
+Physical Exam:
+Admission:
+PHYSICAL EXAMINATION:
+97.0  141/59  p66  rr 11  100% 2L NC
+Pleasant, interactive middle aged female, no distress, able to
+relate history clearly. Mood, affect appropriate.
+PERRLA, EOMI, sclera clear.
+No jugular venous distention noted, no carotid bruits heard
+CTAB no w/c/r/r anteriorly, good air movement, no accessory
+muscle use
+RRR, S1 S2 clear but soft, no murmurs heard, no S3 S4. Bilateral
+radial and DP pulses palpable.
+Abdomen soft, NT ND
+Groin cath site exam deferred, family in room, will examine
+later this evening
+No BLE edema noted, mild superficial venous varicosities, no
+chronic venous stasis changes noted.
+CN 2-12 intact, speech is clear and spontaneous, no facial droop
+or dysarthria, spontaneously moving all 4 extrems
+
+Pertinent Results:
+Pre-op
+[**2106-6-16**] 09:02PM   CK-MB-10 cTropnT-0.12*
+[**2106-6-16**] 01:50PM   GLUCOSE-148* UREA N-23* CREAT-0.9 SODIUM-141
+POTASSIUM-3.9 CHLORIDE-110* TOTAL CO2-21* ANION GAP-14
+[**2106-6-16**] 01:50PM   ALT(SGPT)-37 AST(SGOT)-32 ALK PHOS-58 TOT
+BILI-0.2
+[**2106-6-16**] 01:50PM   ALBUMIN-3.5
+[**2106-6-16**] 01:50PM   %HbA1c-6.0* eAG-126*
+[**2106-6-16**] 01:50PM   PT-12.9 PTT-43.5* INR(PT)-1.1
+Post-op
+[**2106-6-25**] 04:30AM BLOOD WBC-10.8 RBC-3.18* Hgb-9.1* Hct-27.3*
+MCV-86 MCH-28.4 MCHC-33.2 RDW-14.1 Plt Ct-172
+[**2106-6-25**] 04:30AM BLOOD Plt Ct-172
+[**2106-6-21**] 01:06PM BLOOD PT-14.3* PTT-29.1 INR(PT)-1.2*
+[**2106-6-25**] 04:30AM BLOOD UreaN-43* Creat-1.4* K-4.4
+[**2106-6-23**] 04:25AM BLOOD Glucose-130* UreaN-26* Creat-1.1 Na-132*
+K-4.4 Cl-101 HCO3-20* AnGap-15
+ECHOCARDIOGRAPHY REPORT-intraop
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.8 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  4.7 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.0 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Aorta - Ascending:  3.0 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.6 m/sec  <= 2.0 m/sec
+Findings
+LEFT ATRIUM: Dilated LA. No spontaneous echo contrast or
+thrombus in the LA/LAA or the RA/RAA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or
+color Doppler.
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+regional/global systolic function (LVEF>55%).
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Focal calcifications in ascending aorta. Normal aortic arch
+diameter. Focal calcifications in aortic arch. Simple atheroma
+in descending aorta.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Mild (1+) AR.
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. The patient appears to be in sinus rhythm.
+patient.
+Conclusions
+PRE-BYPASS:
+The left atrium is dilated. No spontaneous echo contrast or
+thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler.
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size and regional/global systolic function (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+There are focal calcifications in the aortic arch. There are
+simple atheroma in the descending thoracic aorta. The aortic
+valve leaflets (3) are mildly thickened but aortic stenosis is
+not present. Mild (1+) aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral
+regurgitation. There is no pericardial effusion.
+Dr. [**Last Name (STitle) 914**] was notified in person of the results on Ms.[**Known lastname 13393**]
+before surgical incision
+Post_Bypass:
+Preserved biventricular systolic function.
+LVEF 55%.
+Intact thoracic aorta. Mild aortic insufficiency.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2106-6-21**] 14:44
+CHEST [**2106-6-22**] 12:18 PM
+Final Report
+AP CHEST, 12:48 A.M., [**6-22**]
+HISTORY: Chest tube pulled, evaluate for pneumothorax.
+IMPRESSION: AP chest compared to [**6-21**]:
+Following removal of endotracheal, nasogastric, midline drainage
+and pleural tubes, there is more atelectasis at the lung bases,
+cardiomediastinal silhouette is mildly larger, there is very
+pronounced gaseous distention of the stomach, and no
+pneumothorax or appreciable pleural effusion. A small region of
+atelectasis at the left lung base reflects the previous
+placement of the chest tube. [**Known firstname 1439**] [**Last Name (NamePattern1) **] was paged.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3891**]
+
+
+
+Brief Hospital Course:
+Ms [**Known lastname 13393**] was admitted to [**Hospital1 18**] for cardiac catheterization,
+which revealed triple vessel disease. She had intact LV function
+by echocardiogram.  On [**6-21**] she went to the Operating Room where
+bypass grafting.  Please see the OR report for details, in
+summary she had coronary bypass grafting x5 with left internal
+mammary artery to left anterior descending coronary artery;
+reverse saphenous vein single graft from aorta to the first
+diagonal coronary artery; reverse saphenous vein double
+sequential graft from aorta to the first obtuse marginal and
+second obtuse marginal coronary arteries; as well as reverse
+saphenous vein graft from the aorta to the distal right coronary
+artery. His bypass time was 97 minutes with a crossclamp of 81
+minutes. He tolerated the operation well and was transferred
+from the OR to the cardiac surgery ICU in stable condition. He
+remained hemodynamically stable, woke neurologically intact, was
+weaned from the ventilator and extubated. On POD1 he was
+transferred from the cardiac surgery ICU to the stepdown floor
+in stable condition. All tubes lines and drains were remover per
+cardiac surgery protocol
+Once on the stepdown floor the patient worked with nursing and
+physical therapy to increase mobility and strength.  The
+remainder of her hospital course was uneventful. ON POD4 she was
+discharged to rehabilitation at Island Terrace in [**Location 942**],MA.
+Follow-up with Dr [**Last Name (STitle) **] in 4 weeks,
+
+Medications on Admission:
+1. Synthroid 137 mcg daily
+2. Omeprazole
+3. Terazosin 2mg daily
+4. Metoprolol, unclear dosage
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+5. Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2)
+Tablet, Chewable PO DAILY (Daily).
+6. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2)
+Tablet PO DAILY (Daily).
+7. Pravastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+8. Levothyroxine 137 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Terazosin 1 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime).
+10. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+11. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day.
+12. Insulin Regular Human 100 unit/mL Solution Sig: sliding
+scale  Injection QAC&HS.
+13. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H
+(every 4 hours) as needed for pain, fever.
+14. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+15. Ibuprofen 400 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8
+hours) as needed for pain.
+16. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+17. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+18. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+19. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every
+4 hours) as needed for pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 941**] - [**Location 942**]
+
+Discharge Diagnosis:
+Coronary Artery disease s/p coronary artery bypass x5 (LIMA-LAD,
+SVG-DIAG, svg-OM1-OM2, svg-dRCA)
+unstable, postinfarction angina, acute myocardial infarction
+hypertension
+hypothyroidism
+gastroesophageal reflux
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal.
+Ambulating with steady gait.
+Incisional pain managed with Ultram and Dilaudid
+Incisions: Sternum- healing well, no erythema or drainage
+Leg Right/Left - healing well, no erythema or drainage.
+
+
+Discharge Instructions:
+Shower daily including washing incisions gently with mild soap,
+no baths or swimming until cleared by surgeon. Look at your
+incisions daily for redness or drainage.
+No lotions, cream, powder, or ointments to incisions.
+Each morning you should weigh yourself and then in the evening
+take your temperature, These should be written down on the chart
+.
+No driving for approximately one month, until follow up with
+surgeon.
+No lifting more than 10 pounds for 10 weeks.
+Please call with any questions or concerns ([**Telephone/Fax (1) 170**]).
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge of sternal wound.
+
+**Please call cardiac surgery office with any questions or
+concerns ([**Telephone/Fax (1) 170**]). Answering service will contact on call
+person during off hours.**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon:  Dr. [**Last Name (STitle) 914**] on [**7-27**] at 1:15pm ([**Telephone/Fax (1) 170**])
+
+Please call to schedule appointments with:
+Primary Care:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 47403**] ([**Telephone/Fax (1) 55984**]) in [**1-30**] weeks
+Cardiologist:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 5310**] ([**Telephone/Fax (1) 5315**]in [**1-30**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns ([**Telephone/Fax (1) 170**]). Answering service will contact on call
+person during off hours.**
+
+
+
+Completed by:[**2106-6-25**]",['insulin']
+2079461,"[('C0002915', 0.9916772842407227), ('C0332173', 0.9872916340827942), ('C0011777', 0.9978458881378174), ('C0020171', 0.9567487835884094), ('C0019168', 0.9870002865791321), ('C0018378', 0.9855326414108276), ('C0205447', 1.0), ('C0020171', 0.9567487835884094), ('C1824729', 0.9673085808753967), ('C0205454', 1.0), ('C4319554', 0.998694121837616), ('C3816449', 0.9998739361763), ('C0450361', 0.9969230890274048), ('C0022192', 0.9826323390007019), ('C0022192', 0.9826323390007019), ('C0022192', 0.9826323390007019), ('C0000726', 0.9657635688781738), ('C4054315', 0.9937393665313721), ('C0205449', 1.0), ('C0120446', 0.9706078767776489), ('C0286540', 0.9508059024810791), ('C0022681', 0.9837765097618103), ('C1822634', 0.9965028166770935), ('C0489484', 0.9676731824874878), ('C0205447', 1.0), ('C0205448', 1.0), ('C1417925', 0.9673362970352173), ('C5395487', 0.9845596551895142)]","Neonatology Attending
+35-2/7 week GA infant admitted for prematurity
+
+Maternal Hx - 30 year old G3P1->2 woman with PMHx notable for opioid dependancy following surgery earlier this year (currently taking methadone 165 mg daily) and for gestational DM (on Humulin). Prenatal screens were as follows: A positive, IAt negative, HBsAg negative, RPR non-reactive, rubella immune, GBS unknown. Past OB history was notable for pre-eclampsia with previous pregnancy. Social history notable for adoption x 1; denies illicit drug use. Family history is non-contributory.
+
+Antenatal Hx - [**Last Name (un) **] [**2148-2-26**] for EGA 35-2/7 weeks at delivery this evening at [**2066**]. Pregnancy was complicated by gestational diabetes mellitus treated with Humulin; by methadone use as above; and by IUGR and non-reassuring fetal heart rate, leading to repeat cesarean section under epidural and spinal anesthesia. There was no labor. ROM occurred at delivery and yielded clear amniotic fluid. There was no intrapartum fever or other clinical evidence of chorioamnionitis and intrapartum antibiotics were not administered.
+
+Neonatal course - Infant was vigorous at delivery. She was orally and nasally bulb suctioned and dried, adn was subsequently pink and in no distress in room air. Apgars were 8 at one minute and 9 at five minutes. ROS otherwise negative/non-contributory
+
+PE
+very well-appearing late preterm infant in no distress
+hr 160 rr 40 T 97.7 BP 59/26 (38) SaO2 93-96% in room air
+BW 2145 (25-50th %ile)  OFC 31cm (25th %ile) LN 43 cm (10-25th %ile)
+HEENT AFSF; non-dysmorphic; palate intact; neck/mouth normal; normocephalic; no nasal flaring; red reflex ou
+CHEST no retractions; good bs bilat; no adventitious sounds
+CVS well-perfused; RRR; femoral pulses normal; S1S2 normal; no murmur
+ABD soft, non-distended; no organomegaly; no masses; bs active; anus patent; 3-vessel umbilical cord
+GU normal female genitalia
+CNS active, alert, resp to stim; tone normal and symm; MAE symm; suck/root/gag intact; facies symm
+INTEG normal
+MSK normal spine/limbs/hips/clavicles
+
+INV
+d-stick 52
+
+IMPRESSION
+35-2/7 week GA infant, doing well in room air, with
+1. Risk for neonatal abstinence syndrome, based on maternal methadone use
+2. Risk for hypoglycemia, secondary to maternal GDM. Initial d-stick is within normal limits
+
+PLAN
+-Infant has been admitted for monitoring of adequacy of thermoregulation, respiratory drive and oral feeding skills. If maturity is documented, will transfer to regular nursery for ongoing observation and otherwise routine neonatal care
+-Hypoglycemia monitoring protocol initiated and will be continued until reliably euglycemia in room air
+-Monitor for signs of withdrawal over the next 7-10 days. Urine toxicology to be obtained with parental consent
+-Parents updated
+
+OB: Dr. [**Last Name (STitle) **]
+PED: Dr. [**Last Name (STitle) 801**]
+",['insulin']
+1312514,"[('C0286540', 0.9508059024810791), ('C0310367', 0.9852661490440369), ('C0017741', 0.9945350885391235), ('C3816724', 0.9993677139282227), ('C0017741', 0.9945350885391235), ('C0023401', 1.0), ('C0031106', 0.9938753843307495), ('C0023264', 0.9819374680519104), ('C1152411', 0.971706211566925), ('C0120446', 0.9706078767776489), ('C0078391', 0.9684743285179138), ('C0806909', 0.9805580973625183), ('C0907402', 0.9811837673187256), ('C0419179', 0.9945492744445801)]","TUES 7A-7P
+Neuro: [** 418**]. [** 827**]. Nodding appropriatley to questions. MAE. Consistently following commands today. Denies pain.
+
+CV: SB-NSR 50-70s. No ectopy noted. Lytes repleted prn. NEO Gtt started for SBP 70-80s. Maintain MAP >60. Pulses difficult to doppler bilat. [** **] PTs. Heparin GTT continues. Compression sleeves in place. Hypothermic via oral/axillary/rectal temps. Bair-hugger in place with no change in temp.
+
+RESP: Tolerating trach collar throughout am. Traveled to CT scan for replacement of L posterior JP to bulb suction. JP bulb draining moderate amount sanguinous drainage. L plureal CT unintentionally pulled out during transfer to CT table. PT became labored after CT procedure. Pt bagged and place back on vent. See Carevue for vent settings.  02Sat 98%. Unable to obtain pleth at times. LS cl dim bases. Suctioned for thick yellow secretions. Pt raising sputum independentley. MDIs per RT.
+
+GU/GI: Foley to gravity with borderline HUO ?related to position. Abd obese with faint hypoactive bs. [** **] large amount Vivonex TF. 60cc max resudial when checked, NGT placed to suction and G [** **] placed to gravity. IV Reglan Q6hrs.
+
+ENDO: Glucose coverage per ordered RISS. Glargine held this am for CT scan/NPO status.
+
+ID: [** **] cultures sent x2. Started on IV Meropenem ?Fungal infection. IV Fluconazole & IV Tigecycline & PO Erythromycin continue.
+
+See Carevue for skin assessment.
+
+PLAN: Continue to Monitor & Supportive care.
+","['glucose', 'insulin']"
