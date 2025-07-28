@@ -1,0 +1,486 @@
+Category,Synonym,Matched CUI,Canonical Name,Keyword
+Bolus,bolus,C5396890,bolus insulin infusion rate,insulin
+Bolus,bolus insulin,C5396890,bolus insulin infusion rate,insulin
+Bolus,SSI,C0028318,nonsuppressible insulin-like activity,insulin
+Bolus,SSI,C0061420,glucose-insulin-potassium cardioplegic solution,insulin
+Bolus,SSI,C0430191,insulin suppression test,insulin
+Bolus,SSI,C0522819,"insulin-induced c-peptide suppression panel, including glucose, c-peptide and insulin measurement",insulin
+Bolus,SSI,C0994230,"home infusion therapy, continuous insulin infusion therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem",insulin
+Bolus,SSI,C1158354,insulin processing,insulin
+Bolus,SSI,C1256831,"nonsuppressible insulin-like carrier protein, human",insulin
+Bolus,SSI,C1508128,bordetella parapertussis ag:prthr:pt:nph:ord:if,NPH
+Bolus,SSI,C1508129,bordetella pertussis ag:prthr:pt:nph:ord:if,NPH
+Bolus,SSI,C1641060,bordetella parapertussis dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Bolus,SSI,C1715184,bordetella parapertussis:prthr:pt:nph:ord:organism specific culture,NPH
+Bolus,SSI,C1715214,bordetella pertussis dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Bolus,SSI,C1717291,bordetella pertussis ag:prthr:pt:nph:ord,NPH
+Bolus,SSI,C1954370,bordetella pertussis:prthr:pt:nph:ord:organism specific culture,NPH
+Bolus,SSI,C2736626,number of d insulin injections were received in last 7d or since admission &or reentry if less than 7d:nrat:7d:^patient:qn:cms assessment,insulin
+Bolus,SSI,C2736627,number of d insulin injections were received in last 7d or since admission &or reentry if less than 7d,insulin
+Bolus,SSI,C2736628,number of d the physician changed the resident's insulin orders in last 7d or since admission &or reentry if less than 7d:nrat:7d:^patient:qn:cms assessment,insulin
+Bolus,SSI,C2736629,number of d the physician changed the resident's insulin orders in last 7d or since admission &or reentry if less than 7d,insulin
+Bolus,SSI,C2827418,igf1r immunohistochemical expression,insulin
+Bolus,SSI,C2959223,"outpatient intravenous insulin treatment (oivit) either pulsatile or continuous, by any means, guided by the results of measurements for: respiratory quotient; and/or, urine urea nitrogen (uun); and/or, arterial, venous or capillary glucose; and/or potassium concentration",insulin
+Bolus,SSI,C3534783,patient without preoperative order for iv antibiotic surgical site infection (ssi) prophylaxis,SSI
+Bolus,SSI,C3534784,"patient with preoperative order for iv antibiotic surgical site infection (ssi) prophylaxis, antibiotic not initiated on time",SSI
+Bolus,SSI,C3534785,"patient with preoperative order for iv antibiotic surgical site infection (ssi) prophylaxis, antibiotic initiated on time",SSI
+Bolus,SSI,C3892516,"cynanchum vincetoxicum root 6 [hp_x] / echinacea angustifolia 6 [hp_x] / sus scrofa hypothalamus 6 [hp_x] / pork liver 8 [hp_x] / pork kidney 8 [hp_x] / methylcobalamin 8 [hp_x] / gamboge 12 [hp_x] / graphite 12 [hp_x] / strychnos nux-vomica seed 12 [hp_x] / phytolacca americana root 12 [hp_x] / 7-keto-dehydroepiandrosterone 30 [hp_x] / adenosine triphosphate disodium 30 [hp_x] / glucagon 30 [hp_x] / insulin pork 30 [hp_x] / lactic acid, l- 30 [hp_x] / proteus vulgaris 30 [hp_c] oral tablet [professional weight support]",insulin
+Bolus,SSI,C4018333,"comfort assist insulin syringe 0.5cc 29g 0.5""",insulin
+Bolus,SSI,C4018334,comfort assist insulin syringe 1cc 29g 0.5'',insulin
+Bolus,SSI,C4019701,"comfort assist insulin syr 0.3cc 30g 0.3125""",insulin
+Bolus,SSI,C4019702,"comfort assist insulin syr 0.3cc 31g 0.3125""",insulin
+Bolus,SSI,C4019703,"comfort assist insulin syr 0.5cc 30g 0.3125""",insulin
+Bolus,SSI,C4019704,"comfort assist insulin syr 0.5cc 31g 0.3125""",insulin
+Bolus,SSI,C4019705,"comfort assist insulin syr 1cc 30g 0.3125""",insulin
+Bolus,SSI,C4019706,comfort assist insulin syr 1cc 31g 0.3125',insulin
+Bolus,SSI,C4019707,"comfort assist insulin syringe 0.3cc 29g 0.5""",insulin
+Bolus,SSI,C4055746,comfort assist insulin syr 0.3cc 30g 8 mm,insulin
+Bolus,SSI,C4055766,comfort assist insulin syr 1cc 31g 8 mm,insulin
+Bolus,SSI,C4055767,comfort assist insulin syr 1cc 30g 8 mm,insulin
+Bolus,SSI,C4055768,comfort assist insulin syr 0.5cc 31g 8 mm,insulin
+Bolus,SSI,C4055769,comfort assist insulin syr 0.5cc 30g 8 mm,insulin
+Bolus,SSI,C4055770,comfort assist insulin syr 0.3cc 31g 8 mm,insulin
+Bolus,SSI,C4070604,bordetella pertussis & bordetella parapertussis panel:-:pt:nph:-,NPH
+Bolus,SSI,C4073706,comfort assist insulin syringes 29g x 0.5cc,insulin
+Bolus,SSI,C4237663,"cynanchum vincetoxicum root 6 [hp_x] in 1 ml / echinacea angustifolia 6 [hp_x] in 1 ml / sus scrofa hypothalamus 6 [hp_x] in 1 ml / pork liver 8 [hp_x] in 1 ml / pork kidney 8 [hp_x] in 1 ml / methylcobalamin 8 [hp_x] in 1 ml / gamboge 12 [hp_x] in 1 ml / graphite 12 [hp_x] in 1 ml / strychnos nux-vomica seed 12 [hp_x] in 1 ml / phytolacca americana root 12 [hp_x] in 1 ml / 7-oxodehydroepiandrosterone 3-acetate 30 [hp_x] in 1 ml / adenosine triphosphate disodium 30 [hp_x] in 1 ml / glucagon 30 [hp_x] in 1 ml / insulin pork 30 [hp_x] in 1 ml / lactic acid, l- 30 [hp_x] in 1 ml / proteus vulgaris 30 [hp_c] in 1 ml oral liquid [professional weight maintenance]",insulin
+Bolus,SSI,C4237710,"cynanchum vincetoxicum root 6 [hp_x] in 1 ml / echinacea angustifolia 6 [hp_x] in 1 ml / sus scrofa hypothalamus 6 [hp_x] in 1 ml / pork liver 8 [hp_x] in 1 ml / pork kidney 8 [hp_x] in 1 ml / methylcobalamin 8 [hp_x] in 1 ml / gamboge 12 [hp_x] in 1 ml / graphite 12 [hp_x] in 1 ml / strychnos nux-vomica seed 12 [hp_x] in 1 ml / phytolacca americana root 12 [hp_x] in 1 ml / 7-oxodehydroepiandrosterone 3-acetate 30 [hp_x] in 1 ml / adenosine triphosphate disodium 30 [hp_x] in 1 ml / glucagon 30 [hp_x] in 1 ml / insulin pork 30 [hp_x] in 1 ml / lactic acid, l- 30 [hp_x] in 1 ml / proteus vulgaris 30 [hp_c] in 1 ml oral liquid [professional weight support]",insulin
+Bolus,SSI,C4264743,bordetella pertussis.pertussis toxin promoter region:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Bolus,SSI,C4266111,bordetella pertussis+parapertussis+bronchiseptica gida gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Bolus,SSI,C4266112,bordetella pertussis.pertussis toxin promoter region:prthr:pt:nph:ord:probe.amp.tar,NPH
+Bolus,SSI,C4476963,excessive insulin response to glucagon test,insulin
+Bolus,SSI,C4482793,bordetella pertussis+bronchiseptica+holmesii is481 dna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Bolus,SSI,C4530128,"glycerin 3 [hp_x] in 1 ml / phytolacca americana root 3 [hp_x] in 1 ml / taraxacum officinale 3 [hp_x] in 1 ml / arsenic trioxide 12 [hp_x] in 1 ml / nitric acid 12 [hp_x] in 1 ml / strychnos nux-vomica seed 12 [hp_x] in 1 ml / kerosene 12 [hp_x] in 1 ml / phosphoric acid 12 [hp_x] in 1 ml / phosphorus 12 [hp_x] in 1 ml / aspirin 12 [hp_x] in 1 ml / nitroglycerin 12 [hp_x] in 1 ml / insulin pork 12 [hp_x] in 1 ml / lithium carbonate 12 [hp_x] in 1 ml / sus scrofa thyroid 12 [hp_x] in 1 ml / salicylic acid 12 [hp_x] in 1 ml / corticotropin 12 [hp_x] in 1 ml / cortisone acetate 12 [hp_x] in 1 ml / eugenol 12 [hp_x] in 1 ml / stearyl alcohol 12 [hp_x] in 1 ml / xylitol 12 [hp_x] in 1 ml / estrone 12 [hp_x] in 1 ml / benzoic acid 12 [hp_x] in 1 ml / chlorine 12 [hp_x] in 1 ml / potassium sorbate 12 [hp_x] in 1 ml / sorbitol 12 [hp_x] in 1 ml / resorcinol 12 [hp_x] in 1 ml / benzyl alcohol 12 [hp_x] in 1 ml / lactic acid, dl- 12 [hp_x] in 1 ml / isopropyl palmitate 12 [hp_x] in 1 ml / boric acid 12 [hp_x] in 1 ml / acetic acid 12 [hp_x] in 1 ml / phenylbutazone 12 [hp_x] in 1 ml / petrolatum 12 [hp_x] in 1 ml / lead 12 [hp_x] in 1 ml oral liquid [homeoplex d]",insulin
+Bolus,SSI,C4532917,bordetella parapertussis is1001 dna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Bolus,SSI,C4538687,elevated baseline insulin (recessive),insulin
+Bolus,SSI,C4723465,"glycerin 3 [hp_x] in 1 ml / taraxacum officinale 3 [hp_x] in 1 ml / phytolacca americana root 6 [hp_x] in 1 ml / arsenic trioxide 12 [hp_x] in 1 ml / nitric acid 12 [hp_x] in 1 ml / strychnos nux-vomica seed 12 [hp_x] in 1 ml / kerosene 12 [hp_x] in 1 ml / phosphoric acid 12 [hp_x] in 1 ml / phosphorus 12 [hp_x] in 1 ml / aspirin 12 [hp_x] in 1 ml / nitroglycerin 12 [hp_x] in 1 ml / insulin pork 12 [hp_x] in 1 ml / lithium carbonate 12 [hp_x] in 1 ml / sus scrofa thyroid 12 [hp_x] in 1 ml / salicylic acid 12 [hp_x] in 1 ml / corticotropin 12 [hp_x] in 1 ml / cortisone acetate 12 [hp_x] in 1 ml / eugenol 12 [hp_x] in 1 ml / stearyl alcohol 12 [hp_x] in 1 ml / xylitol 12 [hp_x] in 1 ml / estrone 12 [hp_x] in 1 ml / benzoic acid 12 [hp_x] in 1 ml / chlorine 12 [hp_x] in 1 ml / potassium sorbate 12 [hp_x] in 1 ml / sorbitol 12 [hp_x] in 1 ml / resorcinol 12 [hp_x] in 1 ml / benzyl alcohol 12 [hp_x] in 1 ml / lactic acid, dl- 12 [hp_x] in 1 ml / isopropyl palmitate 12 [hp_x] in 1 ml / boric acid 12 [hp_x] in 1 ml / acetic acid 12 [hp_x] in 1 ml / phenylbutazone 12 [hp_x] in 1 ml / petrolatum 12 [hp_x] in 1 ml / lead 12 [hp_x] in 1 ml oral liquid [chemstat]",insulin
+Bolus,SSI,C4739210,bordetella pertussis & bordetella parapertussis dna panel:-:pt:nph:-,NPH
+Bolus,SSI,C5207303,"cynanchum vincetoxicum root 6 [hp_x] in 1 ml / echinacea angustifolia 6 [hp_x] in 1 ml / sus scrofa hypothalamus 6 [hp_x] in 1 ml / pork liver 8 [hp_x] in 1 ml / pork kidney 8 [hp_x] in 1 ml / methylcobalamin 8 [hp_x] in 1 ml / gamboge 12 [hp_x] in 1 ml / graphite 12 [hp_x] in 1 ml / strychnos nux-vomica seed 12 [hp_x] in 1 ml / phytolacca americana root 12 [hp_x] in 1 ml / 7-oxodehydroepiandrosterone 3-acetate 30 [hp_x] in 1 ml / adenosine triphosphate disodium 30 [hp_x] in 1 ml / insulin pork 30 [hp_x] in 1 ml / sus scrofa pancreas 30 [hp_x] in 1 ml / lactic acid, l- 30 [hp_x] in 1 ml / proteus vulgaris 30 [hp_c] in 1 ml oral liquid [professional weight support]",insulin
+Bolus,SSI,C5398803,"cynanchum vincetoxicum root 6 [hp_x] in 1 ml / echinacea angustifolia whole 6 [hp_x] in 1 ml / sus scrofa hypothalamus 6 [hp_x] in 1 ml / pork liver 8 [hp_x] in 1 ml / pork kidney 8 [hp_x] in 1 ml / methylcobalamin 8 [hp_x] in 1 ml / gamboge 12 [hp_x] in 1 ml / graphite 12 [hp_x] in 1 ml / strychnos nux-vomica seed 12 [hp_x] in 1 ml / phytolacca americana root 12 [hp_x] in 1 ml / 7-oxodehydroepiandrosterone 3-acetate 30 [hp_x] in 1 ml / adenosine triphosphate disodium 30 [hp_x] in 1 ml / insulin pork 30 [hp_x] in 1 ml / sus scrofa pancreas 30 [hp_x] in 1 ml / lactic acid, l- 30 [hp_x] in 1 ml / proteus vulgaris 30 [hp_c] in 1 ml oral liquid [professional weight maintenance]",insulin
+Bolus,SSI,C5421531,nhsn ssi anatomic site,SSI
+Bolus,SSI,C5421532,nhsn ssi location type,SSI
+Bolus,SSI,C5443311,"glycerin 3 [hp_x] in 1 ml / taraxacum officinale 3 [hp_x] in 1 ml / phytolacca americana root 6 [hp_x] in 1 ml / arsenic trioxide 12 [hp_x] in 1 ml / nitric acid 12 [hp_x] in 1 ml / strychnos nux-vomica seed 12 [hp_x] in 1 ml / kerosene 12 [hp_x] in 1 ml / phosphoric acid 12 [hp_x] in 1 ml / phosphorus 12 [hp_x] in 1 ml / aspirin 12 [hp_x] in 1 ml / nitroglycerin 12 [hp_x] in 1 ml / insulin human 12 [hp_x] in 1 ml / lithium carbonate 12 [hp_x] in 1 ml / thyroid, porcine 12 [hp_x] in 1 ml / acetic acid 12 [hp_x] in 1 ml / benzoic acid 12 [hp_x] in 1 ml / benzyl alcohol 12 [hp_x] in 1 ml / boric acid 12 [hp_x] in 1 ml / chlorine 12 [hp_x] in 1 ml / cortisone acetate 12 [hp_x] in 1 ml / eugenol 12 [hp_x] in 1 ml / estrone 12 [hp_x] in 1 ml / isopropyl palmitate 12 [hp_x] in 1 ml / lactic acid, dl- 12 [hp_x] in 1 ml / potassium sorbate 12 [hp_x] in 1 ml / petrolatum 12 [hp_x] in 1 ml / phenylbutazone 12 [hp_x] in 1 ml / lead 12 [hp_x] in 1 ml / resorcinol 12 [hp_x] in 1 ml / salicylic acid 12 [hp_x] in 1 ml / stearyl alcohol 12 [hp_x] in 1 ml / sorbitol 12 [hp_x] in 1 ml / xylitol 12 [hp_x] in 1 ml / corticotropin 15 [hp_c] in 1 ml oral liquid [chemstat]",insulin
+Bolus,SSI,C5577373,"vincetoxicum hirundinaria root 6 [hp_x] / echinacea, unspecified 6 [hp_x] / sus scrofa hypothalamus 6 [hp_x] / pork liver 8 [hp_x] / pork kidney 8 [hp_x] / methylcobalamin 8 [hp_x] / gamboge 12 [hp_x] / graphite 12 [hp_x] / strychnos nux-vomica seed 12 [hp_x] / phytolacca americana root 12 [hp_x] / 7-keto-dehydroepiandrosterone 30 [hp_x] / adenosine triphosphate disodium 30 [hp_x] / insulin human 30 [hp_x] / sus scrofa pancreas 30 [hp_x] / lactic acid, l- 30 [hp_x] / proteus vulgaris 30 [hp_c] oral tablet [professional weight support]",insulin
+Bolus,sliding scale,C0557977,sliding scale insulin regime,insulin
+Insulin Infusion,Insulin Infusion,C0021648,insulin infusion systems,insulin
+Insulin Infusion,Insulin Infusion,C0149658,continuous insulin infusion pump,insulin
+Insulin Infusion,Insulin Infusion,C0181334,closed-loop insulin infusion system,insulin
+Insulin Infusion,Insulin Infusion,C0994230,"home infusion therapy, continuous insulin infusion therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem",insulin
+Insulin Infusion,Insulin Infusion,C3504188,ambulatory insulin infusion pump,insulin
+Insulin Infusion,Insulin Infusion,C3875649,invasive interstitial fluid glucose monitoring/insulin infusion system,insulin
+Insulin Infusion,Insulin Infusion,C3875803,insulin infusion cannula introducer,insulin
+Insulin Infusion,Insulin Infusion,C3876069,ambulatory insulin infusion pump cartridge filling device,insulin
+Insulin Infusion,Insulin Infusion,C3876336,ambulatory insulin infusion pump/blood glucose analyzer system,insulin
+Insulin Infusion,Insulin Infusion,C3878443,mechanical insulin infusion patch pump,insulin
+Insulin Infusion,Insulin Infusion,C3879617,electronic insulin infusion patch pump,insulin
+Insulin Infusion,Insulin Infusion,C3881242,ambulatory insulin infusion pump reservoir,insulin
+Insulin Infusion,Insulin Infusion,C4316071,"supplies for external insulin infusion pump, syringe type cartridge, sterile, each",insulin
+Insulin Infusion,Insulin Infusion,C4316288,"supplies for maintenance of insulin infusion catheter, per week",insulin
+Insulin Infusion,Insulin Infusion,C4544151,insulin infusion rate,insulin
+Insulin Infusion,Insulin Infusion,C4708193,remote control insulin infusion patch pump blood glucose analyzer,insulin
+Insulin Infusion,Insulin Infusion,C4749449,insulin infusion patch pump cartridge filling device,insulin
+Insulin Infusion,Insulin Infusion,C5228995,"supplies for maintenance of insulin infusion pump with dosage rate adjustment using therapeutic continuous glucose sensing, per week",insulin
+Insulin Infusion,Insulin Infusion,C5396889,basal insulin infusion rate,insulin
+Insulin Infusion,Insulin Infusion,C5396890,bolus insulin infusion rate,insulin
+Insulin Infusion,Insulin Infusion,C5561695,insulin infusion software,insulin
+Insulin Infusion,continuous insulin infusion,C0149658,continuous insulin infusion pump,insulin
+Insulin Infusion,continuous insulin infusion,C0994230,"home infusion therapy, continuous insulin infusion therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem",insulin
+Insulin Infusion,IV insulin,C4273932,iv insulin syringe,insulin
+Insulin Infusion,IV insulin,C4542607,outpatient iv insulin treatment,insulin
+Insulin Infusion,intravenous insulin,C0546683,intravenous insulin tolerance test,insulin
+Insulin Infusion,intravenous insulin,C2959223,"outpatient intravenous insulin treatment (oivit) either pulsatile or continuous, by any means, guided by the results of measurements for: respiratory quotient; and/or, urine urea nitrogen (uun); and/or, arterial, venous or capillary glucose; and/or potassium concentration",insulin
+Short-acting insulin,Short-acting,C0356365,"insulin, short-acting",insulin
+Short-acting insulin,regular insulin,C1446598,recombinant human regular insulin,insulin
+Short-acting insulin,regular insulin,C1562789,bovine regular insulin-containing product,insulin
+Short-acting insulin,regular insulin,C3714909,"{60 (regular insulin, human 4 unt inhalant powder [afrezza]) / 30 (regular insulin, human 8 unt inhalant powder [afrezza]) } pack [afrezza 90 - 60 (4 unt), 30 (8 unt)]",insulin
+Short-acting insulin,regular insulin,C3714911,"{30 (regular insulin, human 4 unt inhalant powder [afrezza]) / 60 (regular insulin, human 8 unt inhalant powder [afrezza]) } pack [afrezza 90 - 30 (4 unt), 60 (8 unt)]",insulin
+Short-acting insulin,regular insulin,C3832351,"bd regular insulin needle 19gx1""",insulin
+Short-acting insulin,regular insulin,C3848698,"{30 (regular insulin, human 4 unt inhalant powder) / 60 (regular insulin, human 8 unt inhalant powder) } pack",insulin
+Short-acting insulin,regular insulin,C3848699,"{60 (regular insulin, human 4 unt inhalant powder) / 30 (regular insulin, human 8 unt inhalant powder) } pack",insulin
+Short-acting insulin,regular insulin,C3888419,"{30 (regular insulin, human 12 unt inhalant powder [afrezza]) / 60 (regular insulin, human 8 unt inhalant powder [afrezza]) } pack [afrezza 90 - 60 (8 unt), 30 (12 unt)]",insulin
+Short-acting insulin,regular insulin,C4032807,"{30 (regular insulin, human 12 unt inhalant powder) / 60 (regular insulin, human 8 unt inhalant powder) } pack",insulin
+Short-acting insulin,regular insulin,C4255085,"{90 (regular insulin, human 4 unt inhalant powder [afrezza]) / 90 (regular insulin, human 8 unt inhalant powder [afrezza]) } pack [afrezza titration pack]",insulin
+Short-acting insulin,regular insulin,C4271576,"{90 (regular insulin, human 4 unt inhalant powder) / 90 (regular insulin, human 8 unt inhalant powder) } pack",insulin
+Short-acting insulin,regular insulin,C4283823,"{60 (regular insulin, human 12 unt inhalant powder [afrezza]) / 60 (regular insulin, human 4 unt inhalant powder [afrezza]) / 60 (regular insulin, human 8 unt inhalant powder [afrezza]) } pack [afrezza 180 titration pack- 60 (4 unt), 60 (8 unt), 60 (12 unt)]",insulin
+Short-acting insulin,regular insulin,C4284411,"{60 (regular insulin, human 12 unt inhalant powder) / 60 (regular insulin, human 4 unt inhalant powder) / 60 (regular insulin, human 8 unt inhalant powder) } pack",insulin
+Short-acting insulin,regular insulin,C4723626,"{90 (regular insulin, human 12 unt inhalant powder) / 90 (regular insulin, human 8 unt inhalant powder) } pack",insulin
+Short-acting insulin,regular insulin,C4723720,"{90 (regular insulin, human 12 unt inhalant powder [afrezza]) / 90 (regular insulin, human 8 unt inhalant powder [afrezza]) } pack [afrezza 180 - 90 (8 unt), 90 (12 unt)]",insulin
+Short-acting insulin,regular insulin,C4752181,bovine regular insulin only product,insulin
+Short-acting insulin,regular insulin,C4753473,human regular insulin only product,insulin
+Short-acting insulin,regular insulin,C4754518,porcine regular insulin only product,insulin
+Short-acting insulin,regular insulin,C4755675,bovine regular insulin only product in parenteral dose form,insulin
+Short-acting insulin,regular insulin,C4756583,human regular insulin only product in parenteral dose form,insulin
+Short-acting insulin,regular insulin,C4757373,porcine regular insulin only product in parenteral dose form,insulin
+Short-acting insulin,regular insulin,C5191534,isophane insulin- and recombinant human regular insulin-containing product in parenteral dose form,insulin
+Short-acting insulin,regular insulin,C5192011,isophane insulin- and recombinant human regular insulin-containing product,insulin
+Short-acting insulin,regular insulin,C5192163,isophane insulin and porcine regular insulin only product,insulin
+Short-acting insulin,regular insulin,C5192164,isophane insulin and porcine regular insulin only product in parenteral dose form,insulin
+Short-acting insulin,regular insulin,C5192165,isophane insulin and recombinant human regular insulin only product,insulin
+Short-acting insulin,regular insulin,C5192166,isophane insulin and recombinant human regular insulin only product in parenteral dose form,insulin
+Short-acting insulin,regular insulin,C5394872,regular insulin adverse reaction,insulin
+Short-acting insulin,regular insulin,C5439373,human isophane insulin and recombinant human regular insulin only product in parenteral dose form,insulin
+Short-acting insulin,regular insulin,C5439427,human isophane insulin and recombinant human regular insulin only product,insulin
+Short-acting insulin,regular insulin,C5439429,porcine isophane insulin and porcine regular insulin only product in parenteral dose form,insulin
+Short-acting insulin,regular insulin,C5439430,porcine isophane insulin and porcine regular insulin only product,insulin
+Short-acting insulin,Humalog,C0528249,humalog,humalog
+Short-acting insulin,Humalog,C0733228,humalog mix25,humalog
+Short-acting insulin,Humalog,C0875843,"insulin lispro 50 unt/ml / insulin lispro protamine, human 50 unt/ml injectable suspension [humalog mix]",insulin
+Short-acting insulin,Humalog,C0876055,humalog mix,humalog
+Short-acting insulin,Humalog,C0977809,insulin lispro 100 unt/ml injectable solution [humalog],insulin
+Short-acting insulin,Humalog,C0977811,"insulin lispro 25 unt/ml / insulin lispro protamine, human 75 unt/ml injectable suspension [humalog mix]",insulin
+Short-acting insulin,Humalog,C1169461,humalog pen,humalog
+Short-acting insulin,Humalog,C1169512,humalog mix 75/25 pen,humalog
+Short-acting insulin,Humalog,C1170320,humalog mix 50/50,humalog
+Short-acting insulin,Humalog,C1592875,insulin lispro 100 unt/ml [humalog],insulin
+Short-acting insulin,Humalog,C1965649,"insulin lispro / insulin lispro protamine, human injectable suspension [humalog mix]",insulin
+Short-acting insulin,Humalog,C1965655,"insulin lispro 50 unt/ml / insulin lispro protamine, human 50 unt/ml [humalog mix]",insulin
+Short-acting insulin,Humalog,C1995853,"insulin lispro 25 unt/ml / insulin lispro protamine, human 75 unt/ml [humalog mix]",insulin
+Short-acting insulin,Humalog,C2241735,humalog kwikpen,humalog
+Short-acting insulin,Humalog,C2346322,humalog cartridge,humalog
+Short-acting insulin,Humalog,C2683561,3 ml insulin lispro 100 unt/ml cartridge [humalog],insulin
+Short-acting insulin,Humalog,C2683565,"3 ml insulin lispro 50 unt/ml / insulin lispro protamine, human 50 unt/ml pen injector [humalog mix]",insulin
+Short-acting insulin,Humalog,C2683603,"3 ml insulin lispro 25 unt/ml / insulin lispro protamine, human 75 unt/ml pen injector [humalog mix]",insulin
+Short-acting insulin,Humalog,C2722833,insulin lispro injectable solution [humalog],insulin
+Short-acting insulin,Humalog,C2948845,"insulin human 100 [iu] in 1 ml subcutaneous injection, suspension [humalog 70/30]",insulin
+Short-acting insulin,Humalog,C2976311,humalog mix 50,humalog
+Short-acting insulin,Humalog,C3225371,humalog injectable product,humalog
+Short-acting insulin,Humalog,C3225373,humalog mix injectable product,humalog
+Short-acting insulin,Humalog,C3503009,"insulin lispro 50 unt/ml / insulin lispro protamine, human 50 unt/ml pen injector [humalog mix]",insulin
+Short-acting insulin,Humalog,C3503050,"insulin lispro 25 unt/ml / insulin lispro protamine, human 75 unt/ml pen injector [humalog mix]",insulin
+Short-acting insulin,Humalog,C3888221,3 ml insulin lispro 100 unt/ml pen injector [humalog],insulin
+Short-acting insulin,Humalog,C4026352,insulin lispro 200 unt/ml [humalog],insulin
+Short-acting insulin,Humalog,C4026353,insulin lispro pen injector [humalog],insulin
+Short-acting insulin,Humalog,C4026354,3 ml insulin lispro 200 unt/ml pen injector [humalog],insulin
+Short-acting insulin,Humalog,C4026491,insulin lispro cartridge [humalog],insulin
+Short-acting insulin,Humalog,C4026606,"insulin lispro / insulin lispro protamine, human pen injector [humalog mix]",insulin
+Short-acting insulin,Humalog,C4046244,humalog kwikpen (concentrated),humalog
+Short-acting insulin,Humalog,C4478046,0.5 unt doses 3 ml insulin lispro 100 unt/ml pen injector [humalog],insulin
+Short-acting insulin,Humalog,C4530768,humalog junior kwikpen,humalog
+Short-acting insulin,Humalog,C4555672,inpen grey (for humalog),humalog
+Short-acting insulin,Humalog,C4555674,inpen pink (for humalog),humalog
+Short-acting insulin,Humalog,C4556100,inpen blue (for humalog),humalog
+Short-acting insulin,Novolog,C0939412,novolog,novolog
+Short-acting insulin,Novolog,C1169537,"insulin aspart, human 100 unt/ml injectable solution [novolog]",insulin
+Short-acting insulin,Novolog,C1169967,"insulin aspart protamine, human 70 unt/ml / insulin aspart, human 30 unt/ml injectable suspension [novolog mix]",insulin
+Short-acting insulin,Novolog,C1170447,novolog mix 70/30,novolog
+Short-acting insulin,Novolog,C1254218,novolog penfill,novolog
+Short-acting insulin,Novolog,C1254219,"insulin aspart, human injectable solution [novolog]",insulin
+Short-acting insulin,Novolog,C1330431,novolog flexpen,novolog
+Short-acting insulin,Novolog,C1330435,novolog mix 70/30 penfill,novolog
+Short-acting insulin,Novolog,C1593394,"insulin aspart, human 100 unt/ml [novolog]",insulin
+Short-acting insulin,Novolog,C2343558,insulin diluting medium for novolog,insulin
+Short-acting insulin,Novolog,C2683547,"3 ml insulin aspart protamine, human 70 unt/ml / insulin aspart, human 30 unt/ml pen injector [novolog mix]",insulin
+Short-acting insulin,Novolog,C2683612,"3 ml insulin aspart, human 100 unt/ml cartridge [novolog]",insulin
+Short-acting insulin,Novolog,C2911829,"insulin aspart protamine, human 70 unt/ml / insulin aspart, human 30 unt/ml [novolog mix]",insulin
+Short-acting insulin,Novolog,C2911831,"insulin aspart protamine, human / insulin aspart, human injectable suspension [novolog mix]",insulin
+Short-acting insulin,Novolog,C3232035,novolog injectable product,novolog
+Short-acting insulin,Novolog,C3232036,novolog mix injectable product,novolog
+Short-acting insulin,Novolog,C3503635,"insulin aspart protamine, human 70 unt/ml / insulin aspart, human 30 unt/ml pen injector [novolog mix]",insulin
+Short-acting insulin,Novolog,C3538421,novolog mix,novolog
+Short-acting insulin,Novolog,C3859780,novolog flextouch,novolog
+Short-acting insulin,Novolog,C3888215,novolog mix 70/30 flexpen,novolog
+Short-acting insulin,Novolog,C3888227,"3 ml insulin aspart, human 100 unt/ml pen injector [novolog]",insulin
+Short-acting insulin,Novolog,C4026662,"insulin aspart, human cartridge [novolog]",insulin
+Short-acting insulin,Novolog,C4026666,"insulin aspart, human pen injector [novolog]",insulin
+Short-acting insulin,Novolog,C4026670,"insulin aspart protamine, human / insulin aspart, human pen injector [novolog mix]",insulin
+Short-acting insulin,Novolog,C4050945,"water 1 ml in 1 ml intravenous injection, solution [insulin diluting medium for novolog]",insulin
+Short-acting insulin,Novolog,C4555671,inpen blue (for novolog),novolog
+Short-acting insulin,Novolog,C4555673,inpen grey (for novolog),novolog
+Short-acting insulin,Novolog,C4555675,inpen pink (for novolog),novolog
+Short-acting insulin,Novolog,C5540128,novolog 100 unt/ml injectable solution includes cartridge,novolog
+Short-acting insulin,Novolog,C5550141,relion novolog,novolog
+Short-acting insulin,Novolog,C5550142,relion novolog flexpen,novolog
+Short-acting insulin,Novolog,C5550143,relion novolog mix 70/30,novolog
+Short-acting insulin,Novolog,C5550144,relion novolog mix 70/30 flexpen,novolog
+Short-acting insulin,Humulin,C0020171,humulin insulin,insulin
+Short-acting insulin,Humulin,C0020172,humulin s,humulin
+Short-acting insulin,Humulin,C0306367,humulin 70/30,humulin
+Short-acting insulin,Humulin,C0306368,humulin br,humulin
+Short-acting insulin,Humulin,C0306369,humulin l,humulin
+Short-acting insulin,Humulin,C0306370,humulin n,humulin
+Short-acting insulin,Humulin,C0306371,humulin r,humulin
+Short-acting insulin,Humulin,C0716500,"insulin isophane, human 70 unt/ml / insulin, regular, human 30 unt/ml injectable suspension [humulin]",insulin
+Short-acting insulin,Humulin,C0720901,humulin 50/50,humulin
+Short-acting insulin,Humulin,C0731466,humulin m1,humulin
+Short-acting insulin,Humulin,C0731467,humulin m2,humulin
+Short-acting insulin,Humulin,C0731468,humulin m3,humulin
+Short-acting insulin,Humulin,C0731469,humulin m4,humulin
+Short-acting insulin,Humulin,C0795636,humulin u ultralente,humulin
+Short-acting insulin,Humulin,C0977786,"insulin isophane, human 100 unt/ml injectable suspension [humulin n]",insulin
+Short-acting insulin,Humulin,C0977796,"insulin, regular, human 100 unt/ml injectable solution [humulin r]",insulin
+Short-acting insulin,Humulin,C1169459,"insulin, regular, human 500 unt/ml injectable solution [humulin r]",insulin
+Short-acting insulin,Humulin,C1169462,humulin n pen,humulin
+Short-acting insulin,Humulin,C1236539,"insulin, regular, human injectable solution [humulin r]",insulin
+Short-acting insulin,Humulin,C1239635,insulin isophane injectable suspension [humulin n],insulin
+Short-acting insulin,Humulin,C1239637,"insulin isophane / insulin, regular, human injectable suspension [humulin]",insulin
+Short-acting insulin,Humulin,C1592865,"insulin isophane, human 100 unt/ml [humulin n]",insulin
+Short-acting insulin,Humulin,C1592872,"insulin, regular, human 100 unt/ml [humulin r]",insulin
+Short-acting insulin,Humulin,C1593346,"insulin, regular, human 500 unt/ml [humulin r]",insulin
+Short-acting insulin,Humulin,C1607522,"insulin isophane, human 70 unt/ml / insulin, regular, human 30 unt/ml [humulin]",insulin
+Short-acting insulin,Humulin,C1948184,humulin 70/30 pen,humulin
+Short-acting insulin,Humulin,C1964395,humulin r (concentrated),humulin
+Short-acting insulin,Humulin,C2683543,"3 ml insulin isophane, human 70 unt/ml / insulin, regular, human 30 unt/ml pen injector [humulin]",insulin
+Short-acting insulin,Humulin,C2683552,"3 ml insulin isophane, human 100 unt/ml pen injector [humulin n]",insulin
+Short-acting insulin,Humulin,C2683621,"1.5 ml insulin isophane, human 100 unt/ml prefilled syringe [humulin n]",insulin
+Short-acting insulin,Humulin,C3226064,humulin injectable product,humulin
+Short-acting insulin,Humulin,C3226741,humulin n injectable product,humulin
+Short-acting insulin,Humulin,C3226742,humulin r injectable product,humulin
+Short-acting insulin,Humulin,C3503014,"insulin isophane, human 100 unt/ml prefilled syringe [humulin n]",insulin
+Short-acting insulin,Humulin,C3503015,"insulin isophane, human 70 unt/ml / insulin, regular, human 30 unt/ml prefilled syringe [humulin]",insulin
+Short-acting insulin,Humulin,C3538423,humulin,humulin
+Short-acting insulin,Humulin,C4027139,"insulin isophane / insulin, regular, human pen injector [humulin]",insulin
+Short-acting insulin,Humulin,C4027144,insulin isophane pen injector [humulin n],insulin
+Short-acting insulin,Humulin,C4073907,"3 ml insulin, regular, human 500 unt/ml pen injector [humulin r]",insulin
+Short-acting insulin,Humulin,C4074520,"insulin, regular, human pen injector [humulin r]",insulin
+Short-acting insulin,Humulin,C4084358,humulin r kwikpen (concentrated),humulin
+Short-acting insulin,Humulin,C4733410,humulin r insulin,insulin
+Short-acting insulin,Humulin,C5235180,humulin n kwikpen,humulin
+Intermediate-acting Insulin,Intermediate-acting insulin,C0304869,"intermediate-acting insulin, nos",insulin
+Intermediate-acting Insulin,intermediate-acting,C0304869,"intermediate-acting insulin, nos",insulin
+Intermediate-acting Insulin,NPH,C0069060,nph-peptide,NPH
+Intermediate-acting Insulin,NPH,C0256611,epc-nph,NPH
+Intermediate-acting Insulin,NPH,C0306467,insulatard nph,NPH
+Intermediate-acting Insulin,NPH,C0306468,insulatard nph human,NPH
+Intermediate-acting Insulin,NPH,C0306906,nph iletin i,NPH
+Intermediate-acting Insulin,NPH,C0306907,nph iletin ii,NPH
+Intermediate-acting Insulin,NPH,C0366512,insulin nph:mass:pt:dose:qn,insulin
+Intermediate-acting Insulin,NPH,C0721038,iletin nph,NPH
+Intermediate-acting Insulin,NPH,C1314587,"insulin, intermediate acting (nph or lente); 5 units",insulin
+Intermediate-acting Insulin,NPH,C1316004,influenza virus a+b ag:prthr:pt:nph:ord,NPH
+Intermediate-acting Insulin,NPH,C1369575,chlamydia trachomatis ag:prthr:pt:nph:ord,NPH
+Intermediate-acting Insulin,NPH,C1507585,herpes simplex virus identified:prid:pt:nph:nom:organism specific culture,NPH
+Intermediate-acting Insulin,NPH,C1507856,adenovirus ag:prthr:pt:nph:ord,NPH
+Intermediate-acting Insulin,NPH,C1507887,chlamydia sp rrna:prthr:pt:nph:ord:probe,NPH
+Intermediate-acting Insulin,NPH,C1508128,bordetella parapertussis ag:prthr:pt:nph:ord:if,NPH
+Intermediate-acting Insulin,NPH,C1508129,bordetella pertussis ag:prthr:pt:nph:ord:if,NPH
+Intermediate-acting Insulin,NPH,C1524723,parainfluenza virus 1 ag:prthr:pt:nph:ord:if,NPH
+Intermediate-acting Insulin,NPH,C1641060,bordetella parapertussis dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C1714585,bacteria identified:prid:pt:nph:nom:culture,NPH
+Intermediate-acting Insulin,NPH,C1714766,bacteria identified:prid:pt:nph:nom:aerobic culture,NPH
+Intermediate-acting Insulin,NPH,C1714986,adenovirus ag:prthr:pt:nph:ord:if,NPH
+Intermediate-acting Insulin,NPH,C1715184,bordetella parapertussis:prthr:pt:nph:ord:organism specific culture,NPH
+Intermediate-acting Insulin,NPH,C1715198,influenza virus b ag:prthr:pt:nph:ord,NPH
+Intermediate-acting Insulin,NPH,C1715214,bordetella pertussis dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C1715773,influenza virus a ag:prthr:pt:nph:ord:if,NPH
+Intermediate-acting Insulin,NPH,C1715841,influenza virus b ag:prthr:pt:nph:ord:if,NPH
+Intermediate-acting Insulin,NPH,C1716242,chlamydia trachomatis rrna:prthr:pt:nph:ord:probe,NPH
+Intermediate-acting Insulin,NPH,C1716243,chlamydia trachomatis dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C1716247,chlamydia trachomatis ag:prthr:pt:nph:ord:ia,NPH
+Intermediate-acting Insulin,NPH,C1716251,chlamydia trachomatis:prthr:pt:nph:ord:organism specific culture,NPH
+Intermediate-acting Insulin,NPH,C1716256,chlamydia sp identified:prid:pt:nph:nom:organism specific culture,NPH
+Intermediate-acting Insulin,NPH,C1716283,chlamydia sp ag:prthr:pt:nph:ord:if,NPH
+Intermediate-acting Insulin,NPH,C1716284,chlamydia sp ag:prthr:pt:nph:ord:ia,NPH
+Intermediate-acting Insulin,NPH,C1716403,bordetella bronchiseptica dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C1716512,influenza virus a ag:prthr:pt:nph:ord:ia,NPH
+Intermediate-acting Insulin,NPH,C1716513,influenza virus b ag:prthr:pt:nph:ord:ia,NPH
+Intermediate-acting Insulin,NPH,C1717286,influenza virus a ag:prthr:pt:nph:ord,NPH
+Intermediate-acting Insulin,NPH,C1717291,bordetella pertussis ag:prthr:pt:nph:ord,NPH
+Intermediate-acting Insulin,NPH,C1717394,chlamydia sp ag:prthr:pt:nph:ord,NPH
+Intermediate-acting Insulin,NPH,C1897134,adelges sp. b nph-2007,NPH
+Intermediate-acting Insulin,NPH,C1954370,bordetella pertussis:prthr:pt:nph:ord:organism specific culture,NPH
+Intermediate-acting Insulin,NPH,C2735573,neisseria gonorrhoeae dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C2735715,chlamydia trachomatis rrna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C2735716,neisseria gonorrhoeae rrna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C3261466,respiratory syncytial virus ag:prthr:pt:nph:ord:ia,NPH
+Intermediate-acting Insulin,NPH,C3533696,virus identified:prid:pt:nph:nom:culture,NPH
+Intermediate-acting Insulin,NPH,C3654241,adenovirus b+e dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C3654242,adenovirus c dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C3655038,respiratory syncytial virus ag:prthr:pt:nph:ord:ia.rapid,NPH
+Intermediate-acting Insulin,NPH,C3869945,respiratory syncytial virus rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C3869947,parainfluenza virus 4 rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C3869948,parainfluenza virus 3 rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C3869949,parainfluenza virus 2 rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C3869950,parainfluenza virus 1 rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C3869954,influenza virus b rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C3869956,influenza virus a rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C3869960,enterovirus rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C3869964,adenovirus dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4036942,parainfluenza virus 3 ag:prthr:pt:nph:ord:if,NPH
+Intermediate-acting Insulin,NPH,C4036943,parainfluenza virus 2 ag:prthr:pt:nph:ord:if,NPH
+Intermediate-acting Insulin,NPH,C4036944,respiratory syncytial virus ag:prthr:pt:nph:ord:if,NPH
+Intermediate-acting Insulin,NPH,C4037259,respiratory pathogens dna & rna 14 panel:-:pt:nph:-:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4037260,influenza virus a h1 2009 pandemic rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4037261,influenza virus a h3 rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4037262,influenza virus a h1 rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4037263,rhinovirus rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4037264,human metapneumovirus rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4037273,human coronavirus 229e+oc43 rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4037659,respiratory syncytial virus b rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4037660,respiratory syncytial virus a rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4037855,respiratory pathogens dna & rna 4 panel:-:pt:nph:-:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4069483,influenza virus a & b identified:prid:pt:nph:nom:shell vial culture,NPH
+Intermediate-acting Insulin,NPH,C4070603,respiratory pathogens dna & rna panel:-:pt:nph:-:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4070604,bordetella pertussis & bordetella parapertussis panel:-:pt:nph:-,NPH
+Intermediate-acting Insulin,NPH,C4264643,influenza virus a m gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264743,bordetella pertussis.pertussis toxin promoter region:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264744,chlamydophila pneumoniae dna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264745,mycoplasma pneumoniae dna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264746,respiratory syncytial virus rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264747,rhinovirus+enterovirus rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264748,parainfluenza virus 4 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264749,parainfluenza virus 3 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264750,parainfluenza virus 2 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264751,parainfluenza virus 1 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264752,influenza virus b rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264753,influenza virus a h3 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264754,influenza virus a h1 2009 pandemic rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264755,influenza virus a h1 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264756,influenza virus a rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264757,human coronavirus nl63 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264758,human coronavirus hku1 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264759,adenovirus dna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4264760,respiratory pathogens dna & rna panel:-:pt:nph:-:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4265421,human metapneumovirus rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4265422,human coronavirus oc43 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4265423,human coronavirus 229e rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266110,respiratory pathogens identified:type:pt:nph:nom:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266111,bordetella pertussis+parapertussis+bronchiseptica gida gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266112,bordetella pertussis.pertussis toxin promoter region:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266113,bordetella holmesii fumc gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266114,respiratory syncytial virus b f gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266115,respiratory syncytial virus a 5' utr rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266116,rhinovirus 5' utr rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266117,parainfluenza virus 4 p gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266118,parainfluenza virus 3 np gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266119,parainfluenza virus 2 l gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266120,parainfluenza virus 1 f gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266121,influenza virus b ns gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266122,influenza virus a h3 ha gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266123,influenza virus a h1 ha gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266124,human metapneumovirus a+b l+n genes:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4266125,adenovirus hexon gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4482793,bordetella pertussis+bronchiseptica+holmesii is481 dna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4532917,bordetella parapertussis is1001 dna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4533028,middle east respiratory syndrome coronavirus rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4533531,respiratory pathogens panel:-:pt:nph:-:if,NPH
+Intermediate-acting Insulin,NPH,C4533543,microscopic observation:prid:pt:nph:nom:gram stain,NPH
+Intermediate-acting Insulin,NPH,C4533623,human metapneumovirus ag:prthr:pt:nph:ord:if,NPH
+Intermediate-acting Insulin,NPH,C4695256,bordetella sp identified:prid:pt:nph:nom:organism specific culture,NPH
+Intermediate-acting Insulin,NPH,C4695257,bordetella sp dna:prid:pt:nph:nom:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4695265,adenovirus a+b+c+d+e+f dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4695722,bordetella holmesii his1001 dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4695745,adenovirus ag:prthr:pt:nph:ord:ia,NPH
+Intermediate-acting Insulin,NPH,C4695839,chlamydophila pneumoniae dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4695840,human coronavirus 229e+hku1+nl63+oc43 rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4695842,mycoplasma pneumoniae dna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4695843,rhinovirus+enterovirus rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4696149,middle east respiratory syndrome coronavirus rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4696150,parainfluenza virus 1+2+3+4 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4696152,human coronavirus 229e+hku1+nl63+oc43 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4738913,chlamydia trachomatis & neisseria gonorrhoeae rrna panel:-:pt:nph:-:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C4739210,bordetella pertussis & bordetella parapertussis dna panel:-:pt:nph:-,NPH
+Intermediate-acting Insulin,NPH,C5056238,adelges nr. japonicus nph-2018,NPH
+Intermediate-acting Insulin,NPH,C5381381,sars coronavirus 2 rna:prthr:pt:nph:ord:non-probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C5381521,sars coronavirus 2 rna:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C5381522,sars coronavirus 2 n gene:prthr:pt:nph:ord:probe.amp.tar,NPH
+Intermediate-acting Insulin,NPH,C5493480,lestodiplosis sp. 1 nph-2020,NPH
+Basal,long-acting,C0304870,"insulin, long-acting",insulin
+Basal,long-acting,C1450894,"insulin, long-acting, beef",insulin
+Basal,long-acting,C1450895,"insulin, long-acting, human",insulin
+Basal,detemir,C0537270,insulin detemir,insulin
+Basal,detemir,C1532971,insulin detemir 100 unt/ml injectable solution,insulin
+Basal,detemir,C1657675,insulin detemir 100 unt/ml,insulin
+Basal,detemir,C1658880,insulin detemir injectable solution,insulin
+Basal,detemir,C1693555,insulin detemir 100 unt/ml injectable solution [levemir],insulin
+Basal,detemir,C1702411,insulin detemir injectable solution [levemir],insulin
+Basal,detemir,C1703413,insulin detemir 100 unt/ml [levemir],insulin
+Basal,detemir,C1815806,"insulin,detemir,human",insulin
+Basal,detemir,C2683592,3 ml insulin detemir 100 unt/ml pen injector [levemir],insulin
+Basal,detemir,C3215056,insulin detemir injectable product,insulin
+Basal,detemir,C3501839,insulin detemir 100 unt/ml pen injector,insulin
+Basal,detemir,C3503424,insulin detemir 100 unt/ml pen injector [levemir],insulin
+Basal,detemir,C3888224,3 ml insulin detemir 100 unt/ml pen injector,insulin
+Basal,detemir,C4027001,insulin detemir pen injector,insulin
+Basal,detemir,C4027002,insulin detemir pen injector [levemir],insulin
+Basal,detemir,C4055826,insulin detemir 100 unt/ml includes injectable solution & pen injector,insulin
+Basal,detemir,C4753607,insulin detemir only product,insulin
+Basal,detemir,C5222451,insulin detemir injection,insulin
+Basal,glargine,C0907402,insulin glargine,insulin
+Basal,glargine,C0939651,insulin glargine 100 unt/ml injectable solution [lantus],insulin
+Basal,glargine,C0977804,insulin glargine 100 unt/ml injectable solution,insulin
+Basal,glargine,C1145970,insulin glargine 100 unt/ml,insulin
+Basal,glargine,C1236501,insulin glargine injectable solution [lantus],insulin
+Basal,glargine,C1253225,insulin glargine injectable solution,insulin
+Basal,glargine,C1592792,insulin glargine 100 unt/ml [lantus],insulin
+Basal,glargine,C2683584,3 ml insulin glargine 100 unt/ml pen injector [lantus],insulin
+Basal,glargine,C3211882,insulin glargine injectable product,insulin
+Basal,glargine,C3503457,insulin glargine 100 unt/ml pen injector,insulin
+Basal,glargine,C3503458,insulin glargine 100 unt/ml pen injector [lantus],insulin
+Basal,glargine,C3888222,3 ml insulin glargine 100 unt/ml pen injector,insulin
+Basal,glargine,C3892071,1.5 ml insulin glargine 300 unt/ml pen injector [toujeo],insulin
+Basal,glargine,C3892930,1.5 ml insulin glargine 300 unt/ml pen injector,insulin
+Basal,glargine,C3893029,insulin glargine 300 unt/ml [toujeo],insulin
+Basal,glargine,C3893130,insulin glargine 300 unt/ml,insulin
+Basal,glargine,C4018150,insulin glargine 300 units/ml subcutaneous solution,insulin
+Basal,glargine,C4026763,insulin glargine pen injector,insulin
+Basal,glargine,C4026764,insulin glargine pen injector [lantus],insulin
+Basal,glargine,C4026766,insulin glargine pen injector [toujeo],insulin
+Basal,glargine,C4073423,3 ml insulin glargine 100 unt/ml pen injector [basaglar],insulin
+Basal,glargine,C4081043,insulin glargine 100 unt/ml [basaglar],insulin
+Basal,glargine,C4081044,insulin glargine pen injector [basaglar],insulin
+Basal,glargine,C4277251,ly2963016 insulin glargine,insulin
+Basal,glargine,C4292822,3 ml insulin glargine 100 unt/ml / lixisenatide 0.033 mg/ml pen injector [soliqua],insulin
+Basal,glargine,C4293375,insulin glargine / lixisenatide,insulin
+Basal,glargine,C4293382,3 ml insulin glargine 100 unt/ml / lixisenatide 0.033 mg/ml pen injector,insulin
+Basal,glargine,C4293405,insulin glargine 100 unt/ml / lixisenatide 0.033 mg/ml [soliqua],insulin
+Basal,glargine,C4293447,insulin glargine / lixisenatide pen injector [soliqua],insulin
+Basal,glargine,C4293577,insulin glargine / lixisenatide pen injector,insulin
+Basal,glargine,C4293608,insulin glargine / lixisenatide injectable product,insulin
+Basal,glargine,C4688827,3 ml insulin glargine 300 unt/ml pen injector,insulin
+Basal,glargine,C4688828,3 ml insulin glargine 300 unt/ml pen injector [toujeo],insulin
+Basal,glargine,C4753608,insulin glargine only product,insulin
+Basal,glargine,C4756691,insulin glargine only product in parenteral dose form,insulin
+Basal,glargine,C5222452,insulin glargine injection,insulin
+Basal,glargine,C5228171,sensor 3 ml insulin glargine 100 unt/ml pen injector [basaglar],insulin
+Basal,glargine,C5228611,sensor 3 ml insulin glargine 100 unt/ml pen injector,insulin
+Basal,glargine,C5241352,3 ml insulin glargine 100 unt/ml pen injector [semglee],insulin
+Basal,glargine,C5241353,insulin glargine 100 unt/ml injectable solution [semglee],insulin
+Basal,glargine,C5390980,insulin glargine 100 unt/ml [semglee],insulin
+Basal,glargine,C5391018,insulin glargine injectable solution [semglee],insulin
+Basal,glargine,C5391019,insulin glargine pen injector [semglee],insulin
+Basal,glargine,C5550111,insulin glargine-yfgn 100 unt/ml injectable solution [semglee],insulin
+Basal,glargine,C5550535,3 ml insulin glargine-yfgn 100 unt/ml pen injector,insulin
+Basal,glargine,C5550536,insulin glargine-yfgn 100 unt/ml injectable solution,insulin
+Basal,glargine,C5550555,insulin glargine-yfgn,insulin
+Basal,glargine,C5550594,3 ml insulin glargine-yfgn 100 unt/ml pen injector [semglee],insulin
+Basal,glargine,C5550611,insulin glargine-yfgn 100 unt/ml [semglee],insulin
+Basal,glargine,C5550690,insulin glargine-yfgn 100 unt/ml,insulin
+Basal,glargine,C5558657,"insulin glargine, yfgn 100 units/ml subcutaneous solution",insulin
+Basal,glargine,C5564171,insulin glargine-aglr,insulin
+Basal,glargine,C5564172,insulin glargine-aglr 100 unt/ml,insulin
+Basal,glargine,C5564173,3 ml insulin glargine-aglr 100 unt/ml pen injector,insulin
+Basal,glargine,C5564176,insulin glargine-aglr 100 unt/ml [rezvoglar],insulin
+Basal,glargine,C5564178,insulin glargine pen injector [rezvoglar],insulin
+Basal,glargine,C5564179,3 ml insulin glargine-aglr 100 unt/ml pen injector [rezvoglar],insulin
+Basal,glargine,C5574971,insulin glargine 100 unt/ml includes injectable solution & prefilled pen,insulin
+Basal,glargine,C5576884,insulin glargine 9 [hp_x] in 29.5 ml oral liquid [insulin 1556],insulin
+Basal,glargine,C5673381,insulin glargine solostar pen,insulin
+Basal,Levemir,C1314782,levemir,levemir
+Basal,Levemir,C1651020,levemir flexpen,levemir
+Basal,Levemir,C1658848,levemir penfill,levemir
+Basal,Levemir,C1660494,levemir innolet,levemir
+Basal,Levemir,C1693555,insulin detemir 100 unt/ml injectable solution [levemir],insulin
+Basal,Levemir,C1702411,insulin detemir injectable solution [levemir],insulin
+Basal,Levemir,C1703413,insulin detemir 100 unt/ml [levemir],insulin
+Basal,Levemir,C2683592,3 ml insulin detemir 100 unt/ml pen injector [levemir],insulin
+Basal,Levemir,C3222105,levemir injectable product,levemir
+Basal,Levemir,C3503424,insulin detemir 100 unt/ml pen injector [levemir],insulin
+Basal,Levemir,C3833588,levemir flextouch,levemir
+Basal,Levemir,C4027002,insulin detemir pen injector [levemir],insulin
+Basal,Lantus,C0876064,lantus,lantus
+Basal,Lantus,C0939651,insulin glargine 100 unt/ml injectable solution [lantus],insulin
+Basal,Lantus,C1236501,insulin glargine injectable solution [lantus],insulin
+Basal,Lantus,C1592792,insulin glargine 100 unt/ml [lantus],insulin
+Basal,Lantus,C1655346,lantus opticlik cartridge,lantus
+Basal,Lantus,C1962462,lantus solostar pen,lantus
+Basal,Lantus,C2683584,3 ml insulin glargine 100 unt/ml pen injector [lantus],insulin
+Basal,Lantus,C3229603,lantus injectable product,lantus
+Basal,Lantus,C3503458,insulin glargine 100 unt/ml pen injector [lantus],insulin
+Basal,Lantus,C4026764,insulin glargine pen injector [lantus],insulin
+Basal,Lantus,C4055825,lantus 100 unt/ml includes injectable solution & pen injector,lantus
+Basal,Basaglar,C4073423,3 ml insulin glargine 100 unt/ml pen injector [basaglar],insulin
+Basal,Basaglar,C4081008,basaglar kwikpen,basaglar
+Basal,Basaglar,C4081042,basaglar,basaglar
+Basal,Basaglar,C4081043,insulin glargine 100 unt/ml [basaglar],insulin
+Basal,Basaglar,C4081044,insulin glargine pen injector [basaglar],insulin
+Basal,Basaglar,C4081045,basaglar injectable product,basaglar
+Basal,Basaglar,C5228171,sensor 3 ml insulin glargine 100 unt/ml pen injector [basaglar],insulin
